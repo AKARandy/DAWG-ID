@@ -1,16 +1,52 @@
-# React + Vite
+# DAWG-ID Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Dynamic Assessment of Weakness and Growth — Indonesia (DAWG-ID)**
 
-Currently, two official plugins are available:
+Aplikasi web portal interaktif untuk memvisualisasikan Macro Shock Vulnerability Index dari 38 provinsi di Indonesia terhadap konvergensi guncangan global tahun 2026.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Portal ini menyatukan deliverables proyek termasuk:
+- Interactive Dashboard (Peta Choropleth & Statistik)
+- Vulnerability Index Dataset
+- AI-Generated Policy Briefs (Tahap Pengembangan)
+- Laporan Teknis Metodologi
 
-## React Compiler
+## 🚀 Prasyarat Sistem
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Sebelum menjalankan aplikasi ini, pastikan sistem Anda telah menginstal:
+- **Node.js** (Versi 20.x atau yang direkomendasikan)
+- **NPM** (Biasanya sudah terpasang bersama Node.js)
 
-## Expanding the ESLint configuration
+## 🛠️ Cara Instalasi
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Buka terminal atau command prompt.
+2. Arahkan direktori (cd) ke folder `dawg-id-portal`.
+   ```bash
+   cd "c:\Users\LENOVO\Downloads\project_hormuz\project hormuz\dawg-id-portal"
+   ```
+3. Install semua dependensi yang dibutuhkan:
+   ```bash
+   npm install
+   ```
+
+## ▶️ Cara Menjalankan Aplikasi
+
+1. Setelah instalasi selesai, jalankan perintah berikut di terminal:
+   ```bash
+   npm run dev
+   ```
+2. Terminal akan menampilkan URL lokal (biasanya `http://localhost:5173/`).
+3. Buka URL tersebut di browser web Anda (Chrome/Firefox/Edge) untuk melihat aplikasi.
+
+## 🛑 Cara Menghentikan Aplikasi
+
+- Pada terminal yang sedang menjalankan aplikasi, tekan **`Ctrl + C`**.
+- Jika ditanya `Terminate batch job (Y/N)?`, ketik `Y` lalu tekan Enter.
+
+## 📂 Struktur Folder Utama
+
+- `src/` - Berisi semua kode sumber (React components, routing, dll)
+  - `pages/` - Halaman utama (Home, Dashboard, Dataset, PolicyBriefs, Report)
+  - `data/` - Dataset vulnerability index yang sudah di-compile
+  - `index.css` - Styling aplikasi (Dark Analytics Theme)
+- `public/` - Aset statis yang dapat diakses langsung (GeoJSON map, peta HTML)
+- `package.json` - Konfigurasi project dan dependensi (Vite + React)
