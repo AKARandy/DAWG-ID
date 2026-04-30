@@ -124,7 +124,7 @@ export default function Dashboard() {
         </div>
         <div className="map-container">
           <iframe
-            src="/vulnerability_map.html"
+            src={`${import.meta.env.BASE_URL}vulnerability_map.html`}
             title="Indonesia Vulnerability Map"
             style={{ width: '100%', height: '100%', border: 'none' }}
           />
