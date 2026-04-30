@@ -1,0 +1,3150 @@
+province_code,province,area_type,year,period,value
+1100,ACEH,Perkotaan,2007,Tahunan,3.86
+1100,ACEH,Perkotaan,2008,Tahunan,3.55
+1100,ACEH,Perdesaan,2007,Tahunan,6.04
+1100,ACEH,Perdesaan,2008,Tahunan,5.47
+1100,ACEH,Perkotaan+Perdesaan,2007,Tahunan,5.41
+1100,ACEH,Perkotaan+Perdesaan,2008,Tahunan,4.92
+1200,SUMATERA UTARA,Perkotaan,2007,Tahunan,2.34
+1200,SUMATERA UTARA,Perkotaan,2008,Tahunan,2.08
+1200,SUMATERA UTARA,Perdesaan,2007,Tahunan,2.01
+1200,SUMATERA UTARA,Perdesaan,2008,Tahunan,2.25
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2007,Tahunan,2.17
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2008,Tahunan,2.17
+1300,SUMATERA BARAT,Perkotaan,2007,Tahunan,1.35
+1300,SUMATERA BARAT,Perkotaan,2008,Tahunan,1.46
+1300,SUMATERA BARAT,Perdesaan,2007,Tahunan,2.1
+1300,SUMATERA BARAT,Perdesaan,2008,Tahunan,1.68
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2007,Tahunan,1.84
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2008,Tahunan,1.6
+1400,RIAU,Perkotaan,2007,Tahunan,2.02
+1400,RIAU,Perkotaan,2008,Tahunan,1.42
+1400,RIAU,Perdesaan,2007,Tahunan,2.35
+1400,RIAU,Perdesaan,2008,Tahunan,1.84
+1400,RIAU,Perkotaan+Perdesaan,2007,Tahunan,2.18
+1400,RIAU,Perkotaan+Perdesaan,2008,Tahunan,1.63
+1500,JAMBI,Perkotaan,2007,Tahunan,3.08
+1500,JAMBI,Perkotaan,2008,Tahunan,2.74
+1500,JAMBI,Perdesaan,2007,Tahunan,1.31
+1500,JAMBI,Perdesaan,2008,Tahunan,0.99
+1500,JAMBI,Perkotaan+Perdesaan,2007,Tahunan,1.88
+1500,JAMBI,Perkotaan+Perdesaan,2008,Tahunan,1.56
+1600,SUMATERA SELATAN,Perkotaan,2007,Tahunan,4.92
+1600,SUMATERA SELATAN,Perkotaan,2008,Tahunan,3.82
+1600,SUMATERA SELATAN,Perdesaan,2007,Tahunan,3.16
+1600,SUMATERA SELATAN,Perdesaan,2008,Tahunan,2.73
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2007,Tahunan,3.84
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2008,Tahunan,3.15
+1700,BENGKULU,Perkotaan,2007,Tahunan,4.45
+1700,BENGKULU,Perkotaan,2008,Tahunan,4.3
+1700,BENGKULU,Perdesaan,2007,Tahunan,3.81
+1700,BENGKULU,Perdesaan,2008,Tahunan,3.43
+1700,BENGKULU,Perkotaan+Perdesaan,2007,Tahunan,4.03
+1700,BENGKULU,Perkotaan+Perdesaan,2008,Tahunan,3.74
+1800,LAMPUNG,Perkotaan,2007,Tahunan,3.23
+1800,LAMPUNG,Perkotaan,2008,Tahunan,3.79
+1800,LAMPUNG,Perdesaan,2007,Tahunan,4.2
+1800,LAMPUNG,Perdesaan,2008,Tahunan,3.84
+1800,LAMPUNG,Perkotaan+Perdesaan,2007,Tahunan,3.94
+1800,LAMPUNG,Perkotaan+Perdesaan,2008,Tahunan,3.83
+1900,KEP. BANGKA BELITUNG,Perkotaan,2007,Tahunan,1.25
+1900,KEP. BANGKA BELITUNG,Perkotaan,2008,Tahunan,1.15
+1900,KEP. BANGKA BELITUNG,Perdesaan,2007,Tahunan,2.08
+1900,KEP. BANGKA BELITUNG,Perdesaan,2008,Tahunan,1.4
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2007,Tahunan,1.68
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2008,Tahunan,1.28
+2100,KEP. RIAU,Perkotaan,2007,Tahunan,2.33
+2100,KEP. RIAU,Perkotaan,2008,Tahunan,1.88
+2100,KEP. RIAU,Perdesaan,2007,Tahunan,1.42
+2100,KEP. RIAU,Perdesaan,2008,Tahunan,2.29
+2100,KEP. RIAU,Perkotaan+Perdesaan,2007,Tahunan,1.9
+2100,KEP. RIAU,Perkotaan+Perdesaan,2008,Tahunan,2.07
+3100,DKI JAKARTA,Perkotaan,2007,Tahunan,0.59
+3100,DKI JAKARTA,Perkotaan,2008,Tahunan,0.72
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2007,Tahunan,0.59
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2008,Tahunan,0.72
+3200,JAWA BARAT,Perkotaan,2007,Tahunan,1.93
+3200,JAWA BARAT,Perkotaan,2008,Tahunan,1.78
+3200,JAWA BARAT,Perdesaan,2007,Tahunan,2.74
+3200,JAWA BARAT,Perdesaan,2008,Tahunan,2.72
+3200,JAWA BARAT,Perkotaan+Perdesaan,2007,Tahunan,2.26
+3200,JAWA BARAT,Perkotaan+Perdesaan,2008,Tahunan,2.17
+3300,JAWA TENGAH,Perkotaan,2007,Tahunan,3.33
+3300,JAWA TENGAH,Perkotaan,2008,Tahunan,2.97
+3300,JAWA TENGAH,Perdesaan,2007,Tahunan,4.32
+3300,JAWA TENGAH,Perdesaan,2008,Tahunan,3.78
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2007,Tahunan,3.84
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2008,Tahunan,3.39
+3400,DI YOGYAKARTA,Perkotaan,2007,Tahunan,3.08
+3400,DI YOGYAKARTA,Perkotaan,2008,Tahunan,2.72
+3400,DI YOGYAKARTA,Perdesaan,2007,Tahunan,5.08
+3400,DI YOGYAKARTA,Perdesaan,2008,Tahunan,4.49
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2007,Tahunan,3.8
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2008,Tahunan,3.35
+3500,JAWA TIMUR,Perkotaan,2007,Tahunan,2.76
+3500,JAWA TIMUR,Perkotaan,2008,Tahunan,2.34
+3500,JAWA TIMUR,Perdesaan,2007,Tahunan,5.01
+3500,JAWA TIMUR,Perdesaan,2008,Tahunan,4.38
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2007,Tahunan,3.91
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2008,Tahunan,3.38
+3600,BANTEN,Perkotaan,2007,Tahunan,1.09
+3600,BANTEN,Perkotaan,2008,Tahunan,1.04
+3600,BANTEN,Perdesaan,2007,Tahunan,1.86
+3600,BANTEN,Perdesaan,2008,Tahunan,1.25
+3600,BANTEN,Perkotaan+Perdesaan,2007,Tahunan,1.4
+3600,BANTEN,Perkotaan+Perdesaan,2008,Tahunan,1.12
+5100,BALI,Perkotaan,2007,Tahunan,0.98
+5100,BALI,Perkotaan,2008,Tahunan,0.74
+5100,BALI,Perdesaan,2007,Tahunan,0.87
+5100,BALI,Perdesaan,2008,Tahunan,0.98
+5100,BALI,Perkotaan+Perdesaan,2007,Tahunan,0.94
+5100,BALI,Perkotaan+Perdesaan,2008,Tahunan,0.84
+5200,NUSA TENGGARA BARAT,Perkotaan,2007,Tahunan,6.85
+5200,NUSA TENGGARA BARAT,Perkotaan,2008,Tahunan,5.99
+5200,NUSA TENGGARA BARAT,Perdesaan,2007,Tahunan,3.89
+5200,NUSA TENGGARA BARAT,Perdesaan,2008,Tahunan,3.41
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2007,Tahunan,5.13
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2008,Tahunan,4.49
+5300,NUSA TENGGARA TIMUR,Perkotaan,2007,Tahunan,3.89
+5300,NUSA TENGGARA TIMUR,Perkotaan,2008,Tahunan,3.14
+5300,NUSA TENGGARA TIMUR,Perdesaan,2007,Tahunan,5.08
+5300,NUSA TENGGARA TIMUR,Perdesaan,2008,Tahunan,5.25
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2007,Tahunan,4.87
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2008,Tahunan,4.87
+6100,KALIMANTAN BARAT,Perkotaan,2007,Tahunan,2.0
+6100,KALIMANTAN BARAT,Perkotaan,2008,Tahunan,1.84
+6100,KALIMANTAN BARAT,Perdesaan,2007,Tahunan,1.7
+6100,KALIMANTAN BARAT,Perdesaan,2008,Tahunan,1.59
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2007,Tahunan,1.79
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2008,Tahunan,1.66
+6200,KALIMANTAN TENGAH,Perkotaan,2007,Tahunan,0.98
+6200,KALIMANTAN TENGAH,Perkotaan,2008,Tahunan,0.9
+6200,KALIMANTAN TENGAH,Perdesaan,2007,Tahunan,2.04
+6200,KALIMANTAN TENGAH,Perdesaan,2008,Tahunan,1.76
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2007,Tahunan,1.68
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2008,Tahunan,1.47
+6300,KALIMANTAN SELATAN,Perkotaan,2007,Tahunan,0.7
+6300,KALIMANTAN SELATAN,Perkotaan,2008,Tahunan,0.75
+6300,KALIMANTAN SELATAN,Perdesaan,2007,Tahunan,0.89
+6300,KALIMANTAN SELATAN,Perdesaan,2008,Tahunan,1.23
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2007,Tahunan,0.81
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2008,Tahunan,1.03
+6400,KALIMANTAN TIMUR,Perkotaan,2007,Tahunan,1.17
+6400,KALIMANTAN TIMUR,Perkotaan,2008,Tahunan,1.01
+6400,KALIMANTAN TIMUR,Perdesaan,2007,Tahunan,2.86
+6400,KALIMANTAN TIMUR,Perdesaan,2008,Tahunan,2.6
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2007,Tahunan,1.81
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2008,Tahunan,1.61
+7100,SULAWESI UTARA,Perkotaan,2007,Tahunan,1.3
+7100,SULAWESI UTARA,Perkotaan,2008,Tahunan,1.08
+7100,SULAWESI UTARA,Perdesaan,2007,Tahunan,2.33
+7100,SULAWESI UTARA,Perdesaan,2008,Tahunan,1.87
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2007,Tahunan,1.88
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2008,Tahunan,1.53
+7200,SULAWESI TENGAH,Perkotaan,2007,Tahunan,2.14
+7200,SULAWESI TENGAH,Perkotaan,2008,Tahunan,2.22
+7200,SULAWESI TENGAH,Perdesaan,2007,Tahunan,5.08
+7200,SULAWESI TENGAH,Perdesaan,2008,Tahunan,4.89
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2007,Tahunan,4.46
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2008,Tahunan,4.33
+7300,SULAWESI SELATAN,Perkotaan,2007,Tahunan,0.91
+7300,SULAWESI SELATAN,Perkotaan,2008,Tahunan,1.2
+7300,SULAWESI SELATAN,Perdesaan,2007,Tahunan,3.4
+7300,SULAWESI SELATAN,Perdesaan,2008,Tahunan,3.03
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2007,Tahunan,2.6
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2008,Tahunan,2.44
+7400,SULAWESI TENGGARA,Perkotaan,2007,Tahunan,0.78
+7400,SULAWESI TENGGARA,Perkotaan,2008,Tahunan,0.82
+7400,SULAWESI TENGGARA,Perdesaan,2007,Tahunan,5.39
+7400,SULAWESI TENGGARA,Perdesaan,2008,Tahunan,4.61
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2007,Tahunan,4.33
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2008,Tahunan,3.74
+7500,GORONTALO,Perkotaan,2007,Tahunan,1.82
+7500,GORONTALO,Perkotaan,2008,Tahunan,1.33
+7500,GORONTALO,Perdesaan,2007,Tahunan,7.27
+7500,GORONTALO,Perdesaan,2008,Tahunan,6.08
+7500,GORONTALO,Perkotaan+Perdesaan,2007,Tahunan,5.57
+7500,GORONTALO,Perkotaan+Perdesaan,2008,Tahunan,4.59
+7600,SULAWESI BARAT,Perkotaan,2007,Tahunan,1.73
+7600,SULAWESI BARAT,Perkotaan,2008,Tahunan,2.38
+7600,SULAWESI BARAT,Perdesaan,2007,Tahunan,3.02
+7600,SULAWESI BARAT,Perdesaan,2008,Tahunan,2.75
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2007,Tahunan,2.59
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2008,Tahunan,2.63
+8100,MALUKU,Perkotaan,2007,Tahunan,2.38
+8100,MALUKU,Perkotaan,2008,Tahunan,1.7
+8100,MALUKU,Perdesaan,2007,Tahunan,7.79
+8100,MALUKU,Perdesaan,2008,Tahunan,7.37
+8100,MALUKU,Perkotaan+Perdesaan,2007,Tahunan,6.38
+8100,MALUKU,Perkotaan+Perdesaan,2008,Tahunan,5.89
+8200,MALUKU UTARA,Perkotaan,2007,Tahunan,1.25
+8200,MALUKU UTARA,Perkotaan,2008,Tahunan,0.4
+8200,MALUKU UTARA,Perdesaan,2007,Tahunan,2.64
+8200,MALUKU UTARA,Perdesaan,2008,Tahunan,2.18
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2007,Tahunan,2.23
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2008,Tahunan,1.65
+9100,PAPUA BARAT,Perkotaan,2007,Tahunan,0.73
+9100,PAPUA BARAT,Perkotaan,2008,Tahunan,0.73
+9100,PAPUA BARAT,Perdesaan,2007,Tahunan,16.58
+9100,PAPUA BARAT,Perdesaan,2008,Tahunan,11.67
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2007,Tahunan,12.97
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2008,Tahunan,9.18
+9400,PAPUA,Perkotaan,2007,Tahunan,1.25
+9400,PAPUA,Perkotaan,2008,Tahunan,1.73
+9400,PAPUA,Perdesaan,2007,Tahunan,13.67
+9400,PAPUA,Perdesaan,2008,Tahunan,13.6
+9400,PAPUA,Perkotaan+Perdesaan,2007,Tahunan,10.84
+9400,PAPUA,Perkotaan+Perdesaan,2008,Tahunan,10.89
+9999,INDONESIA,Perkotaan,2007,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2007,Semester 2 (September),1.29
+9999,INDONESIA,Perkotaan,2007,Tahunan,2.15
+9999,INDONESIA,Perkotaan,2008,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2008,Semester 2 (September),1.29
+9999,INDONESIA,Perkotaan,2008,Tahunan,2.07
+9999,INDONESIA,Perdesaan,2007,Semester 1 (Maret),2.55
+9999,INDONESIA,Perdesaan,2007,Semester 2 (September),2.4
+9999,INDONESIA,Perdesaan,2007,Tahunan,3.78
+9999,INDONESIA,Perdesaan,2008,Semester 1 (Maret),2.55
+9999,INDONESIA,Perdesaan,2008,Semester 2 (September),2.4
+9999,INDONESIA,Perdesaan,2008,Tahunan,3.42
+9999,INDONESIA,Perkotaan+Perdesaan,2007,Semester 1 (Maret),1.97
+9999,INDONESIA,Perkotaan+Perdesaan,2007,Semester 2 (September),1.84
+9999,INDONESIA,Perkotaan+Perdesaan,2007,Tahunan,2.99
+9999,INDONESIA,Perkotaan+Perdesaan,2008,Semester 1 (Maret),1.97
+9999,INDONESIA,Perkotaan+Perdesaan,2008,Semester 2 (September),1.84
+9999,INDONESIA,Perkotaan+Perdesaan,2008,Tahunan,2.77
+1100,ACEH,Perkotaan,2009,Tahunan,3.45
+1100,ACEH,Perkotaan,2010,Tahunan,2.83
+1100,ACEH,Perdesaan,2009,Tahunan,4.87
+1100,ACEH,Perdesaan,2010,Tahunan,4.63
+1100,ACEH,Perkotaan+Perdesaan,2009,Tahunan,4.46
+1100,ACEH,Perkotaan+Perdesaan,2010,Tahunan,4.11
+1200,SUMATERA UTARA,Perkotaan,2009,Tahunan,1.86
+1200,SUMATERA UTARA,Perkotaan,2010,Tahunan,2.01
+1200,SUMATERA UTARA,Perdesaan,2009,Tahunan,1.97
+1200,SUMATERA UTARA,Perdesaan,2010,Tahunan,2.07
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2009,Tahunan,1.92
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2010,Tahunan,2.04
+1300,SUMATERA BARAT,Perkotaan,2009,Tahunan,1.24
+1300,SUMATERA BARAT,Perkotaan,2010,Tahunan,1.16
+1300,SUMATERA BARAT,Perdesaan,2009,Tahunan,1.49
+1300,SUMATERA BARAT,Perdesaan,2010,Tahunan,1.67
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2009,Tahunan,1.41
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2010,Tahunan,1.49
+1400,RIAU,Perkotaan,2009,Tahunan,0.95
+1400,RIAU,Perkotaan,2010,Tahunan,0.88
+1400,RIAU,Perdesaan,2009,Tahunan,1.55
+1400,RIAU,Perdesaan,2010,Tahunan,1.89
+1400,RIAU,Perkotaan+Perdesaan,2009,Tahunan,1.25
+1400,RIAU,Perkotaan+Perdesaan,2010,Tahunan,1.38
+1500,JAMBI,Perkotaan,2009,Tahunan,2.31
+1500,JAMBI,Perkotaan,2010,Tahunan,1.62
+1500,JAMBI,Perdesaan,2009,Tahunan,0.94
+1500,JAMBI,Perdesaan,2010,Tahunan,0.78
+1500,JAMBI,Perkotaan+Perdesaan,2009,Tahunan,1.38
+1500,JAMBI,Perkotaan+Perdesaan,2010,Tahunan,1.05
+1600,SUMATERA SELATAN,Perkotaan,2009,Tahunan,3.68
+1600,SUMATERA SELATAN,Perkotaan,2010,Tahunan,2.72
+1600,SUMATERA SELATAN,Perdesaan,2009,Tahunan,2.67
+1600,SUMATERA SELATAN,Perdesaan,2010,Tahunan,2.57
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2009,Tahunan,3.06
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2010,Tahunan,2.63
+1700,BENGKULU,Perkotaan,2009,Tahunan,3.58
+1700,BENGKULU,Perkotaan,2010,Tahunan,3.16
+1700,BENGKULU,Perdesaan,2009,Tahunan,2.65
+1700,BENGKULU,Perdesaan,2010,Tahunan,2.53
+1700,BENGKULU,Perkotaan+Perdesaan,2009,Tahunan,2.98
+1700,BENGKULU,Perkotaan+Perdesaan,2010,Tahunan,2.75
+1800,LAMPUNG,Perkotaan,2009,Tahunan,3.88
+1800,LAMPUNG,Perkotaan,2010,Tahunan,2.53
+1800,LAMPUNG,Perdesaan,2009,Tahunan,3.96
+1800,LAMPUNG,Perdesaan,2010,Tahunan,3.14
+1800,LAMPUNG,Perkotaan+Perdesaan,2009,Tahunan,3.94
+1800,LAMPUNG,Perkotaan+Perdesaan,2010,Tahunan,2.98
+1900,KEP. BANGKA BELITUNG,Perkotaan,2009,Tahunan,0.95
+1900,KEP. BANGKA BELITUNG,Perkotaan,2010,Tahunan,0.54
+1900,KEP. BANGKA BELITUNG,Perdesaan,2009,Tahunan,1.43
+1900,KEP. BANGKA BELITUNG,Perdesaan,2010,Tahunan,1.28
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2009,Tahunan,1.2
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2010,Tahunan,0.93
+2100,KEP. RIAU,Perkotaan,2009,Tahunan,2.75
+2100,KEP. RIAU,Perkotaan,2010,Tahunan,1.25
+2100,KEP. RIAU,Perdesaan,2009,Tahunan,1.2
+2100,KEP. RIAU,Perdesaan,2010,Tahunan,0.83
+2100,KEP. RIAU,Perkotaan+Perdesaan,2009,Tahunan,2.02
+2100,KEP. RIAU,Perkotaan+Perdesaan,2010,Tahunan,1.05
+3100,DKI JAKARTA,Perkotaan,2009,Tahunan,0.57
+3100,DKI JAKARTA,Perkotaan,2010,Tahunan,0.45
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2009,Tahunan,0.57
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2010,Tahunan,0.45
+3200,JAWA BARAT,Perkotaan,2009,Tahunan,1.71
+3200,JAWA BARAT,Perkotaan,2010,Tahunan,1.64
+3200,JAWA BARAT,Perdesaan,2009,Tahunan,2.29
+3200,JAWA BARAT,Perdesaan,2010,Tahunan,2.35
+3200,JAWA BARAT,Perkotaan+Perdesaan,2009,Tahunan,1.95
+3200,JAWA BARAT,Perkotaan+Perdesaan,2010,Tahunan,1.93
+3300,JAWA TENGAH,Perkotaan,2009,Tahunan,2.56
+3300,JAWA TENGAH,Perkotaan,2010,Tahunan,2.09
+3300,JAWA TENGAH,Perdesaan,2009,Tahunan,3.34
+3300,JAWA TENGAH,Perdesaan,2010,Tahunan,2.86
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2009,Tahunan,2.96
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2010,Tahunan,2.49
+3400,DI YOGYAKARTA,Perkotaan,2009,Tahunan,2.84
+3400,DI YOGYAKARTA,Perkotaan,2010,Tahunan,2.27
+3400,DI YOGYAKARTA,Perdesaan,2009,Tahunan,4.74
+3400,DI YOGYAKARTA,Perdesaan,2010,Tahunan,3.89
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2009,Tahunan,3.52
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2010,Tahunan,2.85
+3500,JAWA TIMUR,Perkotaan,2009,Tahunan,2.18
+3500,JAWA TIMUR,Perkotaan,2010,Tahunan,1.53
+3500,JAWA TIMUR,Perdesaan,2009,Tahunan,3.54
+3500,JAWA TIMUR,Perdesaan,2010,Tahunan,3.18
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2009,Tahunan,2.88
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2010,Tahunan,2.38
+3600,BANTEN,Perkotaan,2009,Tahunan,0.93
+3600,BANTEN,Perkotaan,2010,Tahunan,0.79
+3600,BANTEN,Perdesaan,2009,Tahunan,1.91
+3600,BANTEN,Perdesaan,2010,Tahunan,1.3
+3600,BANTEN,Perkotaan+Perdesaan,2009,Tahunan,1.32
+3600,BANTEN,Perkotaan+Perdesaan,2010,Tahunan,1.0
+5100,BALI,Perkotaan,2009,Tahunan,0.77
+5100,BALI,Perkotaan,2010,Tahunan,0.52
+5100,BALI,Perdesaan,2009,Tahunan,0.7
+5100,BALI,Perdesaan,2010,Tahunan,0.96
+5100,BALI,Perkotaan+Perdesaan,2009,Tahunan,0.74
+5100,BALI,Perkotaan+Perdesaan,2010,Tahunan,0.71
+5200,NUSA TENGGARA BARAT,Perkotaan,2009,Tahunan,7.57
+5200,NUSA TENGGARA BARAT,Perkotaan,2010,Tahunan,5.65
+5200,NUSA TENGGARA BARAT,Perdesaan,2009,Tahunan,3.41
+5200,NUSA TENGGARA BARAT,Perdesaan,2010,Tahunan,2.41
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2009,Tahunan,5.15
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2010,Tahunan,3.77
+5300,NUSA TENGGARA TIMUR,Perkotaan,2009,Tahunan,2.63
+5300,NUSA TENGGARA TIMUR,Perkotaan,2010,Tahunan,3.12
+5300,NUSA TENGGARA TIMUR,Perdesaan,2009,Tahunan,4.47
+5300,NUSA TENGGARA TIMUR,Perdesaan,2010,Tahunan,5.09
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2009,Tahunan,4.14
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2010,Tahunan,4.74
+6100,KALIMANTAN BARAT,Perkotaan,2009,Tahunan,1.2
+6100,KALIMANTAN BARAT,Perkotaan,2010,Tahunan,0.82
+6100,KALIMANTAN BARAT,Perdesaan,2009,Tahunan,1.68
+6100,KALIMANTAN BARAT,Perdesaan,2010,Tahunan,1.31
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2009,Tahunan,1.55
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2010,Tahunan,1.18
+6200,KALIMANTAN TENGAH,Perkotaan,2009,Tahunan,0.62
+6200,KALIMANTAN TENGAH,Perkotaan,2010,Tahunan,0.86
+6200,KALIMANTAN TENGAH,Perdesaan,2009,Tahunan,1.24
+6200,KALIMANTAN TENGAH,Perdesaan,2010,Tahunan,1.1
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2009,Tahunan,1.03
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2010,Tahunan,1.02
+6300,KALIMANTAN SELATAN,Perkotaan,2009,Tahunan,0.72
+6300,KALIMANTAN SELATAN,Perkotaan,2010,Tahunan,0.57
+6300,KALIMANTAN SELATAN,Perdesaan,2009,Tahunan,0.74
+6300,KALIMANTAN SELATAN,Perdesaan,2010,Tahunan,0.77
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2009,Tahunan,0.73
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2010,Tahunan,0.69
+6400,KALIMANTAN TIMUR,Perkotaan,2009,Tahunan,0.63
+6400,KALIMANTAN TIMUR,Perkotaan,2010,Tahunan,0.57
+6400,KALIMANTAN TIMUR,Perdesaan,2009,Tahunan,2.96
+6400,KALIMANTAN TIMUR,Perdesaan,2010,Tahunan,2.44
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2009,Tahunan,1.51
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2010,Tahunan,1.27
+7100,SULAWESI UTARA,Perkotaan,2009,Tahunan,1.27
+7100,SULAWESI UTARA,Perkotaan,2010,Tahunan,1.12
+7100,SULAWESI UTARA,Perdesaan,2009,Tahunan,1.77
+7100,SULAWESI UTARA,Perdesaan,2010,Tahunan,1.16
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2009,Tahunan,1.55
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2010,Tahunan,1.14
+7200,SULAWESI TENGAH,Perkotaan,2009,Tahunan,1.4
+7200,SULAWESI TENGAH,Perkotaan,2010,Tahunan,1.81
+7200,SULAWESI TENGAH,Perdesaan,2009,Tahunan,4.8
+7200,SULAWESI TENGAH,Perdesaan,2010,Tahunan,3.43
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2009,Tahunan,4.09
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2010,Tahunan,3.09
+7300,SULAWESI SELATAN,Perkotaan,2009,Tahunan,0.67
+7300,SULAWESI SELATAN,Perkotaan,2010,Tahunan,0.55
+7300,SULAWESI SELATAN,Perdesaan,2009,Tahunan,2.74
+7300,SULAWESI SELATAN,Perdesaan,2010,Tahunan,2.55
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2009,Tahunan,2.08
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2010,Tahunan,1.91
+7400,SULAWESI TENGGARA,Perkotaan,2009,Tahunan,0.65
+7400,SULAWESI TENGGARA,Perkotaan,2010,Tahunan,1.1
+7400,SULAWESI TENGGARA,Perdesaan,2009,Tahunan,4.27
+7400,SULAWESI TENGGARA,Perdesaan,2010,Tahunan,3.8
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2009,Tahunan,3.44
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2010,Tahunan,3.18
+7500,GORONTALO,Perkotaan,2009,Tahunan,0.9
+7500,GORONTALO,Perkotaan,2010,Tahunan,0.88
+7500,GORONTALO,Perdesaan,2009,Tahunan,6.26
+7500,GORONTALO,Perdesaan,2010,Tahunan,5.63
+7500,GORONTALO,Perkotaan+Perdesaan,2009,Tahunan,4.59
+7500,GORONTALO,Perkotaan+Perdesaan,2010,Tahunan,4.14
+7600,SULAWESI BARAT,Perkotaan,2009,Tahunan,2.91
+7600,SULAWESI BARAT,Perkotaan,2010,Tahunan,0.84
+7600,SULAWESI BARAT,Perdesaan,2009,Tahunan,2.25
+7600,SULAWESI BARAT,Perdesaan,2010,Tahunan,1.9
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2009,Tahunan,2.47
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2010,Tahunan,1.55
+8100,MALUKU,Perkotaan,2009,Tahunan,1.75
+8100,MALUKU,Perkotaan,2010,Tahunan,1.36
+8100,MALUKU,Perdesaan,2009,Tahunan,6.94
+8100,MALUKU,Perdesaan,2010,Tahunan,6.59
+8100,MALUKU,Perkotaan+Perdesaan,2009,Tahunan,5.59
+8100,MALUKU,Perkotaan+Perdesaan,2010,Tahunan,5.23
+8200,MALUKU UTARA,Perkotaan,2009,Tahunan,0.07
+8200,MALUKU UTARA,Perkotaan,2010,Tahunan,0.06
+8200,MALUKU UTARA,Perdesaan,2009,Tahunan,2.02
+8200,MALUKU UTARA,Perdesaan,2010,Tahunan,2.07
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2009,Tahunan,1.44
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2010,Tahunan,1.47
+9100,PAPUA BARAT,Perkotaan,2009,Tahunan,0.43
+9100,PAPUA BARAT,Perkotaan,2010,Tahunan,1.14
+9100,PAPUA BARAT,Perdesaan,2009,Tahunan,12.51
+9100,PAPUA BARAT,Perdesaan,2010,Tahunan,13.22
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2009,Tahunan,9.75
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2010,Tahunan,10.47
+9400,PAPUA,Perkotaan,2009,Tahunan,0.8
+9400,PAPUA,Perkotaan,2010,Tahunan,0.78
+9400,PAPUA,Perdesaan,2009,Tahunan,11.51
+9400,PAPUA,Perdesaan,2010,Tahunan,11.89
+9400,PAPUA,Perkotaan+Perdesaan,2009,Tahunan,9.07
+9400,PAPUA,Perkotaan+Perdesaan,2010,Tahunan,9.36
+9999,INDONESIA,Perkotaan,2009,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2009,Semester 2 (September),1.29
+9999,INDONESIA,Perkotaan,2009,Tahunan,1.91
+9999,INDONESIA,Perkotaan,2010,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2010,Semester 2 (September),1.29
+9999,INDONESIA,Perkotaan,2010,Tahunan,1.57
+9999,INDONESIA,Perdesaan,2009,Semester 1 (Maret),2.55
+9999,INDONESIA,Perdesaan,2009,Semester 2 (September),2.4
+9999,INDONESIA,Perdesaan,2009,Tahunan,3.05
+9999,INDONESIA,Perdesaan,2010,Semester 1 (Maret),2.55
+9999,INDONESIA,Perdesaan,2010,Semester 2 (September),2.4
+9999,INDONESIA,Perdesaan,2010,Tahunan,2.8
+9999,INDONESIA,Perkotaan+Perdesaan,2009,Semester 1 (Maret),1.97
+9999,INDONESIA,Perkotaan+Perdesaan,2009,Semester 2 (September),1.84
+9999,INDONESIA,Perkotaan+Perdesaan,2009,Tahunan,2.5
+9999,INDONESIA,Perkotaan+Perdesaan,2010,Semester 1 (Maret),1.97
+9999,INDONESIA,Perkotaan+Perdesaan,2010,Semester 2 (September),1.84
+9999,INDONESIA,Perkotaan+Perdesaan,2010,Tahunan,2.21
+1100,ACEH,Perkotaan,2011,Tahunan,2.78
+1100,ACEH,Perkotaan,2012,Semester 1 (Maret),2.1
+1100,ACEH,Perkotaan,2012,Semester 2 (September),1.44
+1100,ACEH,Perdesaan,2011,Tahunan,3.78
+1100,ACEH,Perdesaan,2012,Semester 1 (Maret),4.11
+1100,ACEH,Perdesaan,2012,Semester 2 (September),3.71
+1100,ACEH,Perkotaan+Perdesaan,2011,Tahunan,3.5
+1100,ACEH,Perkotaan+Perdesaan,2012,Semester 1 (Maret),3.55
+1100,ACEH,Perkotaan+Perdesaan,2012,Semester 2 (September),3.07
+1200,SUMATERA UTARA,Perkotaan,2011,Tahunan,1.84
+1200,SUMATERA UTARA,Perkotaan,2012,Semester 1 (Maret),1.65
+1200,SUMATERA UTARA,Perkotaan,2012,Semester 2 (September),2.04
+1200,SUMATERA UTARA,Perdesaan,2011,Tahunan,1.85
+1200,SUMATERA UTARA,Perdesaan,2012,Semester 1 (Maret),1.46
+1200,SUMATERA UTARA,Perdesaan,2012,Semester 2 (September),1.61
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2011,Tahunan,1.84
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.55
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2012,Semester 2 (September),1.82
+1300,SUMATERA BARAT,Perkotaan,2011,Tahunan,1.25
+1300,SUMATERA BARAT,Perkotaan,2012,Semester 1 (Maret),0.94
+1300,SUMATERA BARAT,Perkotaan,2012,Semester 2 (September),1.13
+1300,SUMATERA BARAT,Perdesaan,2011,Tahunan,1.42
+1300,SUMATERA BARAT,Perdesaan,2012,Semester 1 (Maret),1.25
+1300,SUMATERA BARAT,Perdesaan,2012,Semester 2 (September),1.3
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2011,Tahunan,1.36
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.13
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2012,Semester 2 (September),1.24
+1400,RIAU,Perkotaan,2011,Tahunan,0.77
+1400,RIAU,Perkotaan,2012,Semester 1 (Maret),0.93
+1400,RIAU,Perkotaan,2012,Semester 2 (September),0.97
+1400,RIAU,Perdesaan,2011,Tahunan,1.49
+1400,RIAU,Perdesaan,2012,Semester 1 (Maret),1.32
+1400,RIAU,Perdesaan,2012,Semester 2 (September),1.23
+1400,RIAU,Perkotaan+Perdesaan,2011,Tahunan,1.21
+1400,RIAU,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.17
+1400,RIAU,Perkotaan+Perdesaan,2012,Semester 2 (September),1.13
+1500,JAMBI,Perkotaan,2011,Tahunan,1.31
+1500,JAMBI,Perkotaan,2012,Semester 1 (Maret),1.5
+1500,JAMBI,Perkotaan,2012,Semester 2 (September),2.37
+1500,JAMBI,Perdesaan,2011,Tahunan,0.81
+1500,JAMBI,Perdesaan,2012,Semester 1 (Maret),1.09
+1500,JAMBI,Perdesaan,2012,Semester 2 (September),0.93
+1500,JAMBI,Perkotaan+Perdesaan,2011,Tahunan,0.96
+1500,JAMBI,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.22
+1500,JAMBI,Perkotaan+Perdesaan,2012,Semester 2 (September),1.37
+1600,SUMATERA SELATAN,Perkotaan,2011,Tahunan,2.97
+1600,SUMATERA SELATAN,Perkotaan,2012,Semester 1 (Maret),2.58
+1600,SUMATERA SELATAN,Perkotaan,2012,Semester 2 (September),2.04
+1600,SUMATERA SELATAN,Perdesaan,2011,Tahunan,2.29
+1600,SUMATERA SELATAN,Perdesaan,2012,Semester 1 (Maret),1.75
+1600,SUMATERA SELATAN,Perdesaan,2012,Semester 2 (September),1.75
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2011,Tahunan,2.54
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2012,Semester 1 (Maret),2.05
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2012,Semester 2 (September),1.85
+1700,BENGKULU,Perkotaan,2011,Tahunan,2.83
+1700,BENGKULU,Perkotaan,2012,Semester 1 (Maret),3.14
+1700,BENGKULU,Perkotaan,2012,Semester 2 (September),2.72
+1700,BENGKULU,Perdesaan,2011,Tahunan,2.49
+1700,BENGKULU,Perdesaan,2012,Semester 1 (Maret),4.63
+1700,BENGKULU,Perdesaan,2012,Semester 2 (September),3.2
+1700,BENGKULU,Perkotaan+Perdesaan,2011,Tahunan,2.6
+1700,BENGKULU,Perkotaan+Perdesaan,2012,Semester 1 (Maret),4.17
+1700,BENGKULU,Perkotaan+Perdesaan,2012,Semester 2 (September),3.05
+1800,LAMPUNG,Perkotaan,2011,Tahunan,2.07
+1800,LAMPUNG,Perkotaan,2012,Semester 1 (Maret),1.55
+1800,LAMPUNG,Perkotaan,2012,Semester 2 (September),1.54
+1800,LAMPUNG,Perdesaan,2011,Tahunan,3.02
+1800,LAMPUNG,Perdesaan,2012,Semester 1 (Maret),2.51
+1800,LAMPUNG,Perdesaan,2012,Semester 2 (September),2.87
+1800,LAMPUNG,Perkotaan+Perdesaan,2011,Tahunan,2.77
+1800,LAMPUNG,Perkotaan+Perdesaan,2012,Semester 1 (Maret),2.26
+1800,LAMPUNG,Perkotaan+Perdesaan,2012,Semester 2 (September),2.53
+1900,KEP. BANGKA BELITUNG,Perkotaan,2011,Tahunan,0.33
+1900,KEP. BANGKA BELITUNG,Perkotaan,2012,Semester 1 (Maret),0.3
+1900,KEP. BANGKA BELITUNG,Perkotaan,2012,Semester 2 (September),0.39
+1900,KEP. BANGKA BELITUNG,Perdesaan,2011,Tahunan,0.98
+1900,KEP. BANGKA BELITUNG,Perdesaan,2012,Semester 1 (Maret),0.71
+1900,KEP. BANGKA BELITUNG,Perdesaan,2012,Semester 2 (September),0.92
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2011,Tahunan,0.66
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2012,Semester 1 (Maret),0.51
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2012,Semester 2 (September),0.66
+2100,KEP. RIAU,Perkotaan,2011,Tahunan,0.99
+2100,KEP. RIAU,Perkotaan,2012,Semester 1 (Maret),1.09
+2100,KEP. RIAU,Perkotaan,2012,Semester 2 (September),0.81
+2100,KEP. RIAU,Perdesaan,2011,Tahunan,1.12
+2100,KEP. RIAU,Perdesaan,2012,Semester 1 (Maret),0.67
+2100,KEP. RIAU,Perdesaan,2012,Semester 2 (September),0.99
+2100,KEP. RIAU,Perkotaan+Perdesaan,2011,Tahunan,1.01
+2100,KEP. RIAU,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.01
+2100,KEP. RIAU,Perkotaan+Perdesaan,2012,Semester 2 (September),0.85
+3100,DKI JAKARTA,Perkotaan,2011,Tahunan,0.6
+3100,DKI JAKARTA,Perkotaan,2012,Semester 1 (Maret),0.5
+3100,DKI JAKARTA,Perkotaan,2012,Semester 2 (September),0.56
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2011,Tahunan,0.6
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),0.5
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2012,Semester 2 (September),0.56
+3200,JAWA BARAT,Perkotaan,2011,Tahunan,1.51
+3200,JAWA BARAT,Perkotaan,2012,Semester 1 (Maret),1.43
+3200,JAWA BARAT,Perkotaan,2012,Semester 2 (September),1.4
+3200,JAWA BARAT,Perdesaan,2011,Tahunan,2.14
+3200,JAWA BARAT,Perdesaan,2012,Semester 1 (Maret),2.04
+3200,JAWA BARAT,Perdesaan,2012,Semester 2 (September),2.05
+3200,JAWA BARAT,Perkotaan+Perdesaan,2011,Tahunan,1.72
+3200,JAWA BARAT,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.64
+3200,JAWA BARAT,Perkotaan+Perdesaan,2012,Semester 2 (September),1.62
+3300,JAWA TENGAH,Perkotaan,2011,Tahunan,2.46
+3300,JAWA TENGAH,Perkotaan,2012,Semester 1 (Maret),2.11
+3300,JAWA TENGAH,Perkotaan,2012,Semester 2 (September),2.06
+3300,JAWA TENGAH,Perdesaan,2011,Tahunan,2.64
+3300,JAWA TENGAH,Perdesaan,2012,Semester 1 (Maret),2.4
+3300,JAWA TENGAH,Perdesaan,2012,Semester 2 (September),2.67
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2011,Tahunan,2.56
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2012,Semester 1 (Maret),2.27
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2012,Semester 2 (September),2.39
+3400,DI YOGYAKARTA,Perkotaan,2011,Tahunan,1.93
+3400,DI YOGYAKARTA,Perkotaan,2012,Semester 1 (Maret),3.56
+3400,DI YOGYAKARTA,Perkotaan,2012,Semester 2 (September),2.29
+3400,DI YOGYAKARTA,Perdesaan,2011,Tahunan,3.67
+3400,DI YOGYAKARTA,Perdesaan,2012,Semester 1 (Maret),3.29
+3400,DI YOGYAKARTA,Perdesaan,2012,Semester 2 (September),4.07
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2011,Tahunan,2.51
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),3.47
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2012,Semester 2 (September),2.89
+3500,JAWA TIMUR,Perkotaan,2011,Tahunan,1.51
+3500,JAWA TIMUR,Perkotaan,2012,Semester 1 (Maret),1.25
+3500,JAWA TIMUR,Perkotaan,2012,Semester 2 (September),1.29
+3500,JAWA TIMUR,Perdesaan,2011,Tahunan,2.96
+3500,JAWA TIMUR,Perdesaan,2012,Semester 1 (Maret),2.31
+3500,JAWA TIMUR,Perdesaan,2012,Semester 2 (September),2.52
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2011,Tahunan,2.27
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.81
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2012,Semester 2 (September),1.93
+3600,BANTEN,Perkotaan,2011,Tahunan,0.67
+3600,BANTEN,Perkotaan,2012,Semester 1 (Maret),0.57
+3600,BANTEN,Perkotaan,2012,Semester 2 (September),0.77
+3600,BANTEN,Perdesaan,2011,Tahunan,1.36
+3600,BANTEN,Perdesaan,2012,Semester 1 (Maret),1.07
+3600,BANTEN,Perdesaan,2012,Semester 2 (September),1.3
+3600,BANTEN,Perkotaan+Perdesaan,2011,Tahunan,0.9
+3600,BANTEN,Perkotaan+Perdesaan,2012,Semester 1 (Maret),0.74
+3600,BANTEN,Perkotaan+Perdesaan,2012,Semester 2 (September),0.95
+5100,BALI,Perkotaan,2011,Tahunan,0.76
+5100,BALI,Perkotaan,2012,Semester 1 (Maret),0.55
+5100,BALI,Perkotaan,2012,Semester 2 (September),0.42
+5100,BALI,Perdesaan,2011,Tahunan,0.52
+5100,BALI,Perdesaan,2012,Semester 1 (Maret),0.62
+5100,BALI,Perdesaan,2012,Semester 2 (September),0.35
+5100,BALI,Perkotaan+Perdesaan,2011,Tahunan,0.66
+5100,BALI,Perkotaan+Perdesaan,2012,Semester 1 (Maret),0.58
+5100,BALI,Perkotaan+Perdesaan,2012,Semester 2 (September),0.39
+5200,NUSA TENGGARA BARAT,Perkotaan,2011,Tahunan,4.58
+5200,NUSA TENGGARA BARAT,Perkotaan,2012,Semester 1 (Maret),6.08
+5200,NUSA TENGGARA BARAT,Perkotaan,2012,Semester 2 (September),4.4
+5200,NUSA TENGGARA BARAT,Perdesaan,2011,Tahunan,2.8
+5200,NUSA TENGGARA BARAT,Perdesaan,2012,Semester 1 (Maret),2.38
+5200,NUSA TENGGARA BARAT,Perdesaan,2012,Semester 2 (September),2.34
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2011,Tahunan,3.54
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2012,Semester 1 (Maret),3.92
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2012,Semester 2 (September),3.2
+5300,NUSA TENGGARA TIMUR,Perkotaan,2011,Tahunan,2.27
+5300,NUSA TENGGARA TIMUR,Perkotaan,2012,Semester 1 (Maret),1.98
+5300,NUSA TENGGARA TIMUR,Perkotaan,2012,Semester 2 (September),2.59
+5300,NUSA TENGGARA TIMUR,Perdesaan,2011,Tahunan,4.67
+5300,NUSA TENGGARA TIMUR,Perdesaan,2012,Semester 1 (Maret),3.58
+5300,NUSA TENGGARA TIMUR,Perdesaan,2012,Semester 2 (September),3.68
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2011,Tahunan,4.2
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2012,Semester 1 (Maret),3.27
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2012,Semester 2 (September),3.47
+6100,KALIMANTAN BARAT,Perkotaan,2011,Tahunan,0.91
+6100,KALIMANTAN BARAT,Perkotaan,2012,Semester 1 (Maret),0.63
+6100,KALIMANTAN BARAT,Perkotaan,2012,Semester 2 (September),1.11
+6100,KALIMANTAN BARAT,Perdesaan,2011,Tahunan,1.38
+6100,KALIMANTAN BARAT,Perdesaan,2012,Semester 1 (Maret),1.23
+6100,KALIMANTAN BARAT,Perdesaan,2012,Semester 2 (September),1.3
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2011,Tahunan,1.24
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.05
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2012,Semester 2 (September),1.24
+6200,KALIMANTAN TENGAH,Perkotaan,2011,Tahunan,0.82
+6200,KALIMANTAN TENGAH,Perkotaan,2012,Semester 1 (Maret),0.57
+6200,KALIMANTAN TENGAH,Perkotaan,2012,Semester 2 (September),0.92
+6200,KALIMANTAN TENGAH,Perdesaan,2011,Tahunan,1.07
+6200,KALIMANTAN TENGAH,Perdesaan,2012,Semester 1 (Maret),1.29
+6200,KALIMANTAN TENGAH,Perdesaan,2012,Semester 2 (September),1.16
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2011,Tahunan,0.99
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.05
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2012,Semester 2 (September),1.08
+6300,KALIMANTAN SELATAN,Perkotaan,2011,Tahunan,0.54
+6300,KALIMANTAN SELATAN,Perkotaan,2012,Semester 1 (Maret),0.45
+6300,KALIMANTAN SELATAN,Perkotaan,2012,Semester 2 (September),0.47
+6300,KALIMANTAN SELATAN,Perdesaan,2011,Tahunan,1.0
+6300,KALIMANTAN SELATAN,Perdesaan,2012,Semester 1 (Maret),0.8
+6300,KALIMANTAN SELATAN,Perdesaan,2012,Semester 2 (September),0.97
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2011,Tahunan,0.81
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2012,Semester 1 (Maret),0.65
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2012,Semester 2 (September),0.76
+6400,KALIMANTAN TIMUR,Perkotaan,2011,Tahunan,0.66
+6400,KALIMANTAN TIMUR,Perkotaan,2012,Semester 1 (Maret),0.47
+6400,KALIMANTAN TIMUR,Perkotaan,2012,Semester 2 (September),0.73
+6400,KALIMANTAN TIMUR,Perdesaan,2011,Tahunan,1.35
+6400,KALIMANTAN TIMUR,Perdesaan,2012,Semester 1 (Maret),2.0
+6400,KALIMANTAN TIMUR,Perdesaan,2012,Semester 2 (September),1.43
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2011,Tahunan,0.92
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.05
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2012,Semester 2 (September),0.99
+6500,KALIMANTAN UTARA,Perkotaan,2012,Semester 1 (Maret),0.68
+6500,KALIMANTAN UTARA,Perkotaan,2012,Semester 2 (September),1.14
+6500,KALIMANTAN UTARA,Perdesaan,2012,Semester 1 (Maret),1.3
+6500,KALIMANTAN UTARA,Perdesaan,2012,Semester 2 (September),1.21
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.02
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2012,Semester 2 (September),1.18
+7100,SULAWESI UTARA,Perkotaan,2011,Tahunan,0.89
+7100,SULAWESI UTARA,Perkotaan,2012,Semester 1 (Maret),1.79
+7100,SULAWESI UTARA,Perkotaan,2012,Semester 2 (September),1.94
+7100,SULAWESI UTARA,Perdesaan,2011,Tahunan,1.28
+7100,SULAWESI UTARA,Perdesaan,2012,Semester 1 (Maret),2.81
+7100,SULAWESI UTARA,Perdesaan,2012,Semester 2 (September),3.1
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2011,Tahunan,1.1
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),2.56
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2012,Semester 2 (September),2.82
+7200,SULAWESI TENGAH,Perkotaan,2011,Tahunan,1.93
+7200,SULAWESI TENGAH,Perkotaan,2012,Semester 1 (Maret),0.51
+7200,SULAWESI TENGAH,Perkotaan,2012,Semester 2 (September),0.48
+7200,SULAWESI TENGAH,Perdesaan,2011,Tahunan,3.03
+7200,SULAWESI TENGAH,Perdesaan,2012,Semester 1 (Maret),2.21
+7200,SULAWESI TENGAH,Perdesaan,2012,Semester 2 (September),2.37
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2011,Tahunan,2.76
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.59
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2012,Semester 2 (September),1.68
+7300,SULAWESI SELATAN,Perkotaan,2011,Tahunan,0.67
+7300,SULAWESI SELATAN,Perkotaan,2012,Semester 1 (Maret),0.95
+7300,SULAWESI SELATAN,Perkotaan,2012,Semester 2 (September),0.19
+7300,SULAWESI SELATAN,Perdesaan,2011,Tahunan,2.21
+7300,SULAWESI SELATAN,Perdesaan,2012,Semester 1 (Maret),2.79
+7300,SULAWESI SELATAN,Perdesaan,2012,Semester 2 (September),2.58
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2011,Tahunan,1.65
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2012,Semester 1 (Maret),2.29
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2012,Semester 2 (September),1.92
+7400,SULAWESI TENGGARA,Perkotaan,2011,Tahunan,0.7
+7400,SULAWESI TENGGARA,Perkotaan,2012,Semester 1 (Maret),0.28
+7400,SULAWESI TENGGARA,Perkotaan,2012,Semester 2 (September),0.64
+7400,SULAWESI TENGGARA,Perdesaan,2011,Tahunan,3.33
+7400,SULAWESI TENGGARA,Perdesaan,2012,Semester 1 (Maret),4.29
+7400,SULAWESI TENGGARA,Perdesaan,2012,Semester 2 (September),4.53
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2011,Tahunan,2.61
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),2.92
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2012,Semester 2 (September),3.21
+7500,GORONTALO,Perkotaan,2011,Tahunan,0.9
+7500,GORONTALO,Perkotaan,2012,Semester 1 (Maret),0.83
+7500,GORONTALO,Perkotaan,2012,Semester 2 (September),1.83
+7500,GORONTALO,Perdesaan,2011,Tahunan,5.17
+7500,GORONTALO,Perdesaan,2012,Semester 1 (Maret),2.1
+7500,GORONTALO,Perdesaan,2012,Semester 2 (September),1.72
+7500,GORONTALO,Perkotaan+Perdesaan,2011,Tahunan,3.72
+7500,GORONTALO,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.81
+7500,GORONTALO,Perkotaan+Perdesaan,2012,Semester 2 (September),1.74
+7600,SULAWESI BARAT,Perkotaan,2011,Tahunan,1.3
+7600,SULAWESI BARAT,Perkotaan,2012,Semester 1 (Maret),1.74
+7600,SULAWESI BARAT,Perkotaan,2012,Semester 2 (September),1.61
+7600,SULAWESI BARAT,Perdesaan,2011,Tahunan,2.63
+7600,SULAWESI BARAT,Perdesaan,2012,Semester 1 (Maret),6.24
+7600,SULAWESI BARAT,Perdesaan,2012,Semester 2 (September),6.03
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2011,Tahunan,2.32
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2012,Semester 1 (Maret),4.56
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2012,Semester 2 (September),4.38
+8100,MALUKU,Perkotaan,2011,Tahunan,1.98
+8100,MALUKU,Perkotaan,2012,Semester 1 (Maret),0.28
+8100,MALUKU,Perkotaan,2012,Semester 2 (September),0.08
+8100,MALUKU,Perdesaan,2011,Tahunan,6.77
+8100,MALUKU,Perdesaan,2012,Semester 1 (Maret),1.82
+8100,MALUKU,Perdesaan,2012,Semester 2 (September),1.14
+8100,MALUKU,Perkotaan+Perdesaan,2011,Tahunan,4.99
+8100,MALUKU,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.4
+8100,MALUKU,Perkotaan+Perdesaan,2012,Semester 2 (September),0.85
+8200,MALUKU UTARA,Perkotaan,2011,Tahunan,0.15
+8200,MALUKU UTARA,Perkotaan,2012,Semester 1 (Maret),1.23
+8200,MALUKU UTARA,Perkotaan,2012,Semester 2 (September),0.65
+8200,MALUKU UTARA,Perdesaan,2011,Tahunan,1.5
+8200,MALUKU UTARA,Perdesaan,2012,Semester 1 (Maret),9.78
+8200,MALUKU UTARA,Perdesaan,2012,Semester 2 (September),7.88
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2011,Tahunan,1.13
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),7.23
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2012,Semester 2 (September),5.71
+9100,PAPUA BARAT,Perkotaan,2011,Tahunan,0.8
+9100,PAPUA BARAT,Perkotaan,2012,Semester 1 (Maret),0.65
+9100,PAPUA BARAT,Perkotaan,2012,Semester 2 (September),1.28
+9100,PAPUA BARAT,Perdesaan,2011,Tahunan,11.13
+9100,PAPUA BARAT,Perdesaan,2012,Semester 1 (Maret),10.47
+9100,PAPUA BARAT,Perdesaan,2012,Semester 2 (September),9.49
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2011,Tahunan,8.78
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2012,Semester 1 (Maret),7.91
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2012,Semester 2 (September),7.35
+9400,PAPUA,Perkotaan,2011,Tahunan,0.7
+9400,PAPUA,Perkotaan,2012,Semester 1 (Maret),1.4
+9400,PAPUA,Perkotaan,2012,Semester 2 (September),1.38
+9400,PAPUA,Perdesaan,2011,Tahunan,10.37
+9400,PAPUA,Perdesaan,2012,Semester 1 (Maret),2.36
+9400,PAPUA,Perdesaan,2012,Semester 2 (September),2.42
+9400,PAPUA,Perkotaan+Perdesaan,2011,Tahunan,7.86
+9400,PAPUA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.88
+9400,PAPUA,Perkotaan+Perdesaan,2012,Semester 2 (September),1.9
+9999,INDONESIA,Perkotaan,2011,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2011,Semester 2 (September),1.29
+9999,INDONESIA,Perkotaan,2011,Tahunan,1.52
+9999,INDONESIA,Perkotaan,2012,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2012,Semester 2 (September),1.38
+9999,INDONESIA,Perdesaan,2011,Semester 1 (Maret),2.55
+9999,INDONESIA,Perdesaan,2011,Semester 2 (September),2.4
+9999,INDONESIA,Perdesaan,2011,Tahunan,2.63
+9999,INDONESIA,Perdesaan,2012,Semester 1 (Maret),2.36
+9999,INDONESIA,Perdesaan,2012,Semester 2 (September),2.42
+9999,INDONESIA,Perkotaan+Perdesaan,2011,Semester 1 (Maret),1.97
+9999,INDONESIA,Perkotaan+Perdesaan,2011,Semester 2 (September),1.84
+9999,INDONESIA,Perkotaan+Perdesaan,2011,Tahunan,2.08
+9999,INDONESIA,Perkotaan+Perdesaan,2012,Semester 1 (Maret),1.88
+9999,INDONESIA,Perkotaan+Perdesaan,2012,Semester 2 (September),1.9
+1100,ACEH,Perkotaan,2013,Semester 1 (Maret),2.34
+1100,ACEH,Perkotaan,2013,Semester 2 (September),1.96
+1100,ACEH,Perkotaan,2014,Semester 1 (Maret),1.82
+1100,ACEH,Perkotaan,2014,Semester 2 (September),1.71
+1100,ACEH,Perdesaan,2013,Semester 1 (Maret),3.44
+1100,ACEH,Perdesaan,2013,Semester 2 (September),3.68
+1100,ACEH,Perdesaan,2014,Semester 1 (Maret),3.34
+1100,ACEH,Perdesaan,2014,Semester 2 (September),3.7
+1100,ACEH,Perkotaan+Perdesaan,2013,Semester 1 (Maret),3.13
+1100,ACEH,Perkotaan+Perdesaan,2013,Semester 2 (September),3.2
+1100,ACEH,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.91
+1100,ACEH,Perkotaan+Perdesaan,2014,Semester 2 (September),3.14
+1200,SUMATERA UTARA,Perkotaan,2013,Semester 1 (Maret),1.49
+1200,SUMATERA UTARA,Perkotaan,2013,Semester 2 (September),1.63
+1200,SUMATERA UTARA,Perkotaan,2014,Semester 1 (Maret),1.24
+1200,SUMATERA UTARA,Perkotaan,2014,Semester 2 (September),1.56
+1200,SUMATERA UTARA,Perdesaan,2013,Semester 1 (Maret),1.58
+1200,SUMATERA UTARA,Perdesaan,2013,Semester 2 (September),1.8
+1200,SUMATERA UTARA,Perdesaan,2014,Semester 1 (Maret),1.69
+1200,SUMATERA UTARA,Perdesaan,2014,Semester 2 (September),1.86
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.54
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2013,Semester 2 (September),1.72
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.47
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2014,Semester 2 (September),1.71
+1300,SUMATERA BARAT,Perkotaan,2013,Semester 1 (Maret),1.0
+1300,SUMATERA BARAT,Perkotaan,2013,Semester 2 (September),1.12
+1300,SUMATERA BARAT,Perkotaan,2014,Semester 1 (Maret),0.65
+1300,SUMATERA BARAT,Perkotaan,2014,Semester 2 (September),0.54
+1300,SUMATERA BARAT,Perdesaan,2013,Semester 1 (Maret),1.02
+1300,SUMATERA BARAT,Perdesaan,2013,Semester 2 (September),1.36
+1300,SUMATERA BARAT,Perdesaan,2014,Semester 1 (Maret),1.12
+1300,SUMATERA BARAT,Perdesaan,2014,Semester 2 (September),0.89
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.01
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2013,Semester 2 (September),1.27
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.94
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2014,Semester 2 (September),0.75
+1400,RIAU,Perkotaan,2013,Semester 1 (Maret),1.15
+1400,RIAU,Perkotaan,2013,Semester 2 (September),0.99
+1400,RIAU,Perkotaan,2014,Semester 1 (Maret),0.89
+1400,RIAU,Perkotaan,2014,Semester 2 (September),0.73
+1400,RIAU,Perdesaan,2013,Semester 1 (Maret),1.2
+1400,RIAU,Perdesaan,2013,Semester 2 (September),1.3
+1400,RIAU,Perdesaan,2014,Semester 1 (Maret),1.09
+1400,RIAU,Perdesaan,2014,Semester 2 (September),1.5
+1400,RIAU,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.18
+1400,RIAU,Perkotaan+Perdesaan,2013,Semester 2 (September),1.18
+1400,RIAU,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.01
+1400,RIAU,Perkotaan+Perdesaan,2014,Semester 2 (September),1.2
+1500,JAMBI,Perkotaan,2013,Semester 1 (Maret),1.42
+1500,JAMBI,Perkotaan,2013,Semester 2 (September),1.22
+1500,JAMBI,Perkotaan,2014,Semester 1 (Maret),1.35
+1500,JAMBI,Perkotaan,2014,Semester 2 (September),1.19
+1500,JAMBI,Perdesaan,2013,Semester 1 (Maret),0.8
+1500,JAMBI,Perdesaan,2013,Semester 2 (September),1.07
+1500,JAMBI,Perdesaan,2014,Semester 1 (Maret),0.91
+1500,JAMBI,Perdesaan,2014,Semester 2 (September),1.1
+1500,JAMBI,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.99
+1500,JAMBI,Perkotaan+Perdesaan,2013,Semester 2 (September),1.12
+1500,JAMBI,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.05
+1500,JAMBI,Perkotaan+Perdesaan,2014,Semester 2 (September),1.12
+1600,SUMATERA SELATAN,Perkotaan,2013,Semester 1 (Maret),1.95
+1600,SUMATERA SELATAN,Perkotaan,2013,Semester 2 (September),2.13
+1600,SUMATERA SELATAN,Perkotaan,2014,Semester 1 (Maret),2.11
+1600,SUMATERA SELATAN,Perkotaan,2014,Semester 2 (September),2.34
+1600,SUMATERA SELATAN,Perdesaan,2013,Semester 1 (Maret),2.15
+1600,SUMATERA SELATAN,Perdesaan,2013,Semester 2 (September),2.69
+1600,SUMATERA SELATAN,Perdesaan,2014,Semester 1 (Maret),2.33
+1600,SUMATERA SELATAN,Perdesaan,2014,Semester 2 (September),2.44
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2013,Semester 1 (Maret),2.08
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2013,Semester 2 (September),2.49
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.25
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2014,Semester 2 (September),2.41
+1700,BENGKULU,Perkotaan,2013,Semester 1 (Maret),2.29
+1700,BENGKULU,Perkotaan,2013,Semester 2 (September),3.11
+1700,BENGKULU,Perkotaan,2014,Semester 1 (Maret),2.9
+1700,BENGKULU,Perkotaan,2014,Semester 2 (September),2.69
+1700,BENGKULU,Perdesaan,2013,Semester 1 (Maret),3.32
+1700,BENGKULU,Perdesaan,2013,Semester 2 (September),3.29
+1700,BENGKULU,Perdesaan,2014,Semester 1 (Maret),2.72
+1700,BENGKULU,Perdesaan,2014,Semester 2 (September),2.92
+1700,BENGKULU,Perkotaan+Perdesaan,2013,Semester 1 (Maret),3.0
+1700,BENGKULU,Perkotaan+Perdesaan,2013,Semester 2 (September),3.24
+1700,BENGKULU,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.78
+1700,BENGKULU,Perkotaan+Perdesaan,2014,Semester 2 (September),2.85
+1800,LAMPUNG,Perkotaan,2013,Semester 1 (Maret),1.99
+1800,LAMPUNG,Perkotaan,2013,Semester 2 (September),1.67
+1800,LAMPUNG,Perkotaan,2014,Semester 1 (Maret),1.85
+1800,LAMPUNG,Perkotaan,2014,Semester 2 (September),1.9
+1800,LAMPUNG,Perdesaan,2013,Semester 1 (Maret),2.37
+1800,LAMPUNG,Perdesaan,2013,Semester 2 (September),2.43
+1800,LAMPUNG,Perdesaan,2014,Semester 1 (Maret),2.36
+1800,LAMPUNG,Perdesaan,2014,Semester 2 (September),2.43
+1800,LAMPUNG,Perkotaan+Perdesaan,2013,Semester 1 (Maret),2.27
+1800,LAMPUNG,Perkotaan+Perdesaan,2013,Semester 2 (September),2.23
+1800,LAMPUNG,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.23
+1800,LAMPUNG,Perkotaan+Perdesaan,2014,Semester 2 (September),2.3
+1900,KEP. BANGKA BELITUNG,Perkotaan,2013,Semester 1 (Maret),0.37
+1900,KEP. BANGKA BELITUNG,Perkotaan,2013,Semester 2 (September),0.35
+1900,KEP. BANGKA BELITUNG,Perkotaan,2014,Semester 1 (Maret),0.65
+1900,KEP. BANGKA BELITUNG,Perkotaan,2014,Semester 2 (September),0.48
+1900,KEP. BANGKA BELITUNG,Perdesaan,2013,Semester 1 (Maret),0.71
+1900,KEP. BANGKA BELITUNG,Perdesaan,2013,Semester 2 (September),0.89
+1900,KEP. BANGKA BELITUNG,Perdesaan,2014,Semester 1 (Maret),0.81
+1900,KEP. BANGKA BELITUNG,Perdesaan,2014,Semester 2 (September),0.72
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.54
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2013,Semester 2 (September),0.62
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.73
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2014,Semester 2 (September),0.6
+2100,KEP. RIAU,Perkotaan,2013,Semester 1 (Maret),0.75
+2100,KEP. RIAU,Perkotaan,2013,Semester 2 (September),1.04
+2100,KEP. RIAU,Perkotaan,2014,Semester 1 (Maret),1.0
+2100,KEP. RIAU,Perkotaan,2014,Semester 2 (September),0.67
+2100,KEP. RIAU,Perdesaan,2013,Semester 1 (Maret),0.44
+2100,KEP. RIAU,Perdesaan,2013,Semester 2 (September),0.93
+2100,KEP. RIAU,Perdesaan,2014,Semester 1 (Maret),0.61
+2100,KEP. RIAU,Perdesaan,2014,Semester 2 (September),1.09
+2100,KEP. RIAU,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.69
+2100,KEP. RIAU,Perkotaan+Perdesaan,2013,Semester 2 (September),1.02
+2100,KEP. RIAU,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.94
+2100,KEP. RIAU,Perkotaan+Perdesaan,2014,Semester 2 (September),0.74
+3100,DKI JAKARTA,Perkotaan,2013,Semester 1 (Maret),0.63
+3100,DKI JAKARTA,Perkotaan,2013,Semester 2 (September),0.39
+3100,DKI JAKARTA,Perkotaan,2014,Semester 1 (Maret),0.39
+3100,DKI JAKARTA,Perkotaan,2014,Semester 2 (September),0.6
+3100,DKI JAKARTA,Perdesaan,2014,Semester 2 (September),0.0
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.63
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2013,Semester 2 (September),0.39
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.39
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2014,Semester 2 (September),0.6
+3200,JAWA BARAT,Perkotaan,2013,Semester 1 (Maret),1.18
+3200,JAWA BARAT,Perkotaan,2013,Semester 2 (September),1.53
+3200,JAWA BARAT,Perkotaan,2014,Semester 1 (Maret),1.4
+3200,JAWA BARAT,Perkotaan,2014,Semester 2 (September),1.31
+3200,JAWA BARAT,Perdesaan,2013,Semester 1 (Maret),1.6
+3200,JAWA BARAT,Perdesaan,2013,Semester 2 (September),1.89
+3200,JAWA BARAT,Perdesaan,2014,Semester 1 (Maret),1.78
+3200,JAWA BARAT,Perdesaan,2014,Semester 2 (September),1.55
+3200,JAWA BARAT,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.32
+3200,JAWA BARAT,Perkotaan+Perdesaan,2013,Semester 2 (September),1.65
+3200,JAWA BARAT,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.52
+3200,JAWA BARAT,Perkotaan+Perdesaan,2014,Semester 2 (September),1.39
+3300,JAWA TENGAH,Perkotaan,2013,Semester 1 (Maret),2.01
+3300,JAWA TENGAH,Perkotaan,2013,Semester 2 (September),2.06
+3300,JAWA TENGAH,Perkotaan,2014,Semester 1 (Maret),1.85
+3300,JAWA TENGAH,Perkotaan,2014,Semester 2 (September),1.69
+3300,JAWA TENGAH,Perdesaan,2013,Semester 1 (Maret),2.38
+3300,JAWA TENGAH,Perdesaan,2013,Semester 2 (September),2.64
+3300,JAWA TENGAH,Perdesaan,2014,Semester 1 (Maret),2.59
+3300,JAWA TENGAH,Perdesaan,2014,Semester 2 (September),2.42
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2013,Semester 1 (Maret),2.21
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2013,Semester 2 (September),2.37
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.25
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2014,Semester 2 (September),2.09
+3400,DI YOGYAKARTA,Perkotaan,2013,Semester 1 (Maret),2.08
+3400,DI YOGYAKARTA,Perkotaan,2013,Semester 2 (September),2.18
+3400,DI YOGYAKARTA,Perkotaan,2014,Semester 1 (Maret),2.22
+3400,DI YOGYAKARTA,Perkotaan,2014,Semester 2 (September),2.03
+3400,DI YOGYAKARTA,Perdesaan,2013,Semester 1 (Maret),3.02
+3400,DI YOGYAKARTA,Perdesaan,2013,Semester 2 (September),2.03
+3400,DI YOGYAKARTA,Perdesaan,2014,Semester 1 (Maret),2.11
+3400,DI YOGYAKARTA,Perdesaan,2014,Semester 2 (September),2.98
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),2.4
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2013,Semester 2 (September),2.13
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.19
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2014,Semester 2 (September),2.35
+3500,JAWA TIMUR,Perkotaan,2013,Semester 1 (Maret),1.31
+3500,JAWA TIMUR,Perkotaan,2013,Semester 2 (September),1.42
+3500,JAWA TIMUR,Perkotaan,2014,Semester 1 (Maret),1.16
+3500,JAWA TIMUR,Perkotaan,2014,Semester 2 (September),1.24
+3500,JAWA TIMUR,Perdesaan,2013,Semester 1 (Maret),2.32
+3500,JAWA TIMUR,Perdesaan,2013,Semester 2 (September),2.66
+3500,JAWA TIMUR,Perdesaan,2014,Semester 1 (Maret),2.49
+3500,JAWA TIMUR,Perdesaan,2014,Semester 2 (September),2.42
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.84
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2013,Semester 2 (September),2.07
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.85
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2014,Semester 2 (September),1.86
+3600,BANTEN,Perkotaan,2013,Semester 1 (Maret),0.66
+3600,BANTEN,Perkotaan,2013,Semester 2 (September),1.14
+3600,BANTEN,Perkotaan,2014,Semester 1 (Maret),0.76
+3600,BANTEN,Perkotaan,2014,Semester 2 (September),0.65
+3600,BANTEN,Perdesaan,2013,Semester 1 (Maret),0.76
+3600,BANTEN,Perdesaan,2013,Semester 2 (September),0.77
+3600,BANTEN,Perdesaan,2014,Semester 1 (Maret),0.98
+3600,BANTEN,Perdesaan,2014,Semester 2 (September),1.08
+3600,BANTEN,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.7
+3600,BANTEN,Perkotaan+Perdesaan,2013,Semester 2 (September),1.02
+3600,BANTEN,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.83
+3600,BANTEN,Perkotaan+Perdesaan,2014,Semester 2 (September),0.79
+5100,BALI,Perkotaan,2013,Semester 1 (Maret),0.6
+5100,BALI,Perkotaan,2013,Semester 2 (September),0.8
+5100,BALI,Perkotaan,2014,Semester 1 (Maret),0.45
+5100,BALI,Perkotaan,2014,Semester 2 (September),0.68
+5100,BALI,Perdesaan,2013,Semester 1 (Maret),0.28
+5100,BALI,Perdesaan,2013,Semester 2 (September),0.55
+5100,BALI,Perdesaan,2014,Semester 1 (Maret),0.38
+5100,BALI,Perdesaan,2014,Semester 2 (September),1.15
+5100,BALI,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.47
+5100,BALI,Perkotaan+Perdesaan,2013,Semester 2 (September),0.7
+5100,BALI,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.42
+5100,BALI,Perkotaan+Perdesaan,2014,Semester 2 (September),0.86
+5200,NUSA TENGGARA BARAT,Perkotaan,2013,Semester 1 (Maret),2.96
+5200,NUSA TENGGARA BARAT,Perkotaan,2013,Semester 2 (September),3.6
+5200,NUSA TENGGARA BARAT,Perkotaan,2014,Semester 1 (Maret),2.73
+5200,NUSA TENGGARA BARAT,Perkotaan,2014,Semester 2 (September),3.9
+5200,NUSA TENGGARA BARAT,Perdesaan,2013,Semester 1 (Maret),2.59
+5200,NUSA TENGGARA BARAT,Perdesaan,2013,Semester 2 (September),2.09
+5200,NUSA TENGGARA BARAT,Perdesaan,2014,Semester 1 (Maret),2.44
+5200,NUSA TENGGARA BARAT,Perdesaan,2014,Semester 2 (September),2.22
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2013,Semester 1 (Maret),2.74
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2013,Semester 2 (September),2.72
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.56
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2014,Semester 2 (September),2.92
+5300,NUSA TENGGARA TIMUR,Perkotaan,2013,Semester 1 (Maret),1.41
+5300,NUSA TENGGARA TIMUR,Perkotaan,2013,Semester 2 (September),1.91
+5300,NUSA TENGGARA TIMUR,Perkotaan,2014,Semester 1 (Maret),1.82
+5300,NUSA TENGGARA TIMUR,Perkotaan,2014,Semester 2 (September),1.66
+5300,NUSA TENGGARA TIMUR,Perdesaan,2013,Semester 1 (Maret),3.88
+5300,NUSA TENGGARA TIMUR,Perdesaan,2013,Semester 2 (September),3.31
+5300,NUSA TENGGARA TIMUR,Perdesaan,2014,Semester 1 (Maret),3.71
+5300,NUSA TENGGARA TIMUR,Perdesaan,2014,Semester 2 (September),3.64
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2013,Semester 1 (Maret),3.39
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2013,Semester 2 (September),3.04
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2014,Semester 1 (Maret),3.34
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2014,Semester 2 (September),3.25
+6100,KALIMANTAN BARAT,Perkotaan,2013,Semester 1 (Maret),0.6
+6100,KALIMANTAN BARAT,Perkotaan,2013,Semester 2 (September),0.8
+6100,KALIMANTAN BARAT,Perkotaan,2014,Semester 1 (Maret),0.83
+6100,KALIMANTAN BARAT,Perkotaan,2014,Semester 2 (September),0.85
+6100,KALIMANTAN BARAT,Perdesaan,2013,Semester 1 (Maret),1.45
+6100,KALIMANTAN BARAT,Perdesaan,2013,Semester 2 (September),1.52
+6100,KALIMANTAN BARAT,Perdesaan,2014,Semester 1 (Maret),1.05
+6100,KALIMANTAN BARAT,Perdesaan,2014,Semester 2 (September),1.44
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.19
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2013,Semester 2 (September),1.3
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.98
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2014,Semester 2 (September),1.26
+6200,KALIMANTAN TENGAH,Perkotaan,2013,Semester 1 (Maret),0.63
+6200,KALIMANTAN TENGAH,Perkotaan,2013,Semester 2 (September),0.38
+6200,KALIMANTAN TENGAH,Perkotaan,2014,Semester 1 (Maret),0.8
+6200,KALIMANTAN TENGAH,Perkotaan,2014,Semester 2 (September),0.44
+6200,KALIMANTAN TENGAH,Perdesaan,2013,Semester 1 (Maret),0.98
+6200,KALIMANTAN TENGAH,Perdesaan,2013,Semester 2 (September),1.34
+6200,KALIMANTAN TENGAH,Perdesaan,2014,Semester 1 (Maret),0.72
+6200,KALIMANTAN TENGAH,Perdesaan,2014,Semester 2 (September),1.24
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.86
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2013,Semester 2 (September),1.02
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.75
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2014,Semester 2 (September),0.97
+6300,KALIMANTAN SELATAN,Perkotaan,2013,Semester 1 (Maret),0.36
+6300,KALIMANTAN SELATAN,Perkotaan,2013,Semester 2 (September),0.47
+6300,KALIMANTAN SELATAN,Perkotaan,2014,Semester 1 (Maret),0.68
+6300,KALIMANTAN SELATAN,Perkotaan,2014,Semester 2 (September),0.41
+6300,KALIMANTAN SELATAN,Perdesaan,2013,Semester 1 (Maret),0.65
+6300,KALIMANTAN SELATAN,Perdesaan,2013,Semester 2 (September),0.7
+6300,KALIMANTAN SELATAN,Perdesaan,2014,Semester 1 (Maret),0.59
+6300,KALIMANTAN SELATAN,Perdesaan,2014,Semester 2 (September),0.83
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.53
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2013,Semester 2 (September),0.61
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2014,Semester 1 (Maret),0.63
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2014,Semester 2 (September),0.65
+6400,KALIMANTAN TIMUR,Perkotaan,2013,Semester 1 (Maret),0.42
+6400,KALIMANTAN TIMUR,Perkotaan,2013,Semester 2 (September),0.8
+6400,KALIMANTAN TIMUR,Perkotaan,2014,Semester 1 (Maret),0.7
+6400,KALIMANTAN TIMUR,Perkotaan,2014,Semester 2 (September),0.55
+6400,KALIMANTAN TIMUR,Perdesaan,2013,Semester 1 (Maret),1.5
+6400,KALIMANTAN TIMUR,Perdesaan,2013,Semester 2 (September),1.98
+6400,KALIMANTAN TIMUR,Perdesaan,2014,Semester 1 (Maret),1.68
+6400,KALIMANTAN TIMUR,Perdesaan,2014,Semester 2 (September),1.19
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.83
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2013,Semester 2 (September),1.25
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.08
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2014,Semester 2 (September),0.79
+7100,SULAWESI UTARA,Perkotaan,2013,Semester 1 (Maret),0.94
+7100,SULAWESI UTARA,Perkotaan,2013,Semester 2 (September),0.96
+7100,SULAWESI UTARA,Perkotaan,2014,Semester 1 (Maret),0.73
+7100,SULAWESI UTARA,Perkotaan,2014,Semester 2 (September),0.98
+7100,SULAWESI UTARA,Perdesaan,2013,Semester 1 (Maret),1.38
+7100,SULAWESI UTARA,Perdesaan,2013,Semester 2 (September),1.32
+7100,SULAWESI UTARA,Perdesaan,2014,Semester 1 (Maret),1.59
+7100,SULAWESI UTARA,Perdesaan,2014,Semester 2 (September),1.53
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.18
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2013,Semester 2 (September),1.16
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.21
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2014,Semester 2 (September),1.28
+7200,SULAWESI TENGAH,Perkotaan,2013,Semester 1 (Maret),1.71
+7200,SULAWESI TENGAH,Perkotaan,2013,Semester 2 (September),1.32
+7200,SULAWESI TENGAH,Perkotaan,2014,Semester 1 (Maret),1.21
+7200,SULAWESI TENGAH,Perkotaan,2014,Semester 2 (September),2.18
+7200,SULAWESI TENGAH,Perdesaan,2013,Semester 1 (Maret),3.54
+7200,SULAWESI TENGAH,Perdesaan,2013,Semester 2 (September),2.59
+7200,SULAWESI TENGAH,Perdesaan,2014,Semester 1 (Maret),2.49
+7200,SULAWESI TENGAH,Perdesaan,2014,Semester 2 (September),2.09
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2013,Semester 1 (Maret),3.09
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2013,Semester 2 (September),2.28
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2014,Semester 1 (Maret),2.18
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2014,Semester 2 (September),2.11
+7300,SULAWESI SELATAN,Perkotaan,2013,Semester 1 (Maret),0.61
+7300,SULAWESI SELATAN,Perkotaan,2013,Semester 2 (September),0.88
+7300,SULAWESI SELATAN,Perkotaan,2014,Semester 1 (Maret),0.8
+7300,SULAWESI SELATAN,Perkotaan,2014,Semester 2 (September),0.75
+7300,SULAWESI SELATAN,Perdesaan,2013,Semester 1 (Maret),2.28
+7300,SULAWESI SELATAN,Perdesaan,2013,Semester 2 (September),2.1
+7300,SULAWESI SELATAN,Perdesaan,2014,Semester 1 (Maret),2.01
+7300,SULAWESI SELATAN,Perdesaan,2014,Semester 2 (September),1.8
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.67
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2013,Semester 2 (September),1.65
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.56
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2014,Semester 2 (September),1.41
+7400,SULAWESI TENGGARA,Perkotaan,2013,Semester 1 (Maret),0.51
+7400,SULAWESI TENGGARA,Perkotaan,2013,Semester 2 (September),0.6
+7400,SULAWESI TENGGARA,Perkotaan,2014,Semester 1 (Maret),0.86
+7400,SULAWESI TENGGARA,Perkotaan,2014,Semester 2 (September),0.96
+7400,SULAWESI TENGGARA,Perdesaan,2013,Semester 1 (Maret),2.74
+7400,SULAWESI TENGGARA,Perdesaan,2013,Semester 2 (September),2.31
+7400,SULAWESI TENGGARA,Perdesaan,2014,Semester 1 (Maret),2.43
+7400,SULAWESI TENGGARA,Perdesaan,2014,Semester 2 (September),2.53
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),2.12
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2013,Semester 2 (September),1.83
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.99
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2014,Semester 2 (September),2.09
+7500,GORONTALO,Perkotaan,2013,Semester 1 (Maret),0.32
+7500,GORONTALO,Perkotaan,2013,Semester 2 (September),0.65
+7500,GORONTALO,Perkotaan,2014,Semester 1 (Maret),0.93
+7500,GORONTALO,Perkotaan,2014,Semester 2 (September),1.09
+7500,GORONTALO,Perdesaan,2013,Semester 1 (Maret),4.65
+7500,GORONTALO,Perdesaan,2013,Semester 2 (September),4.55
+7500,GORONTALO,Perdesaan,2014,Semester 1 (Maret),4.52
+7500,GORONTALO,Perdesaan,2014,Semester 2 (September),4.19
+7500,GORONTALO,Perkotaan+Perdesaan,2013,Semester 1 (Maret),3.18
+7500,GORONTALO,Perkotaan+Perdesaan,2013,Semester 2 (September),3.22
+7500,GORONTALO,Perkotaan+Perdesaan,2014,Semester 1 (Maret),3.29
+7500,GORONTALO,Perkotaan+Perdesaan,2014,Semester 2 (September),3.13
+7600,SULAWESI BARAT,Perkotaan,2013,Semester 1 (Maret),0.82
+7600,SULAWESI BARAT,Perkotaan,2013,Semester 2 (September),0.48
+7600,SULAWESI BARAT,Perkotaan,2014,Semester 1 (Maret),0.98
+7600,SULAWESI BARAT,Perkotaan,2014,Semester 2 (September),2.21
+7600,SULAWESI BARAT,Perdesaan,2013,Semester 1 (Maret),2.21
+7600,SULAWESI BARAT,Perdesaan,2013,Semester 2 (September),1.54
+7600,SULAWESI BARAT,Perdesaan,2014,Semester 1 (Maret),1.58
+7600,SULAWESI BARAT,Perdesaan,2014,Semester 2 (September),1.86
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.89
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2013,Semester 2 (September),1.3
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.44
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2014,Semester 2 (September),1.94
+8100,MALUKU,Perkotaan,2013,Semester 1 (Maret),1.49
+8100,MALUKU,Perkotaan,2013,Semester 2 (September),1.13
+8100,MALUKU,Perkotaan,2014,Semester 1 (Maret),1.53
+8100,MALUKU,Perkotaan,2014,Semester 2 (September),1.14
+8100,MALUKU,Perdesaan,2013,Semester 1 (Maret),5.3
+8100,MALUKU,Perdesaan,2013,Semester 2 (September),5.0
+8100,MALUKU,Perdesaan,2014,Semester 1 (Maret),5.23
+8100,MALUKU,Perdesaan,2014,Semester 2 (September),5.99
+8100,MALUKU,Perkotaan+Perdesaan,2013,Semester 1 (Maret),3.88
+8100,MALUKU,Perkotaan+Perdesaan,2013,Semester 2 (September),3.52
+8100,MALUKU,Perkotaan+Perdesaan,2014,Semester 1 (Maret),3.8
+8100,MALUKU,Perkotaan+Perdesaan,2014,Semester 2 (September),4.11
+8200,MALUKU UTARA,Perkotaan,2013,Semester 1 (Maret),0.31
+8200,MALUKU UTARA,Perkotaan,2013,Semester 2 (September),0.27
+8200,MALUKU UTARA,Perkotaan,2014,Semester 1 (Maret),0.44
+8200,MALUKU UTARA,Perkotaan,2014,Semester 2 (September),0.4
+8200,MALUKU UTARA,Perdesaan,2013,Semester 1 (Maret),0.95
+8200,MALUKU UTARA,Perdesaan,2013,Semester 2 (September),1.13
+8200,MALUKU UTARA,Perdesaan,2014,Semester 1 (Maret),1.35
+8200,MALUKU UTARA,Perdesaan,2014,Semester 2 (September),1.44
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),0.78
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2013,Semester 2 (September),0.89
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.1
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2014,Semester 2 (September),1.16
+9100,PAPUA BARAT,Perkotaan,2013,Semester 1 (Maret),0.6
+9100,PAPUA BARAT,Perkotaan,2013,Semester 2 (September),0.63
+9100,PAPUA BARAT,Perkotaan,2014,Semester 1 (Maret),1.3
+9100,PAPUA BARAT,Perkotaan,2014,Semester 2 (September),1.0
+9100,PAPUA BARAT,Perdesaan,2013,Semester 1 (Maret),8.81
+9100,PAPUA BARAT,Perdesaan,2013,Semester 2 (September),8.2
+9100,PAPUA BARAT,Perdesaan,2014,Semester 1 (Maret),8.28
+9100,PAPUA BARAT,Perdesaan,2014,Semester 2 (September),8.0
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2013,Semester 1 (Maret),6.35
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2013,Semester 2 (September),5.89
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2014,Semester 1 (Maret),6.2
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2014,Semester 2 (September),5.92
+9400,PAPUA,Perkotaan,2013,Semester 1 (Maret),1.11
+9400,PAPUA,Perkotaan,2013,Semester 2 (September),0.48
+9400,PAPUA,Perkotaan,2014,Semester 1 (Maret),0.73
+9400,PAPUA,Perkotaan,2014,Semester 2 (September),0.48
+9400,PAPUA,Perdesaan,2013,Semester 1 (Maret),8.92
+9400,PAPUA,Perdesaan,2013,Semester 2 (September),8.69
+9400,PAPUA,Perdesaan,2014,Semester 1 (Maret),8.96
+9400,PAPUA,Perdesaan,2014,Semester 2 (September),8.48
+9400,PAPUA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),6.89
+9400,PAPUA,Perkotaan+Perdesaan,2013,Semester 2 (September),6.56
+9400,PAPUA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),6.84
+9400,PAPUA,Perkotaan+Perdesaan,2014,Semester 2 (September),6.42
+9999,INDONESIA,Perkotaan,2013,Semester 1 (Maret),1.25
+9999,INDONESIA,Perkotaan,2013,Semester 2 (September),1.41
+9999,INDONESIA,Perkotaan,2014,Semester 1 (Maret),1.25
+9999,INDONESIA,Perkotaan,2014,Semester 2 (September),1.25
+9999,INDONESIA,Perdesaan,2013,Semester 1 (Maret),2.24
+9999,INDONESIA,Perdesaan,2013,Semester 2 (September),2.37
+9999,INDONESIA,Perdesaan,2014,Semester 1 (Maret),2.26
+9999,INDONESIA,Perdesaan,2014,Semester 2 (September),2.25
+9999,INDONESIA,Perkotaan+Perdesaan,2013,Semester 1 (Maret),1.75
+9999,INDONESIA,Perkotaan+Perdesaan,2013,Semester 2 (September),1.89
+9999,INDONESIA,Perkotaan+Perdesaan,2014,Semester 1 (Maret),1.75
+9999,INDONESIA,Perkotaan+Perdesaan,2014,Semester 2 (September),1.75
+1100,ACEH,Perkotaan,2015,Semester 1 (Maret),2.24
+1100,ACEH,Perkotaan,2015,Semester 2 (September),1.84
+1100,ACEH,Perkotaan,2016,Semester 1 (Maret),2.3
+1100,ACEH,Perkotaan,2016,Semester 2 (September),1.45
+1100,ACEH,Perdesaan,2015,Semester 1 (Maret),3.44
+1100,ACEH,Perdesaan,2015,Semester 2 (September),3.61
+1100,ACEH,Perdesaan,2016,Semester 1 (Maret),3.96
+1100,ACEH,Perdesaan,2016,Semester 2 (September),3.74
+1100,ACEH,Perkotaan+Perdesaan,2015,Semester 1 (Maret),3.1
+1100,ACEH,Perkotaan+Perdesaan,2015,Semester 2 (September),3.11
+1100,ACEH,Perkotaan+Perdesaan,2016,Semester 1 (Maret),3.48
+1100,ACEH,Perkotaan+Perdesaan,2016,Semester 2 (September),3.06
+1200,SUMATERA UTARA,Perkotaan,2015,Semester 1 (Maret),1.6
+1200,SUMATERA UTARA,Perkotaan,2015,Semester 2 (September),1.57
+1200,SUMATERA UTARA,Perkotaan,2016,Semester 1 (Maret),1.75
+1200,SUMATERA UTARA,Perkotaan,2016,Semester 2 (September),1.62
+1200,SUMATERA UTARA,Perdesaan,2015,Semester 1 (Maret),1.7
+1200,SUMATERA UTARA,Perdesaan,2015,Semester 2 (September),2.21
+1200,SUMATERA UTARA,Perdesaan,2016,Semester 1 (Maret),1.79
+1200,SUMATERA UTARA,Perdesaan,2016,Semester 2 (September),2.3
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.65
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2015,Semester 2 (September),1.89
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.77
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2016,Semester 2 (September),1.96
+1300,SUMATERA BARAT,Perkotaan,2015,Semester 1 (Maret),0.79
+1300,SUMATERA BARAT,Perkotaan,2015,Semester 2 (September),1.06
+1300,SUMATERA BARAT,Perkotaan,2016,Semester 1 (Maret),0.75
+1300,SUMATERA BARAT,Perkotaan,2016,Semester 2 (September),1.04
+1300,SUMATERA BARAT,Perdesaan,2015,Semester 1 (Maret),1.1
+1300,SUMATERA BARAT,Perdesaan,2015,Semester 2 (September),1.39
+1300,SUMATERA BARAT,Perdesaan,2016,Semester 1 (Maret),1.33
+1300,SUMATERA BARAT,Perdesaan,2016,Semester 2 (September),1.18
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.98
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2015,Semester 2 (September),1.26
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.1
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2016,Semester 2 (September),1.12
+1400,RIAU,Perkotaan,2015,Semester 1 (Maret),1.09
+1400,RIAU,Perkotaan,2015,Semester 2 (September),0.83
+1400,RIAU,Perkotaan,2016,Semester 1 (Maret),0.93
+1400,RIAU,Perkotaan,2016,Semester 2 (September),1.33
+1400,RIAU,Perdesaan,2015,Semester 1 (Maret),1.57
+1400,RIAU,Perdesaan,2015,Semester 2 (September),1.85
+1400,RIAU,Perdesaan,2016,Semester 1 (Maret),1.63
+1400,RIAU,Perdesaan,2016,Semester 2 (September),1.37
+1400,RIAU,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.38
+1400,RIAU,Perkotaan+Perdesaan,2015,Semester 2 (September),1.45
+1400,RIAU,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.36
+1400,RIAU,Perkotaan+Perdesaan,2016,Semester 2 (September),1.36
+1500,JAMBI,Perkotaan,2015,Semester 1 (Maret),2.13
+1500,JAMBI,Perkotaan,2015,Semester 2 (September),1.61
+1500,JAMBI,Perkotaan,2016,Semester 1 (Maret),2.1
+1500,JAMBI,Perkotaan,2016,Semester 2 (September),2.41
+1500,JAMBI,Perdesaan,2015,Semester 1 (Maret),1.12
+1500,JAMBI,Perdesaan,2015,Semester 2 (September),1.6
+1500,JAMBI,Perdesaan,2016,Semester 1 (Maret),1.19
+1500,JAMBI,Perdesaan,2016,Semester 2 (September),0.97
+1500,JAMBI,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.42
+1500,JAMBI,Perkotaan+Perdesaan,2015,Semester 2 (September),1.6
+1500,JAMBI,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.47
+1500,JAMBI,Perkotaan+Perdesaan,2016,Semester 2 (September),1.42
+1600,SUMATERA SELATAN,Perkotaan,2015,Semester 1 (Maret),2.35
+1600,SUMATERA SELATAN,Perkotaan,2015,Semester 2 (September),1.27
+1600,SUMATERA SELATAN,Perkotaan,2016,Semester 1 (Maret),1.79
+1600,SUMATERA SELATAN,Perkotaan,2016,Semester 2 (September),1.89
+1600,SUMATERA SELATAN,Perdesaan,2015,Semester 1 (Maret),2.53
+1600,SUMATERA SELATAN,Perdesaan,2015,Semester 2 (September),2.21
+1600,SUMATERA SELATAN,Perdesaan,2016,Semester 1 (Maret),2.14
+1600,SUMATERA SELATAN,Perdesaan,2016,Semester 2 (September),2.0
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.46
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2015,Semester 2 (September),1.88
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2016,Semester 1 (Maret),2.02
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2016,Semester 2 (September),1.96
+1700,BENGKULU,Perkotaan,2015,Semester 1 (Maret),3.93
+1700,BENGKULU,Perkotaan,2015,Semester 2 (September),4.19
+1700,BENGKULU,Perkotaan,2016,Semester 1 (Maret),2.83
+1700,BENGKULU,Perkotaan,2016,Semester 2 (September),2.89
+1700,BENGKULU,Perdesaan,2015,Semester 1 (Maret),3.28
+1700,BENGKULU,Perdesaan,2015,Semester 2 (September),3.38
+1700,BENGKULU,Perdesaan,2016,Semester 1 (Maret),3.29
+1700,BENGKULU,Perdesaan,2016,Semester 2 (September),2.74
+1700,BENGKULU,Perkotaan+Perdesaan,2015,Semester 1 (Maret),3.48
+1700,BENGKULU,Perkotaan+Perdesaan,2015,Semester 2 (September),3.63
+1700,BENGKULU,Perkotaan+Perdesaan,2016,Semester 1 (Maret),3.14
+1700,BENGKULU,Perkotaan+Perdesaan,2016,Semester 2 (September),2.79
+1800,LAMPUNG,Perkotaan,2015,Semester 1 (Maret),1.67
+1800,LAMPUNG,Perkotaan,2015,Semester 2 (September),1.54
+1800,LAMPUNG,Perkotaan,2016,Semester 1 (Maret),1.86
+1800,LAMPUNG,Perkotaan,2016,Semester 2 (September),1.29
+1800,LAMPUNG,Perdesaan,2015,Semester 1 (Maret),2.6
+1800,LAMPUNG,Perdesaan,2015,Semester 2 (September),2.65
+1800,LAMPUNG,Perdesaan,2016,Semester 1 (Maret),2.91
+1800,LAMPUNG,Perdesaan,2016,Semester 2 (September),2.16
+1800,LAMPUNG,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.36
+1800,LAMPUNG,Perkotaan+Perdesaan,2015,Semester 2 (September),2.36
+1800,LAMPUNG,Perkotaan+Perdesaan,2016,Semester 1 (Maret),2.63
+1800,LAMPUNG,Perkotaan+Perdesaan,2016,Semester 2 (September),1.92
+1900,KEP. BANGKA BELITUNG,Perkotaan,2015,Semester 1 (Maret),0.38
+1900,KEP. BANGKA BELITUNG,Perkotaan,2015,Semester 2 (September),0.57
+1900,KEP. BANGKA BELITUNG,Perkotaan,2016,Semester 1 (Maret),0.38
+1900,KEP. BANGKA BELITUNG,Perkotaan,2016,Semester 2 (September),0.29
+1900,KEP. BANGKA BELITUNG,Perdesaan,2015,Semester 1 (Maret),0.95
+1900,KEP. BANGKA BELITUNG,Perdesaan,2015,Semester 2 (September),1.22
+1900,KEP. BANGKA BELITUNG,Perdesaan,2016,Semester 1 (Maret),0.98
+1900,KEP. BANGKA BELITUNG,Perdesaan,2016,Semester 2 (September),1.25
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.67
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2015,Semester 2 (September),0.9
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.67
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2016,Semester 2 (September),0.75
+2100,KEP. RIAU,Perkotaan,2015,Semester 1 (Maret),0.91
+2100,KEP. RIAU,Perkotaan,2015,Semester 2 (September),0.8
+2100,KEP. RIAU,Perkotaan,2016,Semester 1 (Maret),0.77
+2100,KEP. RIAU,Perkotaan,2016,Semester 2 (September),0.62
+2100,KEP. RIAU,Perdesaan,2015,Semester 1 (Maret),1.26
+2100,KEP. RIAU,Perdesaan,2015,Semester 2 (September),1.2
+2100,KEP. RIAU,Perdesaan,2016,Semester 1 (Maret),1.53
+2100,KEP. RIAU,Perdesaan,2016,Semester 2 (September),1.23
+2100,KEP. RIAU,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.97
+2100,KEP. RIAU,Perkotaan+Perdesaan,2015,Semester 2 (September),0.86
+2100,KEP. RIAU,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.89
+2100,KEP. RIAU,Perkotaan+Perdesaan,2016,Semester 2 (September),0.71
+3100,DKI JAKARTA,Perkotaan,2015,Semester 1 (Maret),0.52
+3100,DKI JAKARTA,Perkotaan,2015,Semester 2 (September),0.27
+3100,DKI JAKARTA,Perkotaan,2016,Semester 1 (Maret),0.46
+3100,DKI JAKARTA,Perkotaan,2016,Semester 2 (September),0.43
+3100,DKI JAKARTA,Perdesaan,2015,Semester 1 (Maret),0.0
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.52
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2015,Semester 2 (September),0.27
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.46
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2016,Semester 2 (September),0.43
+3200,JAWA BARAT,Perkotaan,2015,Semester 1 (Maret),1.51
+3200,JAWA BARAT,Perkotaan,2015,Semester 2 (September),1.4
+3200,JAWA BARAT,Perkotaan,2016,Semester 1 (Maret),1.17
+3200,JAWA BARAT,Perkotaan,2016,Semester 2 (September),1.08
+3200,JAWA BARAT,Perdesaan,2015,Semester 1 (Maret),1.87
+3200,JAWA BARAT,Perdesaan,2015,Semester 2 (September),2.23
+3200,JAWA BARAT,Perdesaan,2016,Semester 1 (Maret),2.2
+3200,JAWA BARAT,Perdesaan,2016,Semester 2 (September),1.77
+3200,JAWA BARAT,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.63
+3200,JAWA BARAT,Perkotaan+Perdesaan,2015,Semester 2 (September),1.67
+3200,JAWA BARAT,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.49
+3200,JAWA BARAT,Perkotaan+Perdesaan,2016,Semester 2 (September),1.28
+3300,JAWA TENGAH,Perkotaan,2015,Semester 1 (Maret),2.02
+3300,JAWA TENGAH,Perkotaan,2015,Semester 2 (September),2.03
+3300,JAWA TENGAH,Perkotaan,2016,Semester 1 (Maret),1.78
+3300,JAWA TENGAH,Perkotaan,2016,Semester 2 (September),1.94
+3300,JAWA TENGAH,Perdesaan,2015,Semester 1 (Maret),2.8
+3300,JAWA TENGAH,Perdesaan,2015,Semester 2 (September),2.28
+3300,JAWA TENGAH,Perdesaan,2016,Semester 1 (Maret),2.9
+3300,JAWA TENGAH,Perdesaan,2016,Semester 2 (September),2.3
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.44
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2015,Semester 2 (September),2.17
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2016,Semester 1 (Maret),2.37
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2016,Semester 2 (September),2.12
+3400,DI YOGYAKARTA,Perkotaan,2015,Semester 1 (Maret),2.55
+3400,DI YOGYAKARTA,Perkotaan,2015,Semester 2 (September),2.19
+3400,DI YOGYAKARTA,Perkotaan,2016,Semester 1 (Maret),1.78
+3400,DI YOGYAKARTA,Perkotaan,2016,Semester 2 (September),1.27
+3400,DI YOGYAKARTA,Perdesaan,2015,Semester 1 (Maret),3.7
+3400,DI YOGYAKARTA,Perdesaan,2015,Semester 2 (September),2.57
+3400,DI YOGYAKARTA,Perdesaan,2016,Semester 1 (Maret),3.41
+3400,DI YOGYAKARTA,Perdesaan,2016,Semester 2 (September),2.83
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.93
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2015,Semester 2 (September),2.32
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),2.3
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2016,Semester 2 (September),1.75
+3500,JAWA TIMUR,Perkotaan,2015,Semester 1 (Maret),1.28
+3500,JAWA TIMUR,Perkotaan,2015,Semester 2 (September),1.28
+3500,JAWA TIMUR,Perkotaan,2016,Semester 1 (Maret),1.1
+3500,JAWA TIMUR,Perkotaan,2016,Semester 2 (September),1.33
+3500,JAWA TIMUR,Perdesaan,2015,Semester 1 (Maret),2.79
+3500,JAWA TIMUR,Perdesaan,2015,Semester 2 (September),2.9
+3500,JAWA TIMUR,Perdesaan,2016,Semester 1 (Maret),2.83
+3500,JAWA TIMUR,Perdesaan,2016,Semester 2 (September),2.57
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.06
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2015,Semester 2 (September),2.13
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.99
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2016,Semester 2 (September),1.95
+3600,BANTEN,Perkotaan,2015,Semester 1 (Maret),0.87
+3600,BANTEN,Perkotaan,2015,Semester 2 (September),0.82
+3600,BANTEN,Perkotaan,2016,Semester 1 (Maret),0.61
+3600,BANTEN,Perkotaan,2016,Semester 2 (September),0.69
+3600,BANTEN,Perdesaan,2015,Semester 1 (Maret),1.08
+3600,BANTEN,Perdesaan,2015,Semester 2 (September),1.07
+3600,BANTEN,Perdesaan,2016,Semester 1 (Maret),1.21
+3600,BANTEN,Perdesaan,2016,Semester 2 (September),0.93
+3600,BANTEN,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.94
+3600,BANTEN,Perkotaan+Perdesaan,2015,Semester 2 (September),0.9
+3600,BANTEN,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.8
+3600,BANTEN,Perkotaan+Perdesaan,2016,Semester 2 (September),0.76
+5100,BALI,Perkotaan,2015,Semester 1 (Maret),0.63
+5100,BALI,Perkotaan,2015,Semester 2 (September),1.09
+5100,BALI,Perkotaan,2016,Semester 1 (Maret),0.45
+5100,BALI,Perkotaan,2016,Semester 2 (September),0.4
+5100,BALI,Perdesaan,2015,Semester 1 (Maret),0.71
+5100,BALI,Perdesaan,2015,Semester 2 (September),1.2
+5100,BALI,Perdesaan,2016,Semester 1 (Maret),0.62
+5100,BALI,Perdesaan,2016,Semester 2 (September),0.76
+5100,BALI,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.66
+5100,BALI,Perkotaan+Perdesaan,2015,Semester 2 (September),1.13
+5100,BALI,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.51
+5100,BALI,Perkotaan+Perdesaan,2016,Semester 2 (September),0.53
+5200,NUSA TENGGARA BARAT,Perkotaan,2015,Semester 1 (Maret),4.05
+5200,NUSA TENGGARA BARAT,Perkotaan,2015,Semester 2 (September),2.68
+5200,NUSA TENGGARA BARAT,Perkotaan,2016,Semester 1 (Maret),3.14
+5200,NUSA TENGGARA BARAT,Perkotaan,2016,Semester 2 (September),3.03
+5200,NUSA TENGGARA BARAT,Perdesaan,2015,Semester 1 (Maret),2.66
+5200,NUSA TENGGARA BARAT,Perdesaan,2015,Semester 2 (September),2.76
+5200,NUSA TENGGARA BARAT,Perdesaan,2016,Semester 1 (Maret),2.9
+5200,NUSA TENGGARA BARAT,Perdesaan,2016,Semester 2 (September),2.31
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2015,Semester 1 (Maret),3.25
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2015,Semester 2 (September),2.72
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2016,Semester 1 (Maret),3.0
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2016,Semester 2 (September),2.63
+5300,NUSA TENGGARA TIMUR,Perkotaan,2015,Semester 1 (Maret),1.66
+5300,NUSA TENGGARA TIMUR,Perkotaan,2015,Semester 2 (September),1.78
+5300,NUSA TENGGARA TIMUR,Perkotaan,2016,Semester 1 (Maret),1.75
+5300,NUSA TENGGARA TIMUR,Perkotaan,2016,Semester 2 (September),1.7
+5300,NUSA TENGGARA TIMUR,Perdesaan,2015,Semester 1 (Maret),4.66
+5300,NUSA TENGGARA TIMUR,Perdesaan,2015,Semester 2 (September),5.33
+5300,NUSA TENGGARA TIMUR,Perdesaan,2016,Semester 1 (Maret),5.44
+5300,NUSA TENGGARA TIMUR,Perdesaan,2016,Semester 2 (September),4.4
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2015,Semester 1 (Maret),4.06
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2015,Semester 2 (September),4.62
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2016,Semester 1 (Maret),4.69
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2016,Semester 2 (September),3.83
+6100,KALIMANTAN BARAT,Perkotaan,2015,Semester 1 (Maret),0.86
+6100,KALIMANTAN BARAT,Perkotaan,2015,Semester 2 (September),0.77
+6100,KALIMANTAN BARAT,Perkotaan,2016,Semester 1 (Maret),0.66
+6100,KALIMANTAN BARAT,Perkotaan,2016,Semester 2 (September),0.67
+6100,KALIMANTAN BARAT,Perdesaan,2015,Semester 1 (Maret),1.48
+6100,KALIMANTAN BARAT,Perdesaan,2015,Semester 2 (September),1.23
+6100,KALIMANTAN BARAT,Perdesaan,2016,Semester 1 (Maret),1.59
+6100,KALIMANTAN BARAT,Perdesaan,2016,Semester 2 (September),1.35
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.29
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2015,Semester 2 (September),1.09
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.3
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2016,Semester 2 (September),1.13
+6200,KALIMANTAN TENGAH,Perkotaan,2015,Semester 1 (Maret),0.73
+6200,KALIMANTAN TENGAH,Perkotaan,2015,Semester 2 (September),1.05
+6200,KALIMANTAN TENGAH,Perkotaan,2016,Semester 1 (Maret),0.54
+6200,KALIMANTAN TENGAH,Perkotaan,2016,Semester 2 (September),0.68
+6200,KALIMANTAN TENGAH,Perdesaan,2015,Semester 1 (Maret),0.97
+6200,KALIMANTAN TENGAH,Perdesaan,2015,Semester 2 (September),1.0
+6200,KALIMANTAN TENGAH,Perdesaan,2016,Semester 1 (Maret),1.03
+6200,KALIMANTAN TENGAH,Perdesaan,2016,Semester 2 (September),0.63
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.89
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2015,Semester 2 (September),1.02
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.86
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2016,Semester 2 (September),0.65
+6300,KALIMANTAN SELATAN,Perkotaan,2015,Semester 1 (Maret),0.55
+6300,KALIMANTAN SELATAN,Perkotaan,2015,Semester 2 (September),1.13
+6300,KALIMANTAN SELATAN,Perkotaan,2016,Semester 1 (Maret),0.58
+6300,KALIMANTAN SELATAN,Perkotaan,2016,Semester 2 (September),0.72
+6300,KALIMANTAN SELATAN,Perdesaan,2015,Semester 1 (Maret),0.89
+6300,KALIMANTAN SELATAN,Perdesaan,2015,Semester 2 (September),0.87
+6300,KALIMANTAN SELATAN,Perdesaan,2016,Semester 1 (Maret),0.81
+6300,KALIMANTAN SELATAN,Perdesaan,2016,Semester 2 (September),0.67
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.74
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2015,Semester 2 (September),0.98
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.71
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2016,Semester 2 (September),0.69
+6400,KALIMANTAN TIMUR,Perkotaan,2015,Semester 1 (Maret),0.62
+6400,KALIMANTAN TIMUR,Perkotaan,2015,Semester 2 (September),0.29
+6400,KALIMANTAN TIMUR,Perkotaan,2016,Semester 1 (Maret),0.55
+6400,KALIMANTAN TIMUR,Perkotaan,2016,Semester 2 (September),0.59
+6400,KALIMANTAN TIMUR,Perdesaan,2015,Semester 1 (Maret),1.38
+6400,KALIMANTAN TIMUR,Perdesaan,2015,Semester 2 (September),1.37
+6400,KALIMANTAN TIMUR,Perdesaan,2016,Semester 1 (Maret),1.94
+6400,KALIMANTAN TIMUR,Perdesaan,2016,Semester 2 (September),1.23
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.9
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2015,Semester 2 (September),0.69
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.04
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2016,Semester 2 (September),0.81
+6500,KALIMANTAN UTARA,Perkotaan,2015,Semester 1 (Maret),0.51
+6500,KALIMANTAN UTARA,Perkotaan,2015,Semester 2 (September),0.41
+6500,KALIMANTAN UTARA,Perkotaan,2016,Semester 1 (Maret),0.59
+6500,KALIMANTAN UTARA,Perkotaan,2016,Semester 2 (September),0.74
+6500,KALIMANTAN UTARA,Perdesaan,2015,Semester 1 (Maret),1.14
+6500,KALIMANTAN UTARA,Perdesaan,2015,Semester 2 (September),1.08
+6500,KALIMANTAN UTARA,Perdesaan,2016,Semester 1 (Maret),1.04
+6500,KALIMANTAN UTARA,Perdesaan,2016,Semester 2 (September),1.06
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.79
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2015,Semester 2 (September),0.7
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.78
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2016,Semester 2 (September),0.88
+7100,SULAWESI UTARA,Perkotaan,2015,Semester 1 (Maret),0.82
+7100,SULAWESI UTARA,Perkotaan,2015,Semester 2 (September),0.63
+7100,SULAWESI UTARA,Perkotaan,2016,Semester 1 (Maret),0.78
+7100,SULAWESI UTARA,Perkotaan,2016,Semester 2 (September),0.79
+7100,SULAWESI UTARA,Perdesaan,2015,Semester 1 (Maret),1.78
+7100,SULAWESI UTARA,Perdesaan,2015,Semester 2 (September),2.3
+7100,SULAWESI UTARA,Perdesaan,2016,Semester 1 (Maret),2.19
+7100,SULAWESI UTARA,Perdesaan,2016,Semester 2 (September),1.89
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.34
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2015,Semester 2 (September),1.54
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.53
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2016,Semester 2 (September),1.38
+7200,SULAWESI TENGAH,Perkotaan,2015,Semester 1 (Maret),1.78
+7200,SULAWESI TENGAH,Perkotaan,2015,Semester 2 (September),1.41
+7200,SULAWESI TENGAH,Perkotaan,2016,Semester 1 (Maret),1.89
+7200,SULAWESI TENGAH,Perkotaan,2016,Semester 2 (September),1.93
+7200,SULAWESI TENGAH,Perdesaan,2015,Semester 1 (Maret),2.76
+7200,SULAWESI TENGAH,Perdesaan,2015,Semester 2 (September),2.69
+7200,SULAWESI TENGAH,Perdesaan,2016,Semester 1 (Maret),3.01
+7200,SULAWESI TENGAH,Perdesaan,2016,Semester 2 (September),2.4
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.52
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2015,Semester 2 (September),2.37
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2016,Semester 1 (Maret),2.72
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2016,Semester 2 (September),2.28
+7300,SULAWESI SELATAN,Perkotaan,2015,Semester 1 (Maret),0.66
+7300,SULAWESI SELATAN,Perkotaan,2015,Semester 2 (September),0.41
+7300,SULAWESI SELATAN,Perkotaan,2016,Semester 1 (Maret),0.65
+7300,SULAWESI SELATAN,Perkotaan,2016,Semester 2 (September),0.92
+7300,SULAWESI SELATAN,Perdesaan,2015,Semester 1 (Maret),2.3
+7300,SULAWESI SELATAN,Perdesaan,2015,Semester 2 (September),2.28
+7300,SULAWESI SELATAN,Perdesaan,2016,Semester 1 (Maret),2.56
+7300,SULAWESI SELATAN,Perdesaan,2016,Semester 2 (September),1.93
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.69
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2015,Semester 2 (September),1.58
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.83
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2016,Semester 2 (September),1.53
+7400,SULAWESI TENGGARA,Perkotaan,2015,Semester 1 (Maret),1.29
+7400,SULAWESI TENGGARA,Perkotaan,2015,Semester 2 (September),1.71
+7400,SULAWESI TENGGARA,Perkotaan,2016,Semester 1 (Maret),1.33
+7400,SULAWESI TENGGARA,Perkotaan,2016,Semester 2 (September),1.14
+7400,SULAWESI TENGGARA,Perdesaan,2015,Semester 1 (Maret),3.18
+7400,SULAWESI TENGGARA,Perdesaan,2015,Semester 2 (September),2.19
+7400,SULAWESI TENGGARA,Perdesaan,2016,Semester 1 (Maret),3.37
+7400,SULAWESI TENGGARA,Perdesaan,2016,Semester 2 (September),2.35
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),2.64
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2015,Semester 2 (September),2.05
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),2.76
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2016,Semester 2 (September),1.98
+7500,GORONTALO,Perkotaan,2015,Semester 1 (Maret),1.02
+7500,GORONTALO,Perkotaan,2015,Semester 2 (September),1.32
+7500,GORONTALO,Perkotaan,2016,Semester 1 (Maret),0.9
+7500,GORONTALO,Perkotaan,2016,Semester 2 (September),0.72
+7500,GORONTALO,Perdesaan,2015,Semester 1 (Maret),5.53
+7500,GORONTALO,Perdesaan,2015,Semester 2 (September),4.01
+7500,GORONTALO,Perdesaan,2016,Semester 1 (Maret),5.93
+7500,GORONTALO,Perdesaan,2016,Semester 2 (September),3.95
+7500,GORONTALO,Perkotaan+Perdesaan,2015,Semester 1 (Maret),3.97
+7500,GORONTALO,Perkotaan+Perdesaan,2015,Semester 2 (September),3.08
+7500,GORONTALO,Perkotaan+Perdesaan,2016,Semester 1 (Maret),4.12
+7500,GORONTALO,Perkotaan+Perdesaan,2016,Semester 2 (September),2.79
+7600,SULAWESI BARAT,Perkotaan,2015,Semester 1 (Maret),1.49
+7600,SULAWESI BARAT,Perkotaan,2015,Semester 2 (September),0.9
+7600,SULAWESI BARAT,Perkotaan,2016,Semester 1 (Maret),0.9
+7600,SULAWESI BARAT,Perkotaan,2016,Semester 2 (September),1.69
+7600,SULAWESI BARAT,Perdesaan,2015,Semester 1 (Maret),2.04
+7600,SULAWESI BARAT,Perdesaan,2015,Semester 2 (September),1.7
+7600,SULAWESI BARAT,Perdesaan,2016,Semester 1 (Maret),2.22
+7600,SULAWESI BARAT,Perdesaan,2016,Semester 2 (September),1.9
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.93
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2015,Semester 2 (September),1.54
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.95
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2016,Semester 2 (September),1.85
+8100,MALUKU,Perkotaan,2015,Semester 1 (Maret),1.36
+8100,MALUKU,Perkotaan,2015,Semester 2 (September),1.98
+8100,MALUKU,Perkotaan,2016,Semester 1 (Maret),1.47
+8100,MALUKU,Perkotaan,2016,Semester 2 (September),1.25
+8100,MALUKU,Perdesaan,2015,Semester 1 (Maret),4.89
+8100,MALUKU,Perdesaan,2015,Semester 2 (September),6.57
+8100,MALUKU,Perdesaan,2016,Semester 1 (Maret),5.06
+8100,MALUKU,Perdesaan,2016,Semester 2 (September),5.44
+8100,MALUKU,Perkotaan+Perdesaan,2015,Semester 1 (Maret),3.52
+8100,MALUKU,Perkotaan+Perdesaan,2015,Semester 2 (September),4.79
+8100,MALUKU,Perkotaan+Perdesaan,2016,Semester 1 (Maret),3.63
+8100,MALUKU,Perkotaan+Perdesaan,2016,Semester 2 (September),3.76
+8200,MALUKU UTARA,Perkotaan,2015,Semester 1 (Maret),0.29
+8200,MALUKU UTARA,Perkotaan,2015,Semester 2 (September),0.61
+8200,MALUKU UTARA,Perkotaan,2016,Semester 1 (Maret),0.37
+8200,MALUKU UTARA,Perkotaan,2016,Semester 2 (September),0.25
+8200,MALUKU UTARA,Perdesaan,2015,Semester 1 (Maret),0.86
+8200,MALUKU UTARA,Perdesaan,2015,Semester 2 (September),1.35
+8200,MALUKU UTARA,Perdesaan,2016,Semester 1 (Maret),0.86
+8200,MALUKU UTARA,Perdesaan,2016,Semester 2 (September),1.18
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),0.7
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2015,Semester 2 (September),1.15
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),0.73
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2016,Semester 2 (September),0.92
+9100,PAPUA BARAT,Perkotaan,2015,Semester 1 (Maret),0.72
+9100,PAPUA BARAT,Perkotaan,2015,Semester 2 (September),0.82
+9100,PAPUA BARAT,Perkotaan,2016,Semester 1 (Maret),0.86
+9100,PAPUA BARAT,Perkotaan,2016,Semester 2 (September),1.3
+9100,PAPUA BARAT,Perdesaan,2015,Semester 1 (Maret),9.6
+9100,PAPUA BARAT,Perdesaan,2015,Semester 2 (September),8.02
+9100,PAPUA BARAT,Perdesaan,2016,Semester 1 (Maret),11.19
+9100,PAPUA BARAT,Perdesaan,2016,Semester 2 (September),9.51
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2015,Semester 1 (Maret),6.24
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2015,Semester 2 (September),5.29
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2016,Semester 1 (Maret),7.21
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2016,Semester 2 (September),6.28
+9400,PAPUA,Perkotaan,2015,Semester 1 (Maret),0.79
+9400,PAPUA,Perkotaan,2015,Semester 2 (September),0.18
+9400,PAPUA,Perkotaan,2016,Semester 1 (Maret),0.88
+9400,PAPUA,Perkotaan,2016,Semester 2 (September),0.79
+9400,PAPUA,Perdesaan,2015,Semester 1 (Maret),11.72
+9400,PAPUA,Perdesaan,2015,Semester 2 (September),1.09
+9400,PAPUA,Perdesaan,2016,Semester 1 (Maret),12.39
+9400,PAPUA,Perdesaan,2016,Semester 2 (September),9.82
+9400,PAPUA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),8.82
+9400,PAPUA,Perkotaan+Perdesaan,2015,Semester 2 (September),0.85
+9400,PAPUA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),9.37
+9400,PAPUA,Perkotaan+Perdesaan,2016,Semester 2 (September),7.44
+9999,INDONESIA,Perkotaan,2015,Semester 1 (Maret),1.4
+9999,INDONESIA,Perkotaan,2015,Semester 2 (September),1.29
+9999,INDONESIA,Perkotaan,2016,Semester 1 (Maret),1.19
+9999,INDONESIA,Perkotaan,2016,Semester 2 (September),1.21
+9999,INDONESIA,Perdesaan,2015,Semester 1 (Maret),2.55
+9999,INDONESIA,Perdesaan,2015,Semester 2 (September),2.4
+9999,INDONESIA,Perdesaan,2016,Semester 1 (Maret),2.74
+9999,INDONESIA,Perdesaan,2016,Semester 2 (September),2.32
+9999,INDONESIA,Perkotaan+Perdesaan,2015,Semester 1 (Maret),1.97
+9999,INDONESIA,Perkotaan+Perdesaan,2015,Semester 2 (September),1.84
+9999,INDONESIA,Perkotaan+Perdesaan,2016,Semester 1 (Maret),1.94
+9999,INDONESIA,Perkotaan+Perdesaan,2016,Semester 2 (September),1.74
+1100,ACEH,Perkotaan,2017,Semester 1 (Maret),1.55
+1100,ACEH,Perkotaan,2017,Semester 2 (September),1.67
+1100,ACEH,Perkotaan,2018,Semester 1 (Maret),1.58
+1100,ACEH,Perkotaan,2018,Semester 2 (September),1.52
+1100,ACEH,Perdesaan,2017,Semester 1 (Maret),3.59
+1100,ACEH,Perdesaan,2017,Semester 2 (September),3.47
+1100,ACEH,Perdesaan,2018,Semester 1 (Maret),3.42
+1100,ACEH,Perdesaan,2018,Semester 2 (September),3.41
+1100,ACEH,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.98
+1100,ACEH,Perkotaan+Perdesaan,2017,Semester 2 (September),2.92
+1100,ACEH,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.85
+1100,ACEH,Perkotaan+Perdesaan,2018,Semester 2 (September),2.8
+1200,SUMATERA UTARA,Perkotaan,2017,Semester 1 (Maret),1.53
+1200,SUMATERA UTARA,Perkotaan,2017,Semester 2 (September),1.42
+1200,SUMATERA UTARA,Perkotaan,2018,Semester 1 (Maret),1.49
+1200,SUMATERA UTARA,Perkotaan,2018,Semester 2 (September),1.4
+1200,SUMATERA UTARA,Perdesaan,2017,Semester 1 (Maret),1.9
+1200,SUMATERA UTARA,Perdesaan,2017,Semester 2 (September),1.58
+1200,SUMATERA UTARA,Perdesaan,2018,Semester 1 (Maret),1.64
+1200,SUMATERA UTARA,Perdesaan,2018,Semester 2 (September),1.53
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.71
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2017,Semester 2 (September),1.5
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.56
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2018,Semester 2 (September),1.46
+1300,SUMATERA BARAT,Perkotaan,2017,Semester 1 (Maret),0.75
+1300,SUMATERA BARAT,Perkotaan,2017,Semester 2 (September),0.6
+1300,SUMATERA BARAT,Perkotaan,2018,Semester 1 (Maret),0.66
+1300,SUMATERA BARAT,Perkotaan,2018,Semester 2 (September),0.88
+1300,SUMATERA BARAT,Perdesaan,2017,Semester 1 (Maret),1.18
+1300,SUMATERA BARAT,Perdesaan,2017,Semester 2 (September),1.28
+1300,SUMATERA BARAT,Perdesaan,2018,Semester 1 (Maret),1.33
+1300,SUMATERA BARAT,Perdesaan,2018,Semester 2 (September),1.03
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.0
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2017,Semester 2 (September),0.99
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.04
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2018,Semester 2 (September),0.96
+1400,RIAU,Perkotaan,2017,Semester 1 (Maret),1.33
+1400,RIAU,Perkotaan,2017,Semester 2 (September),0.97
+1400,RIAU,Perkotaan,2018,Semester 1 (Maret),0.99
+1400,RIAU,Perkotaan,2018,Semester 2 (September),0.86
+1400,RIAU,Perdesaan,2017,Semester 1 (Maret),1.32
+1400,RIAU,Perdesaan,2017,Semester 2 (September),0.95
+1400,RIAU,Perdesaan,2018,Semester 1 (Maret),1.33
+1400,RIAU,Perdesaan,2018,Semester 2 (September),1.17
+1400,RIAU,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.32
+1400,RIAU,Perkotaan+Perdesaan,2017,Semester 2 (September),0.96
+1400,RIAU,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.2
+1400,RIAU,Perkotaan+Perdesaan,2018,Semester 2 (September),1.05
+1500,JAMBI,Perkotaan,2017,Semester 1 (Maret),1.75
+1500,JAMBI,Perkotaan,2017,Semester 2 (September),1.32
+1500,JAMBI,Perkotaan,2018,Semester 1 (Maret),1.68
+1500,JAMBI,Perkotaan,2018,Semester 2 (September),1.96
+1500,JAMBI,Perdesaan,2017,Semester 1 (Maret),1.07
+1500,JAMBI,Perdesaan,2017,Semester 2 (September),0.84
+1500,JAMBI,Perdesaan,2018,Semester 1 (Maret),1.12
+1500,JAMBI,Perdesaan,2018,Semester 2 (September),0.92
+1500,JAMBI,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.28
+1500,JAMBI,Perkotaan+Perdesaan,2017,Semester 2 (September),0.99
+1500,JAMBI,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.3
+1500,JAMBI,Perkotaan+Perdesaan,2018,Semester 2 (September),1.26
+1600,SUMATERA SELATAN,Perkotaan,2017,Semester 1 (Maret),2.04
+1600,SUMATERA SELATAN,Perkotaan,2017,Semester 2 (September),2.02
+1600,SUMATERA SELATAN,Perkotaan,2018,Semester 1 (Maret),2.08
+1600,SUMATERA SELATAN,Perkotaan,2018,Semester 2 (September),2.2
+1600,SUMATERA SELATAN,Perdesaan,2017,Semester 1 (Maret),2.36
+1600,SUMATERA SELATAN,Perdesaan,2017,Semester 2 (September),2.63
+1600,SUMATERA SELATAN,Perdesaan,2018,Semester 1 (Maret),2.48
+1600,SUMATERA SELATAN,Perdesaan,2018,Semester 2 (September),1.98
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.24
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2017,Semester 2 (September),2.4
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.33
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2018,Semester 2 (September),2.06
+1700,BENGKULU,Perkotaan,2017,Semester 1 (Maret),2.97
+1700,BENGKULU,Perkotaan,2017,Semester 2 (September),3.24
+1700,BENGKULU,Perkotaan,2018,Semester 1 (Maret),2.51
+1700,BENGKULU,Perkotaan,2018,Semester 2 (September),2.18
+1700,BENGKULU,Perdesaan,2017,Semester 1 (Maret),2.8
+1700,BENGKULU,Perdesaan,2017,Semester 2 (September),2.53
+1700,BENGKULU,Perdesaan,2018,Semester 1 (Maret),2.64
+1700,BENGKULU,Perdesaan,2018,Semester 2 (September),2.43
+1700,BENGKULU,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.85
+1700,BENGKULU,Perkotaan+Perdesaan,2017,Semester 2 (September),2.76
+1700,BENGKULU,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.59
+1700,BENGKULU,Perkotaan+Perdesaan,2018,Semester 2 (September),2.35
+1800,LAMPUNG,Perkotaan,2017,Semester 1 (Maret),1.55
+1800,LAMPUNG,Perkotaan,2017,Semester 2 (September),1.41
+1800,LAMPUNG,Perkotaan,2018,Semester 1 (Maret),1.48
+1800,LAMPUNG,Perkotaan,2018,Semester 2 (September),1.39
+1800,LAMPUNG,Perdesaan,2017,Semester 1 (Maret),2.4
+1800,LAMPUNG,Perdesaan,2017,Semester 2 (September),2.39
+1800,LAMPUNG,Perdesaan,2018,Semester 1 (Maret),2.28
+1800,LAMPUNG,Perdesaan,2018,Semester 2 (September),2.36
+1800,LAMPUNG,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.16
+1800,LAMPUNG,Perkotaan+Perdesaan,2017,Semester 2 (September),2.11
+1800,LAMPUNG,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.04
+1800,LAMPUNG,Perkotaan+Perdesaan,2018,Semester 2 (September),2.06
+1900,KEP. BANGKA BELITUNG,Perkotaan,2017,Semester 1 (Maret),0.26
+1900,KEP. BANGKA BELITUNG,Perkotaan,2017,Semester 2 (September),0.49
+1900,KEP. BANGKA BELITUNG,Perkotaan,2018,Semester 1 (Maret),0.36
+1900,KEP. BANGKA BELITUNG,Perkotaan,2018,Semester 2 (September),0.38
+1900,KEP. BANGKA BELITUNG,Perdesaan,2017,Semester 1 (Maret),0.75
+1900,KEP. BANGKA BELITUNG,Perdesaan,2017,Semester 2 (September),0.66
+1900,KEP. BANGKA BELITUNG,Perdesaan,2018,Semester 1 (Maret),1.06
+1900,KEP. BANGKA BELITUNG,Perdesaan,2018,Semester 2 (September),1.14
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.49
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2017,Semester 2 (September),0.57
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.69
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2018,Semester 2 (September),0.73
+2100,KEP. RIAU,Perkotaan,2017,Semester 1 (Maret),0.86
+2100,KEP. RIAU,Perkotaan,2017,Semester 2 (September),1.24
+2100,KEP. RIAU,Perkotaan,2018,Semester 1 (Maret),0.82
+2100,KEP. RIAU,Perkotaan,2018,Semester 2 (September),0.5
+2100,KEP. RIAU,Perdesaan,2017,Semester 1 (Maret),1.61
+2100,KEP. RIAU,Perdesaan,2017,Semester 2 (September),0.88
+2100,KEP. RIAU,Perdesaan,2018,Semester 1 (Maret),2.06
+2100,KEP. RIAU,Perdesaan,2018,Semester 2 (September),1.29
+2100,KEP. RIAU,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.97
+2100,KEP. RIAU,Perkotaan+Perdesaan,2017,Semester 2 (September),1.18
+2100,KEP. RIAU,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.0
+2100,KEP. RIAU,Perkotaan+Perdesaan,2018,Semester 2 (September),0.59
+3100,DKI JAKARTA,Perkotaan,2017,Semester 1 (Maret),0.49
+3100,DKI JAKARTA,Perkotaan,2017,Semester 2 (September),0.61
+3100,DKI JAKARTA,Perkotaan,2018,Semester 1 (Maret),0.51
+3100,DKI JAKARTA,Perkotaan,2018,Semester 2 (September),0.5
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.49
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2017,Semester 2 (September),0.61
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.51
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2018,Semester 2 (September),0.5
+3200,JAWA BARAT,Perkotaan,2017,Semester 1 (Maret),1.2
+3200,JAWA BARAT,Perkotaan,2017,Semester 2 (September),1.19
+3200,JAWA BARAT,Perkotaan,2018,Semester 1 (Maret),1.13
+3200,JAWA BARAT,Perkotaan,2018,Semester 2 (September),1.06
+3200,JAWA BARAT,Perdesaan,2017,Semester 1 (Maret),2.07
+3200,JAWA BARAT,Perdesaan,2017,Semester 2 (September),1.95
+3200,JAWA BARAT,Perdesaan,2018,Semester 1 (Maret),1.84
+3200,JAWA BARAT,Perdesaan,2018,Semester 2 (September),1.36
+3200,JAWA BARAT,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.45
+3200,JAWA BARAT,Perkotaan+Perdesaan,2017,Semester 2 (September),1.39
+3200,JAWA BARAT,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.32
+3200,JAWA BARAT,Perkotaan+Perdesaan,2018,Semester 2 (September),1.13
+3300,JAWA TENGAH,Perkotaan,2017,Semester 1 (Maret),1.83
+3300,JAWA TENGAH,Perkotaan,2017,Semester 2 (September),1.79
+3300,JAWA TENGAH,Perkotaan,2018,Semester 1 (Maret),1.57
+3300,JAWA TENGAH,Perkotaan,2018,Semester 2 (September),1.43
+3300,JAWA TENGAH,Perdesaan,2017,Semester 1 (Maret),2.59
+3300,JAWA TENGAH,Perdesaan,2017,Semester 2 (September),2.44
+3300,JAWA TENGAH,Perdesaan,2018,Semester 1 (Maret),2.14
+3300,JAWA TENGAH,Perdesaan,2018,Semester 2 (September),1.83
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.21
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2017,Semester 2 (September),2.12
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.85
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2018,Semester 2 (September),1.63
+3400,DI YOGYAKARTA,Perkotaan,2017,Semester 1 (Maret),2.15
+3400,DI YOGYAKARTA,Perkotaan,2017,Semester 2 (September),1.79
+3400,DI YOGYAKARTA,Perkotaan,2018,Semester 1 (Maret),1.91
+3400,DI YOGYAKARTA,Perkotaan,2018,Semester 2 (September),1.58
+3400,DI YOGYAKARTA,Perdesaan,2017,Semester 1 (Maret),2.29
+3400,DI YOGYAKARTA,Perdesaan,2017,Semester 2 (September),2.86
+3400,DI YOGYAKARTA,Perdesaan,2018,Semester 1 (Maret),2.48
+3400,DI YOGYAKARTA,Perdesaan,2018,Semester 2 (September),1.85
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.19
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2017,Semester 2 (September),2.09
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.07
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2018,Semester 2 (September),1.65
+3500,JAWA TIMUR,Perkotaan,2017,Semester 1 (Maret),1.18
+3500,JAWA TIMUR,Perkotaan,2017,Semester 2 (September),1.37
+3500,JAWA TIMUR,Perkotaan,2018,Semester 1 (Maret),1.17
+3500,JAWA TIMUR,Perkotaan,2018,Semester 2 (September),1.2
+3500,JAWA TIMUR,Perdesaan,2017,Semester 1 (Maret),2.6
+3500,JAWA TIMUR,Perdesaan,2017,Semester 2 (September),2.86
+3500,JAWA TIMUR,Perdesaan,2018,Semester 1 (Maret),2.8
+3500,JAWA TIMUR,Perdesaan,2018,Semester 2 (September),3.04
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.87
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2017,Semester 2 (September),2.09
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.95
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2018,Semester 2 (September),2.07
+3600,BANTEN,Perkotaan,2017,Semester 1 (Maret),0.7
+3600,BANTEN,Perkotaan,2017,Semester 2 (September),0.71
+3600,BANTEN,Perkotaan,2018,Semester 1 (Maret),0.69
+3600,BANTEN,Perkotaan,2018,Semester 2 (September),0.68
+3600,BANTEN,Perdesaan,2017,Semester 1 (Maret),1.22
+3600,BANTEN,Perdesaan,2017,Semester 2 (September),0.94
+3600,BANTEN,Perdesaan,2018,Semester 1 (Maret),1.14
+3600,BANTEN,Perdesaan,2018,Semester 2 (September),1.45
+3600,BANTEN,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.86
+3600,BANTEN,Perkotaan+Perdesaan,2017,Semester 2 (September),0.78
+3600,BANTEN,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.82
+3600,BANTEN,Perkotaan+Perdesaan,2018,Semester 2 (September),0.91
+5100,BALI,Perkotaan,2017,Semester 1 (Maret),0.58
+5100,BALI,Perkotaan,2017,Semester 2 (September),0.49
+5100,BALI,Perkotaan,2018,Semester 1 (Maret),0.5
+5100,BALI,Perkotaan,2018,Semester 2 (September),0.44
+5100,BALI,Perdesaan,2017,Semester 1 (Maret),0.87
+5100,BALI,Perdesaan,2017,Semester 2 (September),0.67
+5100,BALI,Perdesaan,2018,Semester 1 (Maret),1.04
+5100,BALI,Perdesaan,2018,Semester 2 (September),0.67
+5100,BALI,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.68
+5100,BALI,Perkotaan+Perdesaan,2017,Semester 2 (September),0.55
+5100,BALI,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.69
+5100,BALI,Perkotaan+Perdesaan,2018,Semester 2 (September),0.52
+5200,NUSA TENGGARA BARAT,Perkotaan,2017,Semester 1 (Maret),3.59
+5200,NUSA TENGGARA BARAT,Perkotaan,2017,Semester 2 (September),3.0
+5200,NUSA TENGGARA BARAT,Perkotaan,2018,Semester 1 (Maret),3.24
+5200,NUSA TENGGARA BARAT,Perkotaan,2018,Semester 2 (September),2.35
+5200,NUSA TENGGARA BARAT,Perdesaan,2017,Semester 1 (Maret),2.76
+5200,NUSA TENGGARA BARAT,Perdesaan,2017,Semester 2 (September),2.32
+5200,NUSA TENGGARA BARAT,Perdesaan,2018,Semester 1 (Maret),2.45
+5200,NUSA TENGGARA BARAT,Perdesaan,2018,Semester 2 (September),2.41
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2017,Semester 1 (Maret),3.13
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2017,Semester 2 (September),2.63
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.82
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2018,Semester 2 (September),2.38
+5300,NUSA TENGGARA TIMUR,Perkotaan,2017,Semester 1 (Maret),1.82
+5300,NUSA TENGGARA TIMUR,Perkotaan,2017,Semester 2 (September),1.82
+5300,NUSA TENGGARA TIMUR,Perkotaan,2018,Semester 1 (Maret),1.61
+5300,NUSA TENGGARA TIMUR,Perkotaan,2018,Semester 2 (September),1.03
+5300,NUSA TENGGARA TIMUR,Perdesaan,2017,Semester 1 (Maret),5.03
+5300,NUSA TENGGARA TIMUR,Perdesaan,2017,Semester 2 (September),4.83
+5300,NUSA TENGGARA TIMUR,Perdesaan,2018,Semester 1 (Maret),4.59
+5300,NUSA TENGGARA TIMUR,Perdesaan,2018,Semester 2 (September),5.62
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2017,Semester 1 (Maret),4.34
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2017,Semester 2 (September),4.16
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2018,Semester 1 (Maret),3.91
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2018,Semester 2 (September),4.55
+6100,KALIMANTAN BARAT,Perkotaan,2017,Semester 1 (Maret),0.91
+6100,KALIMANTAN BARAT,Perkotaan,2017,Semester 2 (September),0.7
+6100,KALIMANTAN BARAT,Perkotaan,2018,Semester 1 (Maret),0.84
+6100,KALIMANTAN BARAT,Perkotaan,2018,Semester 2 (September),0.68
+6100,KALIMANTAN BARAT,Perdesaan,2017,Semester 1 (Maret),1.38
+6100,KALIMANTAN BARAT,Perdesaan,2017,Semester 2 (September),1.18
+6100,KALIMANTAN BARAT,Perdesaan,2018,Semester 1 (Maret),1.36
+6100,KALIMANTAN BARAT,Perdesaan,2018,Semester 2 (September),1.48
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.23
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2017,Semester 2 (September),1.02
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.18
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2018,Semester 2 (September),1.21
+6200,KALIMANTAN TENGAH,Perkotaan,2017,Semester 1 (Maret),0.78
+6200,KALIMANTAN TENGAH,Perkotaan,2017,Semester 2 (September),0.79
+6200,KALIMANTAN TENGAH,Perkotaan,2018,Semester 1 (Maret),0.88
+6200,KALIMANTAN TENGAH,Perkotaan,2018,Semester 2 (September),0.63
+6200,KALIMANTAN TENGAH,Perdesaan,2017,Semester 1 (Maret),0.87
+6200,KALIMANTAN TENGAH,Perdesaan,2017,Semester 2 (September),0.87
+6200,KALIMANTAN TENGAH,Perdesaan,2018,Semester 1 (Maret),0.76
+6200,KALIMANTAN TENGAH,Perdesaan,2018,Semester 2 (September),0.94
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.84
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2017,Semester 2 (September),0.84
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.81
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2018,Semester 2 (September),0.82
+6300,KALIMANTAN SELATAN,Perkotaan,2017,Semester 1 (Maret),0.56
+6300,KALIMANTAN SELATAN,Perkotaan,2017,Semester 2 (September),0.46
+6300,KALIMANTAN SELATAN,Perkotaan,2018,Semester 1 (Maret),0.61
+6300,KALIMANTAN SELATAN,Perkotaan,2018,Semester 2 (September),0.61
+6300,KALIMANTAN SELATAN,Perdesaan,2017,Semester 1 (Maret),0.85
+6300,KALIMANTAN SELATAN,Perdesaan,2017,Semester 2 (September),0.97
+6300,KALIMANTAN SELATAN,Perdesaan,2018,Semester 1 (Maret),0.76
+6300,KALIMANTAN SELATAN,Perdesaan,2018,Semester 2 (September),0.88
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.72
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2017,Semester 2 (September),0.74
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.69
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2018,Semester 2 (September),0.75
+6400,KALIMANTAN TIMUR,Perkotaan,2017,Semester 1 (Maret),0.47
+6400,KALIMANTAN TIMUR,Perkotaan,2017,Semester 2 (September),0.56
+6400,KALIMANTAN TIMUR,Perkotaan,2018,Semester 1 (Maret),0.66
+6400,KALIMANTAN TIMUR,Perkotaan,2018,Semester 2 (September),0.54
+6400,KALIMANTAN TIMUR,Perdesaan,2017,Semester 1 (Maret),1.71
+6400,KALIMANTAN TIMUR,Perdesaan,2017,Semester 2 (September),1.5
+6400,KALIMANTAN TIMUR,Perdesaan,2018,Semester 1 (Maret),1.23
+6400,KALIMANTAN TIMUR,Perdesaan,2018,Semester 2 (September),1.24
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.89
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2017,Semester 2 (September),0.87
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.85
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2018,Semester 2 (September),0.76
+6500,KALIMANTAN UTARA,Perkotaan,2017,Semester 1 (Maret),0.99
+6500,KALIMANTAN UTARA,Perkotaan,2017,Semester 2 (September),1.05
+6500,KALIMANTAN UTARA,Perkotaan,2018,Semester 1 (Maret),0.96
+6500,KALIMANTAN UTARA,Perkotaan,2018,Semester 2 (September),0.87
+6500,KALIMANTAN UTARA,Perdesaan,2017,Semester 1 (Maret),1.51
+6500,KALIMANTAN UTARA,Perdesaan,2017,Semester 2 (September),1.71
+6500,KALIMANTAN UTARA,Perdesaan,2018,Semester 1 (Maret),1.28
+6500,KALIMANTAN UTARA,Perdesaan,2018,Semester 2 (September),0.97
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.21
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2017,Semester 2 (September),1.32
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.1
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2018,Semester 2 (September),0.91
+7100,SULAWESI UTARA,Perkotaan,2017,Semester 1 (Maret),0.79
+7100,SULAWESI UTARA,Perkotaan,2017,Semester 2 (September),0.84
+7100,SULAWESI UTARA,Perkotaan,2018,Semester 1 (Maret),0.77
+7100,SULAWESI UTARA,Perkotaan,2018,Semester 2 (September),0.63
+7100,SULAWESI UTARA,Perdesaan,2017,Semester 1 (Maret),1.89
+7100,SULAWESI UTARA,Perdesaan,2017,Semester 2 (September),1.73
+7100,SULAWESI UTARA,Perdesaan,2018,Semester 1 (Maret),1.77
+7100,SULAWESI UTARA,Perdesaan,2018,Semester 2 (September),2.05
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.37
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2017,Semester 2 (September),1.3
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.27
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2018,Semester 2 (September),1.31
+7200,SULAWESI TENGAH,Perkotaan,2017,Semester 1 (Maret),2.05
+7200,SULAWESI TENGAH,Perkotaan,2017,Semester 2 (September),1.85
+7200,SULAWESI TENGAH,Perkotaan,2018,Semester 1 (Maret),2.02
+7200,SULAWESI TENGAH,Perkotaan,2018,Semester 2 (September),1.3
+7200,SULAWESI TENGAH,Perdesaan,2017,Semester 1 (Maret),2.73
+7200,SULAWESI TENGAH,Perdesaan,2017,Semester 2 (September),3.14
+7200,SULAWESI TENGAH,Perdesaan,2018,Semester 1 (Maret),2.88
+7200,SULAWESI TENGAH,Perdesaan,2018,Semester 2 (September),2.68
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2017,Semester 1 (Maret),2.55
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2017,Semester 2 (September),2.8
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.64
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2018,Semester 2 (September),2.28
+7300,SULAWESI SELATAN,Perkotaan,2017,Semester 1 (Maret),0.81
+7300,SULAWESI SELATAN,Perkotaan,2017,Semester 2 (September),0.83
+7300,SULAWESI SELATAN,Perkotaan,2018,Semester 1 (Maret),0.83
+7300,SULAWESI SELATAN,Perkotaan,2018,Semester 2 (September),0.56
+7300,SULAWESI SELATAN,Perdesaan,2017,Semester 1 (Maret),2.32
+7300,SULAWESI SELATAN,Perdesaan,2017,Semester 2 (September),2.65
+7300,SULAWESI SELATAN,Perdesaan,2018,Semester 1 (Maret),2.07
+7300,SULAWESI SELATAN,Perdesaan,2018,Semester 2 (September),2.52
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.72
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2017,Semester 2 (September),1.92
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.55
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2018,Semester 2 (September),1.68
+7400,SULAWESI TENGGARA,Perkotaan,2017,Semester 1 (Maret),0.95
+7400,SULAWESI TENGGARA,Perkotaan,2017,Semester 2 (September),1.18
+7400,SULAWESI TENGGARA,Perkotaan,2018,Semester 1 (Maret),0.73
+7400,SULAWESI TENGGARA,Perkotaan,2018,Semester 2 (September),1.27
+7400,SULAWESI TENGGARA,Perdesaan,2017,Semester 1 (Maret),2.3
+7400,SULAWESI TENGGARA,Perdesaan,2017,Semester 2 (September),2.61
+7400,SULAWESI TENGGARA,Perdesaan,2018,Semester 1 (Maret),2.86
+7400,SULAWESI TENGGARA,Perdesaan,2018,Semester 2 (September),2.61
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.87
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2017,Semester 2 (September),2.09
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),2.04
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2018,Semester 2 (September),2.09
+7500,GORONTALO,Perkotaan,2017,Semester 1 (Maret),0.87
+7500,GORONTALO,Perkotaan,2017,Semester 2 (September),0.58
+7500,GORONTALO,Perkotaan,2018,Semester 1 (Maret),0.78
+7500,GORONTALO,Perkotaan,2018,Semester 2 (September),0.3
+7500,GORONTALO,Perdesaan,2017,Semester 1 (Maret),5.29
+7500,GORONTALO,Perdesaan,2017,Semester 2 (September),4.9
+7500,GORONTALO,Perdesaan,2018,Semester 1 (Maret),4.5
+7500,GORONTALO,Perdesaan,2018,Semester 2 (September),4.95
+7500,GORONTALO,Perkotaan+Perdesaan,2017,Semester 1 (Maret),3.68
+7500,GORONTALO,Perkotaan+Perdesaan,2017,Semester 2 (September),3.31
+7500,GORONTALO,Perkotaan+Perdesaan,2018,Semester 1 (Maret),3.06
+7500,GORONTALO,Perkotaan+Perdesaan,2018,Semester 2 (September),3.02
+7600,SULAWESI BARAT,Perkotaan,2017,Semester 1 (Maret),0.89
+7600,SULAWESI BARAT,Perkotaan,2017,Semester 2 (September),0.98
+7600,SULAWESI BARAT,Perkotaan,2018,Semester 1 (Maret),1.22
+7600,SULAWESI BARAT,Perkotaan,2018,Semester 2 (September),0.98
+7600,SULAWESI BARAT,Perdesaan,2017,Semester 1 (Maret),2.14
+7600,SULAWESI BARAT,Perdesaan,2017,Semester 2 (September),2.06
+7600,SULAWESI BARAT,Perdesaan,2018,Semester 1 (Maret),1.92
+7600,SULAWESI BARAT,Perdesaan,2018,Semester 2 (September),1.74
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.88
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2017,Semester 2 (September),1.81
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.76
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2018,Semester 2 (September),1.56
+8100,MALUKU,Perkotaan,2017,Semester 1 (Maret),1.22
+8100,MALUKU,Perkotaan,2017,Semester 2 (September),1.57
+8100,MALUKU,Perkotaan,2018,Semester 1 (Maret),0.94
+8100,MALUKU,Perkotaan,2018,Semester 2 (September),0.57
+8100,MALUKU,Perdesaan,2017,Semester 1 (Maret),5.07
+8100,MALUKU,Perdesaan,2017,Semester 2 (September),4.71
+8100,MALUKU,Perdesaan,2018,Semester 1 (Maret),5.29
+8100,MALUKU,Perdesaan,2018,Semester 2 (September),5.37
+8100,MALUKU,Perkotaan+Perdesaan,2017,Semester 1 (Maret),3.5
+8100,MALUKU,Perkotaan+Perdesaan,2017,Semester 2 (September),3.41
+8100,MALUKU,Perkotaan+Perdesaan,2018,Semester 1 (Maret),3.47
+8100,MALUKU,Perkotaan+Perdesaan,2018,Semester 2 (September),3.31
+8200,MALUKU UTARA,Perkotaan,2017,Semester 1 (Maret),0.67
+8200,MALUKU UTARA,Perkotaan,2017,Semester 2 (September),0.57
+8200,MALUKU UTARA,Perkotaan,2018,Semester 1 (Maret),0.69
+8200,MALUKU UTARA,Perkotaan,2018,Semester 2 (September),0.62
+8200,MALUKU UTARA,Perdesaan,2017,Semester 1 (Maret),0.86
+8200,MALUKU UTARA,Perdesaan,2017,Semester 2 (September),0.91
+8200,MALUKU UTARA,Perdesaan,2018,Semester 1 (Maret),0.97
+8200,MALUKU UTARA,Perdesaan,2018,Semester 2 (September),1.5
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),0.81
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2017,Semester 2 (September),0.81
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),0.89
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2018,Semester 2 (September),1.25
+9100,PAPUA BARAT,Perkotaan,2017,Semester 1 (Maret),0.99
+9100,PAPUA BARAT,Perkotaan,2017,Semester 2 (September),0.83
+9100,PAPUA BARAT,Perkotaan,2018,Semester 1 (Maret),0.71
+9100,PAPUA BARAT,Perkotaan,2018,Semester 2 (September),0.89
+9100,PAPUA BARAT,Perdesaan,2017,Semester 1 (Maret),10.43
+9100,PAPUA BARAT,Perdesaan,2017,Semester 2 (September),11.81
+9100,PAPUA BARAT,Perdesaan,2018,Semester 1 (Maret),10.11
+9100,PAPUA BARAT,Perdesaan,2018,Semester 2 (September),10.32
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2017,Semester 1 (Maret),6.74
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2017,Semester 2 (September),7.41
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2018,Semester 1 (Maret),6.29
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2018,Semester 2 (September),6.5
+9400,PAPUA,Perkotaan,2017,Semester 1 (Maret),0.65
+9400,PAPUA,Perkotaan,2017,Semester 2 (September),0.57
+9400,PAPUA,Perkotaan,2018,Semester 1 (Maret),0.84
+9400,PAPUA,Perkotaan,2018,Semester 2 (September),0.76
+9400,PAPUA,Perdesaan,2017,Semester 1 (Maret),10.03
+9400,PAPUA,Perdesaan,2017,Semester 2 (September),8.4
+9400,PAPUA,Perdesaan,2018,Semester 1 (Maret),8.98
+9400,PAPUA,Perdesaan,2018,Semester 2 (September),7.94
+9400,PAPUA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),7.5
+9400,PAPUA,Perkotaan+Perdesaan,2017,Semester 2 (September),6.25
+9400,PAPUA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),6.73
+9400,PAPUA,Perkotaan+Perdesaan,2018,Semester 2 (September),5.91
+9999,INDONESIA,Perkotaan,2017,Semester 1 (Maret),1.24
+9999,INDONESIA,Perkotaan,2017,Semester 2 (September),1.24
+9999,INDONESIA,Perkotaan,2018,Semester 1 (Maret),1.17
+9999,INDONESIA,Perkotaan,2018,Semester 2 (September),1.08
+9999,INDONESIA,Perdesaan,2017,Semester 1 (Maret),2.49
+9999,INDONESIA,Perdesaan,2017,Semester 2 (September),2.43
+9999,INDONESIA,Perdesaan,2018,Semester 1 (Maret),2.37
+9999,INDONESIA,Perdesaan,2018,Semester 2 (September),2.32
+9999,INDONESIA,Perkotaan+Perdesaan,2017,Semester 1 (Maret),1.83
+9999,INDONESIA,Perkotaan+Perdesaan,2017,Semester 2 (September),1.79
+9999,INDONESIA,Perkotaan+Perdesaan,2018,Semester 1 (Maret),1.71
+9999,INDONESIA,Perkotaan+Perdesaan,2018,Semester 2 (September),1.63
+1100,ACEH,Perkotaan,2019,Semester 1 (Maret),1.59
+1100,ACEH,Perkotaan,2019,Semester 2 (September),1.5
+1100,ACEH,Perkotaan,2020,Semester 1 (Maret),1.55
+1100,ACEH,Perkotaan,2020,Semester 2 (September),1.61
+1100,ACEH,Perdesaan,2019,Semester 1 (Maret),3.15
+1100,ACEH,Perdesaan,2019,Semester 2 (September),3.1
+1100,ACEH,Perdesaan,2020,Semester 1 (Maret),3.28
+1100,ACEH,Perdesaan,2020,Semester 2 (September),3.46
+1100,ACEH,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.64
+1100,ACEH,Perkotaan+Perdesaan,2019,Semester 2 (September),2.58
+1100,ACEH,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.72
+1100,ACEH,Perkotaan+Perdesaan,2020,Semester 2 (September),2.85
+1200,SUMATERA UTARA,Perkotaan,2019,Semester 1 (Maret),1.23
+1200,SUMATERA UTARA,Perkotaan,2019,Semester 2 (September),1.34
+1200,SUMATERA UTARA,Perkotaan,2020,Semester 1 (Maret),1.48
+1200,SUMATERA UTARA,Perkotaan,2020,Semester 2 (September),1.54
+1200,SUMATERA UTARA,Perdesaan,2019,Semester 1 (Maret),1.54
+1200,SUMATERA UTARA,Perdesaan,2019,Semester 2 (September),1.65
+1200,SUMATERA UTARA,Perdesaan,2020,Semester 1 (Maret),1.55
+1200,SUMATERA UTARA,Perdesaan,2020,Semester 2 (September),1.67
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.37
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2019,Semester 2 (September),1.48
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.51
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2020,Semester 2 (September),1.6
+1300,SUMATERA BARAT,Perkotaan,2019,Semester 1 (Maret),0.77
+1300,SUMATERA BARAT,Perkotaan,2019,Semester 2 (September),0.54
+1300,SUMATERA BARAT,Perkotaan,2020,Semester 1 (Maret),0.74
+1300,SUMATERA BARAT,Perkotaan,2020,Semester 2 (September),0.8
+1300,SUMATERA BARAT,Perdesaan,2019,Semester 1 (Maret),1.09
+1300,SUMATERA BARAT,Perdesaan,2019,Semester 2 (September),0.99
+1300,SUMATERA BARAT,Perdesaan,2020,Semester 1 (Maret),1.07
+1300,SUMATERA BARAT,Perdesaan,2020,Semester 2 (September),1.17
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.94
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2019,Semester 2 (September),0.78
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.92
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2020,Semester 2 (September),0.99
+1400,RIAU,Perkotaan,2019,Semester 1 (Maret),0.91
+1400,RIAU,Perkotaan,2019,Semester 2 (September),0.9
+1400,RIAU,Perkotaan,2020,Semester 1 (Maret),0.97
+1400,RIAU,Perkotaan,2020,Semester 2 (September),1.02
+1400,RIAU,Perdesaan,2019,Semester 1 (Maret),1.27
+1400,RIAU,Perdesaan,2019,Semester 2 (September),1.25
+1400,RIAU,Perdesaan,2020,Semester 1 (Maret),1.25
+1400,RIAU,Perdesaan,2020,Semester 2 (September),1.53
+1400,RIAU,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.13
+1400,RIAU,Perkotaan+Perdesaan,2019,Semester 2 (September),1.11
+1400,RIAU,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.14
+1400,RIAU,Perkotaan+Perdesaan,2020,Semester 2 (September),1.32
+1500,JAMBI,Perkotaan,2019,Semester 1 (Maret),1.74
+1500,JAMBI,Perkotaan,2019,Semester 2 (September),1.68
+1500,JAMBI,Perkotaan,2020,Semester 1 (Maret),1.71
+1500,JAMBI,Perkotaan,2020,Semester 2 (September),1.77
+1500,JAMBI,Perdesaan,2019,Semester 1 (Maret),0.98
+1500,JAMBI,Perdesaan,2019,Semester 2 (September),0.92
+1500,JAMBI,Perdesaan,2020,Semester 1 (Maret),0.8
+1500,JAMBI,Perdesaan,2020,Semester 2 (September),0.89
+1500,JAMBI,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.23
+1500,JAMBI,Perkotaan+Perdesaan,2019,Semester 2 (September),1.17
+1500,JAMBI,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.1
+1500,JAMBI,Perkotaan+Perdesaan,2020,Semester 2 (September),1.18
+1600,SUMATERA SELATAN,Perkotaan,2019,Semester 1 (Maret),2.04
+1600,SUMATERA SELATAN,Perkotaan,2019,Semester 2 (September),2.26
+1600,SUMATERA SELATAN,Perkotaan,2020,Semester 1 (Maret),2.02
+1600,SUMATERA SELATAN,Perkotaan,2020,Semester 2 (September),2.38
+1600,SUMATERA SELATAN,Perdesaan,2019,Semester 1 (Maret),2.16
+1600,SUMATERA SELATAN,Perdesaan,2019,Semester 2 (September),2.07
+1600,SUMATERA SELATAN,Perdesaan,2020,Semester 1 (Maret),2.12
+1600,SUMATERA SELATAN,Perdesaan,2020,Semester 2 (September),2.19
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.12
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2019,Semester 2 (September),2.14
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.08
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2020,Semester 2 (September),2.26
+1700,BENGKULU,Perkotaan,2019,Semester 1 (Maret),2.44
+1700,BENGKULU,Perkotaan,2019,Semester 2 (September),2.13
+1700,BENGKULU,Perkotaan,2020,Semester 1 (Maret),2.44
+1700,BENGKULU,Perkotaan,2020,Semester 2 (September),2.49
+1700,BENGKULU,Perdesaan,2019,Semester 1 (Maret),2.5
+1700,BENGKULU,Perdesaan,2019,Semester 2 (September),1.95
+1700,BENGKULU,Perdesaan,2020,Semester 1 (Maret),2.38
+1700,BENGKULU,Perdesaan,2020,Semester 2 (September),2.52
+1700,BENGKULU,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.48
+1700,BENGKULU,Perkotaan+Perdesaan,2019,Semester 2 (September),2.01
+1700,BENGKULU,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.4
+1700,BENGKULU,Perkotaan+Perdesaan,2020,Semester 2 (September),2.51
+1800,LAMPUNG,Perkotaan,2019,Semester 1 (Maret),1.47
+1800,LAMPUNG,Perkotaan,2019,Semester 2 (September),1.38
+1800,LAMPUNG,Perkotaan,2020,Semester 1 (Maret),1.22
+1800,LAMPUNG,Perkotaan,2020,Semester 2 (September),1.3
+1800,LAMPUNG,Perdesaan,2019,Semester 1 (Maret),2.14
+1800,LAMPUNG,Perdesaan,2019,Semester 2 (September),2.26
+1800,LAMPUNG,Perdesaan,2020,Semester 1 (Maret),2.2
+1800,LAMPUNG,Perdesaan,2020,Semester 2 (September),2.48
+1800,LAMPUNG,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.93
+1800,LAMPUNG,Perkotaan+Perdesaan,2019,Semester 2 (September),1.99
+1800,LAMPUNG,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.9
+1800,LAMPUNG,Perkotaan+Perdesaan,2020,Semester 2 (September),2.11
+1900,KEP. BANGKA BELITUNG,Perkotaan,2019,Semester 1 (Maret),0.33
+1900,KEP. BANGKA BELITUNG,Perkotaan,2019,Semester 2 (September),0.41
+1900,KEP. BANGKA BELITUNG,Perkotaan,2020,Semester 1 (Maret),0.44
+1900,KEP. BANGKA BELITUNG,Perkotaan,2020,Semester 2 (September),0.64
+1900,KEP. BANGKA BELITUNG,Perdesaan,2019,Semester 1 (Maret),0.74
+1900,KEP. BANGKA BELITUNG,Perdesaan,2019,Semester 2 (September),0.76
+1900,KEP. BANGKA BELITUNG,Perdesaan,2020,Semester 1 (Maret),0.79
+1900,KEP. BANGKA BELITUNG,Perdesaan,2020,Semester 2 (September),0.94
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.51
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2019,Semester 2 (September),0.57
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.6
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2020,Semester 2 (September),0.77
+2100,KEP. RIAU,Perkotaan,2019,Semester 1 (Maret),0.59
+2100,KEP. RIAU,Perkotaan,2019,Semester 2 (September),0.83
+2100,KEP. RIAU,Perkotaan,2020,Semester 1 (Maret),1.02
+2100,KEP. RIAU,Perkotaan,2020,Semester 2 (September),1.16
+2100,KEP. RIAU,Perdesaan,2019,Semester 1 (Maret),1.58
+2100,KEP. RIAU,Perdesaan,2019,Semester 2 (September),1.51
+2100,KEP. RIAU,Perdesaan,2020,Semester 1 (Maret),1.84
+2100,KEP. RIAU,Perdesaan,2020,Semester 2 (September),1.89
+2100,KEP. RIAU,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.69
+2100,KEP. RIAU,Perkotaan+Perdesaan,2019,Semester 2 (September),0.9
+2100,KEP. RIAU,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.11
+2100,KEP. RIAU,Perkotaan+Perdesaan,2020,Semester 2 (September),1.21
+3100,DKI JAKARTA,Perkotaan,2019,Semester 1 (Maret),0.5
+3100,DKI JAKARTA,Perkotaan,2019,Semester 2 (September),0.4
+3100,DKI JAKARTA,Perkotaan,2020,Semester 1 (Maret),0.59
+3100,DKI JAKARTA,Perkotaan,2020,Semester 2 (September),0.67
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.5
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2019,Semester 2 (September),0.4
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.59
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2020,Semester 2 (September),0.67
+3200,JAWA BARAT,Perkotaan,2019,Semester 1 (Maret),1.03
+3200,JAWA BARAT,Perkotaan,2019,Semester 2 (September),0.98
+3200,JAWA BARAT,Perkotaan,2020,Semester 1 (Maret),1.02
+3200,JAWA BARAT,Perkotaan,2020,Semester 2 (September),1.18
+3200,JAWA BARAT,Perdesaan,2019,Semester 1 (Maret),1.31
+3200,JAWA BARAT,Perdesaan,2019,Semester 2 (September),1.29
+3200,JAWA BARAT,Perdesaan,2020,Semester 1 (Maret),1.49
+3200,JAWA BARAT,Perdesaan,2020,Semester 2 (September),1.63
+3200,JAWA BARAT,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.09
+3200,JAWA BARAT,Perkotaan+Perdesaan,2019,Semester 2 (September),1.06
+3200,JAWA BARAT,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.13
+3200,JAWA BARAT,Perkotaan+Perdesaan,2020,Semester 2 (September),1.28
+3300,JAWA TENGAH,Perkotaan,2019,Semester 1 (Maret),1.32
+3300,JAWA TENGAH,Perkotaan,2019,Semester 2 (September),1.28
+3300,JAWA TENGAH,Perkotaan,2020,Semester 1 (Maret),1.53
+3300,JAWA TENGAH,Perkotaan,2020,Semester 2 (September),1.61
+3300,JAWA TENGAH,Perdesaan,2019,Semester 1 (Maret),1.75
+3300,JAWA TENGAH,Perdesaan,2019,Semester 2 (September),1.59
+3300,JAWA TENGAH,Perdesaan,2020,Semester 1 (Maret),1.92
+3300,JAWA TENGAH,Perdesaan,2020,Semester 2 (September),2.07
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.53
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2019,Semester 2 (September),1.43
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.72
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2020,Semester 2 (September),1.84
+3400,DI YOGYAKARTA,Perkotaan,2019,Semester 1 (Maret),1.73
+3400,DI YOGYAKARTA,Perkotaan,2019,Semester 2 (September),1.49
+3400,DI YOGYAKARTA,Perkotaan,2020,Semester 1 (Maret),1.86
+3400,DI YOGYAKARTA,Perkotaan,2020,Semester 2 (September),1.98
+3400,DI YOGYAKARTA,Perdesaan,2019,Semester 1 (Maret),1.78
+3400,DI YOGYAKARTA,Perdesaan,2019,Semester 2 (September),1.7
+3400,DI YOGYAKARTA,Perdesaan,2020,Semester 1 (Maret),2.16
+3400,DI YOGYAKARTA,Perdesaan,2020,Semester 2 (September),2.37
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.74
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2019,Semester 2 (September),1.54
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.94
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2020,Semester 2 (September),2.08
+3500,JAWA TIMUR,Perkotaan,2019,Semester 1 (Maret),1.15
+3500,JAWA TIMUR,Perkotaan,2019,Semester 2 (September),1.01
+3500,JAWA TIMUR,Perkotaan,2020,Semester 1 (Maret),1.23
+3500,JAWA TIMUR,Perkotaan,2020,Semester 2 (September),1.37
+3500,JAWA TIMUR,Perdesaan,2019,Semester 1 (Maret),2.55
+3500,JAWA TIMUR,Perdesaan,2019,Semester 2 (September),2.3
+3500,JAWA TIMUR,Perdesaan,2020,Semester 1 (Maret),2.5
+3500,JAWA TIMUR,Perdesaan,2020,Semester 2 (September),2.69
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.8
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2019,Semester 2 (September),1.61
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.82
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2020,Semester 2 (September),1.97
+3600,BANTEN,Perkotaan,2019,Semester 1 (Maret),0.63
+3600,BANTEN,Perkotaan,2019,Semester 2 (September),0.62
+3600,BANTEN,Perkotaan,2020,Semester 1 (Maret),0.84
+3600,BANTEN,Perkotaan,2020,Semester 2 (September),0.98
+3600,BANTEN,Perdesaan,2019,Semester 1 (Maret),1.1
+3600,BANTEN,Perdesaan,2019,Semester 2 (September),1.26
+3600,BANTEN,Perdesaan,2020,Semester 1 (Maret),1.38
+3600,BANTEN,Perdesaan,2020,Semester 2 (September),1.54
+3600,BANTEN,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.76
+3600,BANTEN,Perkotaan+Perdesaan,2019,Semester 2 (September),0.8
+3600,BANTEN,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.99
+3600,BANTEN,Perkotaan+Perdesaan,2020,Semester 2 (September),1.14
+5100,BALI,Perkotaan,2019,Semester 1 (Maret),0.49
+5100,BALI,Perkotaan,2019,Semester 2 (September),0.52
+5100,BALI,Perkotaan,2020,Semester 1 (Maret),0.47
+5100,BALI,Perkotaan,2020,Semester 2 (September),0.55
+5100,BALI,Perdesaan,2019,Semester 1 (Maret),0.64
+5100,BALI,Perdesaan,2019,Semester 2 (September),0.47
+5100,BALI,Perdesaan,2020,Semester 1 (Maret),0.65
+5100,BALI,Perdesaan,2020,Semester 2 (September),0.75
+5100,BALI,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.53
+5100,BALI,Perkotaan+Perdesaan,2019,Semester 2 (September),0.5
+5100,BALI,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.52
+5100,BALI,Perkotaan+Perdesaan,2020,Semester 2 (September),0.61
+5200,NUSA TENGGARA BARAT,Perkotaan,2019,Semester 1 (Maret),2.5
+5200,NUSA TENGGARA BARAT,Perkotaan,2019,Semester 2 (September),2.17
+5200,NUSA TENGGARA BARAT,Perkotaan,2020,Semester 1 (Maret),2.54
+5200,NUSA TENGGARA BARAT,Perkotaan,2020,Semester 2 (September),2.85
+5200,NUSA TENGGARA BARAT,Perdesaan,2019,Semester 1 (Maret),2.17
+5200,NUSA TENGGARA BARAT,Perdesaan,2019,Semester 2 (September),2.07
+5200,NUSA TENGGARA BARAT,Perdesaan,2020,Semester 1 (Maret),2.61
+5200,NUSA TENGGARA BARAT,Perdesaan,2020,Semester 2 (September),2.64
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.33
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2019,Semester 2 (September),2.12
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.58
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2020,Semester 2 (September),2.74
+5300,NUSA TENGGARA TIMUR,Perkotaan,2019,Semester 1 (Maret),1.16
+5300,NUSA TENGGARA TIMUR,Perkotaan,2019,Semester 2 (September),1.32
+5300,NUSA TENGGARA TIMUR,Perkotaan,2020,Semester 1 (Maret),1.19
+5300,NUSA TENGGARA TIMUR,Perkotaan,2020,Semester 2 (September),1.28
+5300,NUSA TENGGARA TIMUR,Perdesaan,2019,Semester 1 (Maret),5.09
+5300,NUSA TENGGARA TIMUR,Perdesaan,2019,Semester 2 (September),5.0
+5300,NUSA TENGGARA TIMUR,Perdesaan,2020,Semester 1 (Maret),4.9
+5300,NUSA TENGGARA TIMUR,Perdesaan,2020,Semester 2 (September),5.09
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2019,Semester 1 (Maret),4.15
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2019,Semester 2 (September),4.13
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2020,Semester 1 (Maret),4.02
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2020,Semester 2 (September),4.16
+6100,KALIMANTAN BARAT,Perkotaan,2019,Semester 1 (Maret),0.76
+6100,KALIMANTAN BARAT,Perkotaan,2019,Semester 2 (September),0.78
+6100,KALIMANTAN BARAT,Perkotaan,2020,Semester 1 (Maret),0.75
+6100,KALIMANTAN BARAT,Perkotaan,2020,Semester 2 (September),0.81
+6100,KALIMANTAN BARAT,Perdesaan,2019,Semester 1 (Maret),1.35
+6100,KALIMANTAN BARAT,Perdesaan,2019,Semester 2 (September),1.16
+6100,KALIMANTAN BARAT,Perdesaan,2020,Semester 1 (Maret),1.14
+6100,KALIMANTAN BARAT,Perdesaan,2020,Semester 2 (September),1.31
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.14
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2019,Semester 2 (September),1.02
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.01
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2020,Semester 2 (September),1.13
+6200,KALIMANTAN TENGAH,Perkotaan,2019,Semester 1 (Maret),0.71
+6200,KALIMANTAN TENGAH,Perkotaan,2019,Semester 2 (September),0.81
+6200,KALIMANTAN TENGAH,Perkotaan,2020,Semester 1 (Maret),0.82
+6200,KALIMANTAN TENGAH,Perkotaan,2020,Semester 2 (September),0.91
+6200,KALIMANTAN TENGAH,Perdesaan,2019,Semester 1 (Maret),0.69
+6200,KALIMANTAN TENGAH,Perdesaan,2019,Semester 2 (September),0.73
+6200,KALIMANTAN TENGAH,Perdesaan,2020,Semester 1 (Maret),0.79
+6200,KALIMANTAN TENGAH,Perdesaan,2020,Semester 2 (September),0.86
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.7
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2019,Semester 2 (September),0.76
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.8
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2020,Semester 2 (September),0.88
+6300,KALIMANTAN SELATAN,Perkotaan,2019,Semester 1 (Maret),0.6
+6300,KALIMANTAN SELATAN,Perkotaan,2019,Semester 2 (September),0.64
+6300,KALIMANTAN SELATAN,Perkotaan,2020,Semester 1 (Maret),0.66
+6300,KALIMANTAN SELATAN,Perkotaan,2020,Semester 2 (September),0.76
+6300,KALIMANTAN SELATAN,Perdesaan,2019,Semester 1 (Maret),0.79
+6300,KALIMANTAN SELATAN,Perdesaan,2019,Semester 2 (September),0.68
+6300,KALIMANTAN SELATAN,Perdesaan,2020,Semester 1 (Maret),0.74
+6300,KALIMANTAN SELATAN,Perdesaan,2020,Semester 2 (September),0.78
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.7
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2019,Semester 2 (September),0.66
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.7
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2020,Semester 2 (September),0.77
+6400,KALIMANTAN TIMUR,Perkotaan,2019,Semester 1 (Maret),0.61
+6400,KALIMANTAN TIMUR,Perkotaan,2019,Semester 2 (September),0.61
+6400,KALIMANTAN TIMUR,Perkotaan,2020,Semester 1 (Maret),0.66
+6400,KALIMANTAN TIMUR,Perkotaan,2020,Semester 2 (September),0.68
+6400,KALIMANTAN TIMUR,Perdesaan,2019,Semester 1 (Maret),1.53
+6400,KALIMANTAN TIMUR,Perdesaan,2019,Semester 2 (September),1.78
+6400,KALIMANTAN TIMUR,Perdesaan,2020,Semester 1 (Maret),1.74
+6400,KALIMANTAN TIMUR,Perdesaan,2020,Semester 2 (September),1.8
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.91
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2019,Semester 2 (September),0.99
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.02
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2020,Semester 2 (September),1.03
+6500,KALIMANTAN UTARA,Perkotaan,2019,Semester 1 (Maret),0.85
+6500,KALIMANTAN UTARA,Perkotaan,2019,Semester 2 (September),0.77
+6500,KALIMANTAN UTARA,Perkotaan,2020,Semester 1 (Maret),0.59
+6500,KALIMANTAN UTARA,Perkotaan,2020,Semester 2 (September),0.6
+6500,KALIMANTAN UTARA,Perdesaan,2019,Semester 1 (Maret),1.63
+6500,KALIMANTAN UTARA,Perdesaan,2019,Semester 2 (September),1.66
+6500,KALIMANTAN UTARA,Perdesaan,2020,Semester 1 (Maret),1.22
+6500,KALIMANTAN UTARA,Perdesaan,2020,Semester 2 (September),1.27
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.16
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2019,Semester 2 (September),1.12
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.84
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2020,Semester 2 (September),0.86
+7100,SULAWESI UTARA,Perkotaan,2019,Semester 1 (Maret),0.77
+7100,SULAWESI UTARA,Perkotaan,2019,Semester 2 (September),0.46
+7100,SULAWESI UTARA,Perkotaan,2020,Semester 1 (Maret),0.78
+7100,SULAWESI UTARA,Perkotaan,2020,Semester 2 (September),0.9
+7100,SULAWESI UTARA,Perdesaan,2019,Semester 1 (Maret),1.62
+7100,SULAWESI UTARA,Perdesaan,2019,Semester 2 (September),1.36
+7100,SULAWESI UTARA,Perdesaan,2020,Semester 1 (Maret),1.54
+7100,SULAWESI UTARA,Perdesaan,2020,Semester 2 (September),1.6
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.18
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2019,Semester 2 (September),0.89
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.14
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2020,Semester 2 (September),1.23
+7200,SULAWESI TENGAH,Perkotaan,2019,Semester 1 (Maret),1.43
+7200,SULAWESI TENGAH,Perkotaan,2019,Semester 2 (September),1.98
+7200,SULAWESI TENGAH,Perkotaan,2020,Semester 1 (Maret),1.68
+7200,SULAWESI TENGAH,Perkotaan,2020,Semester 2 (September),1.83
+7200,SULAWESI TENGAH,Perdesaan,2019,Semester 1 (Maret),2.71
+7200,SULAWESI TENGAH,Perdesaan,2019,Semester 2 (September),3.71
+7200,SULAWESI TENGAH,Perdesaan,2020,Semester 1 (Maret),2.96
+7200,SULAWESI TENGAH,Perdesaan,2020,Semester 2 (September),3.2
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.33
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2019,Semester 2 (September),3.19
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.58
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2020,Semester 2 (September),2.78
+7300,SULAWESI SELATAN,Perkotaan,2019,Semester 1 (Maret),0.63
+7300,SULAWESI SELATAN,Perkotaan,2019,Semester 2 (September),0.81
+7300,SULAWESI SELATAN,Perkotaan,2020,Semester 1 (Maret),0.69
+7300,SULAWESI SELATAN,Perkotaan,2020,Semester 2 (September),0.81
+7300,SULAWESI SELATAN,Perdesaan,2019,Semester 1 (Maret),2.07
+7300,SULAWESI SELATAN,Perdesaan,2019,Semester 2 (September),2.26
+7300,SULAWESI SELATAN,Perdesaan,2020,Semester 1 (Maret),2.17
+7300,SULAWESI SELATAN,Perdesaan,2020,Semester 2 (September),2.32
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.45
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2019,Semester 2 (September),1.63
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.53
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2020,Semester 2 (September),1.65
+7400,SULAWESI TENGGARA,Perkotaan,2019,Semester 1 (Maret),1.35
+7400,SULAWESI TENGGARA,Perkotaan,2019,Semester 2 (September),1.45
+7400,SULAWESI TENGGARA,Perkotaan,2020,Semester 1 (Maret),1.35
+7400,SULAWESI TENGGARA,Perkotaan,2020,Semester 2 (September),1.66
+7400,SULAWESI TENGGARA,Perdesaan,2019,Semester 1 (Maret),2.79
+7400,SULAWESI TENGGARA,Perdesaan,2019,Semester 2 (September),2.74
+7400,SULAWESI TENGGARA,Perdesaan,2020,Semester 1 (Maret),2.48
+7400,SULAWESI TENGGARA,Perdesaan,2020,Semester 2 (September),2.55
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.23
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2019,Semester 2 (September),2.23
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.04
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2020,Semester 2 (September),2.23
+7500,GORONTALO,Perkotaan,2019,Semester 1 (Maret),0.43
+7500,GORONTALO,Perkotaan,2019,Semester 2 (September),0.58
+7500,GORONTALO,Perkotaan,2020,Semester 1 (Maret),0.39
+7500,GORONTALO,Perkotaan,2020,Semester 2 (September),0.43
+7500,GORONTALO,Perdesaan,2019,Semester 1 (Maret),4.26
+7500,GORONTALO,Perdesaan,2019,Semester 2 (September),4.1
+7500,GORONTALO,Perdesaan,2020,Semester 1 (Maret),4.34
+7500,GORONTALO,Perdesaan,2020,Semester 2 (September),4.72
+7500,GORONTALO,Perkotaan+Perdesaan,2019,Semester 1 (Maret),2.64
+7500,GORONTALO,Perkotaan+Perdesaan,2019,Semester 2 (September),2.61
+7500,GORONTALO,Perkotaan+Perdesaan,2020,Semester 1 (Maret),2.67
+7500,GORONTALO,Perkotaan+Perdesaan,2020,Semester 2 (September),2.86
+7600,SULAWESI BARAT,Perkotaan,2019,Semester 1 (Maret),1.32
+7600,SULAWESI BARAT,Perkotaan,2019,Semester 2 (September),1.65
+7600,SULAWESI BARAT,Perkotaan,2020,Semester 1 (Maret),1.93
+7600,SULAWESI BARAT,Perkotaan,2020,Semester 2 (September),2.0
+7600,SULAWESI BARAT,Perdesaan,2019,Semester 1 (Maret),1.88
+7600,SULAWESI BARAT,Perdesaan,2019,Semester 2 (September),1.37
+7600,SULAWESI BARAT,Perdesaan,2020,Semester 1 (Maret),1.87
+7600,SULAWESI BARAT,Perdesaan,2020,Semester 2 (September),1.94
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.75
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2019,Semester 2 (September),1.44
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.89
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2020,Semester 2 (September),1.95
+8100,MALUKU,Perkotaan,2019,Semester 1 (Maret),0.72
+8100,MALUKU,Perkotaan,2019,Semester 2 (September),0.65
+8100,MALUKU,Perkotaan,2020,Semester 1 (Maret),0.82
+8100,MALUKU,Perkotaan,2020,Semester 2 (September),0.94
+8100,MALUKU,Perdesaan,2019,Semester 1 (Maret),5.33
+8100,MALUKU,Perdesaan,2019,Semester 2 (September),6.14
+8100,MALUKU,Perdesaan,2020,Semester 1 (Maret),5.55
+8100,MALUKU,Perdesaan,2020,Semester 2 (September),5.95
+8100,MALUKU,Perkotaan+Perdesaan,2019,Semester 1 (Maret),3.32
+8100,MALUKU,Perkotaan+Perdesaan,2019,Semester 2 (September),3.74
+8100,MALUKU,Perkotaan+Perdesaan,2020,Semester 1 (Maret),3.47
+8100,MALUKU,Perkotaan+Perdesaan,2020,Semester 2 (September),3.76
+8200,MALUKU UTARA,Perkotaan,2019,Semester 1 (Maret),0.53
+8200,MALUKU UTARA,Perkotaan,2019,Semester 2 (September),0.25
+8200,MALUKU UTARA,Perkotaan,2020,Semester 1 (Maret),0.38
+8200,MALUKU UTARA,Perkotaan,2020,Semester 2 (September),0.65
+8200,MALUKU UTARA,Perdesaan,2019,Semester 1 (Maret),1.03
+8200,MALUKU UTARA,Perdesaan,2019,Semester 2 (September),1.41
+8200,MALUKU UTARA,Perdesaan,2020,Semester 1 (Maret),1.16
+8200,MALUKU UTARA,Perdesaan,2020,Semester 2 (September),1.26
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),0.89
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2019,Semester 2 (September),1.08
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),0.94
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2020,Semester 2 (September),1.09
+9100,PAPUA BARAT,Perkotaan,2019,Semester 1 (Maret),0.96
+9100,PAPUA BARAT,Perkotaan,2019,Semester 2 (September),0.82
+9100,PAPUA BARAT,Perkotaan,2020,Semester 1 (Maret),0.99
+9100,PAPUA BARAT,Perkotaan,2020,Semester 2 (September),1.15
+9100,PAPUA BARAT,Perdesaan,2019,Semester 1 (Maret),8.97
+9100,PAPUA BARAT,Perdesaan,2019,Semester 2 (September),9.16
+9100,PAPUA BARAT,Perdesaan,2020,Semester 1 (Maret),9.29
+9100,PAPUA BARAT,Perdesaan,2020,Semester 2 (September),9.74
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2019,Semester 1 (Maret),5.6
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2019,Semester 2 (September),5.64
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2020,Semester 1 (Maret),5.79
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2020,Semester 2 (September),6.07
+9400,PAPUA,Perkotaan,2019,Semester 1 (Maret),0.71
+9400,PAPUA,Perkotaan,2019,Semester 2 (September),0.59
+9400,PAPUA,Perkotaan,2020,Semester 1 (Maret),0.62
+9400,PAPUA,Perkotaan,2020,Semester 2 (September),0.82
+9400,PAPUA,Perdesaan,2019,Semester 1 (Maret),9.76
+9400,PAPUA,Perdesaan,2019,Semester 2 (September),8.26
+9400,PAPUA,Perdesaan,2020,Semester 1 (Maret),8.37
+9400,PAPUA,Perdesaan,2020,Semester 2 (September),9.34
+9400,PAPUA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),7.17
+9400,PAPUA,Perkotaan+Perdesaan,2019,Semester 2 (September),6.07
+9400,PAPUA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),6.16
+9400,PAPUA,Perkotaan+Perdesaan,2020,Semester 2 (September),6.9
+9999,INDONESIA,Perkotaan,2019,Semester 1 (Maret),1.05
+9999,INDONESIA,Perkotaan,2019,Semester 2 (September),1.02
+9999,INDONESIA,Perkotaan,2020,Semester 1 (Maret),1.13
+9999,INDONESIA,Perkotaan,2020,Semester 2 (September),1.26
+9999,INDONESIA,Perdesaan,2019,Semester 1 (Maret),2.18
+9999,INDONESIA,Perdesaan,2019,Semester 2 (September),2.11
+9999,INDONESIA,Perdesaan,2020,Semester 1 (Maret),2.21
+9999,INDONESIA,Perdesaan,2020,Semester 2 (September),2.39
+9999,INDONESIA,Perkotaan+Perdesaan,2019,Semester 1 (Maret),1.55
+9999,INDONESIA,Perkotaan+Perdesaan,2019,Semester 2 (September),1.5
+9999,INDONESIA,Perkotaan+Perdesaan,2020,Semester 1 (Maret),1.61
+9999,INDONESIA,Perkotaan+Perdesaan,2020,Semester 2 (September),1.75
+1100,ACEH,Perkotaan,2021,Semester 1 (Maret),1.79
+1100,ACEH,Perkotaan,2021,Semester 2 (September),1.7
+1100,ACEH,Perkotaan,2022,Semester 1 (Maret),1.62
+1100,ACEH,Perkotaan,2022,Semester 2 (September),2.13
+1100,ACEH,Perdesaan,2021,Semester 1 (Maret),3.4
+1100,ACEH,Perdesaan,2021,Semester 2 (September),3.59
+1100,ACEH,Perdesaan,2022,Semester 1 (Maret),2.93
+1100,ACEH,Perdesaan,2022,Semester 2 (September),3.3
+1100,ACEH,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.86
+1100,ACEH,Perkotaan+Perdesaan,2021,Semester 2 (September),2.95
+1100,ACEH,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.49
+1100,ACEH,Perkotaan+Perdesaan,2022,Semester 2 (September),2.9
+1200,SUMATERA UTARA,Perkotaan,2021,Semester 1 (Maret),1.5
+1200,SUMATERA UTARA,Perkotaan,2021,Semester 2 (September),1.4
+1200,SUMATERA UTARA,Perkotaan,2022,Semester 1 (Maret),1.4
+1200,SUMATERA UTARA,Perkotaan,2022,Semester 2 (September),1.44
+1200,SUMATERA UTARA,Perdesaan,2021,Semester 1 (Maret),1.54
+1200,SUMATERA UTARA,Perdesaan,2021,Semester 2 (September),1.51
+1200,SUMATERA UTARA,Perdesaan,2022,Semester 1 (Maret),1.32
+1200,SUMATERA UTARA,Perdesaan,2022,Semester 2 (September),1.37
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.52
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2021,Semester 2 (September),1.45
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.36
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2022,Semester 2 (September),1.41
+1300,SUMATERA BARAT,Perkotaan,2021,Semester 1 (Maret),0.87
+1300,SUMATERA BARAT,Perkotaan,2021,Semester 2 (September),0.74
+1300,SUMATERA BARAT,Perkotaan,2022,Semester 1 (Maret),0.65
+1300,SUMATERA BARAT,Perkotaan,2022,Semester 2 (September),0.78
+1300,SUMATERA BARAT,Perdesaan,2021,Semester 1 (Maret),1.21
+1300,SUMATERA BARAT,Perdesaan,2021,Semester 2 (September),1.18
+1300,SUMATERA BARAT,Perdesaan,2022,Semester 1 (Maret),0.96
+1300,SUMATERA BARAT,Perdesaan,2022,Semester 2 (September),0.94
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.04
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2021,Semester 2 (September),0.96
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.8
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2022,Semester 2 (September),0.86
+1400,RIAU,Perkotaan,2021,Semester 1 (Maret),1.01
+1400,RIAU,Perkotaan,2021,Semester 2 (September),1.12
+1400,RIAU,Perkotaan,2022,Semester 1 (Maret),0.92
+1400,RIAU,Perkotaan,2022,Semester 2 (September),0.96
+1400,RIAU,Perdesaan,2021,Semester 1 (Maret),1.09
+1400,RIAU,Perdesaan,2021,Semester 2 (September),1.08
+1400,RIAU,Perdesaan,2022,Semester 1 (Maret),1.21
+1400,RIAU,Perdesaan,2022,Semester 2 (September),0.98
+1400,RIAU,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.06
+1400,RIAU,Perkotaan+Perdesaan,2021,Semester 2 (September),1.09
+1400,RIAU,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.1
+1400,RIAU,Perkotaan+Perdesaan,2022,Semester 2 (September),0.97
+1500,JAMBI,Perkotaan,2021,Semester 1 (Maret),2.2
+1500,JAMBI,Perkotaan,2021,Semester 2 (September),1.81
+1500,JAMBI,Perkotaan,2022,Semester 1 (Maret),1.67
+1500,JAMBI,Perkotaan,2022,Semester 2 (September),1.74
+1500,JAMBI,Perdesaan,2021,Semester 1 (Maret),0.85
+1500,JAMBI,Perdesaan,2021,Semester 2 (September),0.74
+1500,JAMBI,Perdesaan,2022,Semester 1 (Maret),0.93
+1500,JAMBI,Perdesaan,2022,Semester 2 (September),0.92
+1500,JAMBI,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.29
+1500,JAMBI,Perkotaan+Perdesaan,2021,Semester 2 (September),1.09
+1500,JAMBI,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.17
+1500,JAMBI,Perkotaan+Perdesaan,2022,Semester 2 (September),1.19
+1600,SUMATERA SELATAN,Perkotaan,2021,Semester 1 (Maret),2.19
+1600,SUMATERA SELATAN,Perkotaan,2021,Semester 2 (September),2.17
+1600,SUMATERA SELATAN,Perkotaan,2022,Semester 1 (Maret),2.0
+1600,SUMATERA SELATAN,Perkotaan,2022,Semester 2 (September),1.85
+1600,SUMATERA SELATAN,Perdesaan,2021,Semester 1 (Maret),2.3
+1600,SUMATERA SELATAN,Perdesaan,2021,Semester 2 (September),2.42
+1600,SUMATERA SELATAN,Perdesaan,2022,Semester 1 (Maret),1.94
+1600,SUMATERA SELATAN,Perdesaan,2022,Semester 2 (September),1.75
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.26
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2021,Semester 2 (September),2.33
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.96
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2022,Semester 2 (September),1.79
+1700,BENGKULU,Perkotaan,2021,Semester 1 (Maret),2.78
+1700,BENGKULU,Perkotaan,2021,Semester 2 (September),2.56
+1700,BENGKULU,Perkotaan,2022,Semester 1 (Maret),2.61
+1700,BENGKULU,Perkotaan,2022,Semester 2 (September),2.06
+1700,BENGKULU,Perdesaan,2021,Semester 1 (Maret),2.47
+1700,BENGKULU,Perdesaan,2021,Semester 2 (September),2.39
+1700,BENGKULU,Perdesaan,2022,Semester 1 (Maret),2.34
+1700,BENGKULU,Perdesaan,2022,Semester 2 (September),2.23
+1700,BENGKULU,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.57
+1700,BENGKULU,Perkotaan+Perdesaan,2021,Semester 2 (September),2.45
+1700,BENGKULU,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.43
+1700,BENGKULU,Perkotaan+Perdesaan,2022,Semester 2 (September),2.17
+1800,LAMPUNG,Perkotaan,2021,Semester 1 (Maret),1.27
+1800,LAMPUNG,Perkotaan,2021,Semester 2 (September),1.25
+1800,LAMPUNG,Perkotaan,2022,Semester 1 (Maret),1.23
+1800,LAMPUNG,Perkotaan,2022,Semester 2 (September),1.33
+1800,LAMPUNG,Perdesaan,2021,Semester 1 (Maret),2.17
+1800,LAMPUNG,Perdesaan,2021,Semester 2 (September),2.13
+1800,LAMPUNG,Perdesaan,2022,Semester 1 (Maret),2.1
+1800,LAMPUNG,Perdesaan,2022,Semester 2 (September),1.88
+1800,LAMPUNG,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.88
+1800,LAMPUNG,Perkotaan+Perdesaan,2021,Semester 2 (September),1.85
+1800,LAMPUNG,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.82
+1800,LAMPUNG,Perkotaan+Perdesaan,2022,Semester 2 (September),1.7
+1900,KEP. BANGKA BELITUNG,Perkotaan,2021,Semester 1 (Maret),0.4
+1900,KEP. BANGKA BELITUNG,Perkotaan,2021,Semester 2 (September),0.44
+1900,KEP. BANGKA BELITUNG,Perkotaan,2022,Semester 1 (Maret),0.39
+1900,KEP. BANGKA BELITUNG,Perkotaan,2022,Semester 2 (September),0.3
+1900,KEP. BANGKA BELITUNG,Perdesaan,2021,Semester 1 (Maret),0.88
+1900,KEP. BANGKA BELITUNG,Perdesaan,2021,Semester 2 (September),0.71
+1900,KEP. BANGKA BELITUNG,Perdesaan,2022,Semester 1 (Maret),0.87
+1900,KEP. BANGKA BELITUNG,Perdesaan,2022,Semester 2 (September),0.6
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.61
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2021,Semester 2 (September),0.56
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.6
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2022,Semester 2 (September),0.43
+2100,KEP. RIAU,Perkotaan,2021,Semester 1 (Maret),1.02
+2100,KEP. RIAU,Perkotaan,2021,Semester 2 (September),0.88
+2100,KEP. RIAU,Perkotaan,2022,Semester 1 (Maret),1.0
+2100,KEP. RIAU,Perkotaan,2022,Semester 2 (September),0.78
+2100,KEP. RIAU,Perdesaan,2021,Semester 1 (Maret),1.75
+2100,KEP. RIAU,Perdesaan,2021,Semester 2 (September),1.82
+2100,KEP. RIAU,Perdesaan,2022,Semester 1 (Maret),1.41
+2100,KEP. RIAU,Perdesaan,2022,Semester 2 (September),1.72
+2100,KEP. RIAU,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.07
+2100,KEP. RIAU,Perkotaan+Perdesaan,2021,Semester 2 (September),0.95
+2100,KEP. RIAU,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.05
+2100,KEP. RIAU,Perkotaan+Perdesaan,2022,Semester 2 (September),0.89
+3100,DKI JAKARTA,Perkotaan,2021,Semester 1 (Maret),0.64
+3100,DKI JAKARTA,Perkotaan,2021,Semester 2 (September),0.75
+3100,DKI JAKARTA,Perkotaan,2022,Semester 1 (Maret),0.77
+3100,DKI JAKARTA,Perkotaan,2022,Semester 2 (September),0.68
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.64
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2021,Semester 2 (September),0.75
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.77
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2022,Semester 2 (September),0.68
+3200,JAWA BARAT,Perkotaan,2021,Semester 1 (Maret),1.36
+3200,JAWA BARAT,Perkotaan,2021,Semester 2 (September),1.23
+3200,JAWA BARAT,Perkotaan,2022,Semester 1 (Maret),1.21
+3200,JAWA BARAT,Perkotaan,2022,Semester 2 (September),1.14
+3200,JAWA BARAT,Perdesaan,2021,Semester 1 (Maret),1.88
+3200,JAWA BARAT,Perdesaan,2021,Semester 2 (September),1.52
+3200,JAWA BARAT,Perdesaan,2022,Semester 1 (Maret),1.72
+3200,JAWA BARAT,Perdesaan,2022,Semester 2 (September),1.62
+3200,JAWA BARAT,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.47
+3200,JAWA BARAT,Perkotaan+Perdesaan,2021,Semester 2 (September),1.29
+3200,JAWA BARAT,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.32
+3200,JAWA BARAT,Perkotaan+Perdesaan,2022,Semester 2 (September),1.24
+3300,JAWA TENGAH,Perkotaan,2021,Semester 1 (Maret),1.68
+3300,JAWA TENGAH,Perkotaan,2021,Semester 2 (September),1.75
+3300,JAWA TENGAH,Perkotaan,2022,Semester 1 (Maret),1.56
+3300,JAWA TENGAH,Perkotaan,2022,Semester 2 (September),1.64
+3300,JAWA TENGAH,Perdesaan,2021,Semester 1 (Maret),2.15
+3300,JAWA TENGAH,Perdesaan,2021,Semester 2 (September),2.15
+3300,JAWA TENGAH,Perdesaan,2022,Semester 1 (Maret),2.0
+3300,JAWA TENGAH,Perdesaan,2022,Semester 2 (September),1.88
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.91
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2021,Semester 2 (September),1.94
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.77
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2022,Semester 2 (September),1.75
+3400,DI YOGYAKARTA,Perkotaan,2021,Semester 1 (Maret),2.35
+3400,DI YOGYAKARTA,Perkotaan,2021,Semester 2 (September),2.05
+3400,DI YOGYAKARTA,Perkotaan,2022,Semester 1 (Maret),1.93
+3400,DI YOGYAKARTA,Perkotaan,2022,Semester 2 (September),1.38
+3400,DI YOGYAKARTA,Perdesaan,2021,Semester 1 (Maret),2.61
+3400,DI YOGYAKARTA,Perdesaan,2021,Semester 2 (September),2.11
+3400,DI YOGYAKARTA,Perdesaan,2022,Semester 1 (Maret),2.25
+3400,DI YOGYAKARTA,Perdesaan,2022,Semester 2 (September),1.95
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.42
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2021,Semester 2 (September),2.06
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.01
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2022,Semester 2 (September),1.53
+3500,JAWA TIMUR,Perkotaan,2021,Semester 1 (Maret),1.31
+3500,JAWA TIMUR,Perkotaan,2021,Semester 2 (September),1.1
+3500,JAWA TIMUR,Perkotaan,2022,Semester 1 (Maret),1.14
+3500,JAWA TIMUR,Perkotaan,2022,Semester 2 (September),1.21
+3500,JAWA TIMUR,Perdesaan,2021,Semester 1 (Maret),2.48
+3500,JAWA TIMUR,Perdesaan,2021,Semester 2 (September),2.16
+3500,JAWA TIMUR,Perdesaan,2022,Semester 1 (Maret),2.21
+3500,JAWA TIMUR,Perdesaan,2022,Semester 2 (September),2.13
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.84
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2021,Semester 2 (September),1.58
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.62
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2022,Semester 2 (September),1.62
+3600,BANTEN,Perkotaan,2021,Semester 1 (Maret),0.98
+3600,BANTEN,Perkotaan,2021,Semester 2 (September),1.14
+3600,BANTEN,Perkotaan,2022,Semester 1 (Maret),0.96
+3600,BANTEN,Perkotaan,2022,Semester 2 (September),0.71
+3600,BANTEN,Perdesaan,2021,Semester 1 (Maret),1.37
+3600,BANTEN,Perdesaan,2021,Semester 2 (September),1.36
+3600,BANTEN,Perdesaan,2022,Semester 1 (Maret),1.22
+3600,BANTEN,Perdesaan,2022,Semester 2 (September),1.03
+3600,BANTEN,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.09
+3600,BANTEN,Perkotaan+Perdesaan,2021,Semester 2 (September),1.2
+3600,BANTEN,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.03
+3600,BANTEN,Perkotaan+Perdesaan,2022,Semester 2 (September),0.79
+5100,BALI,Perkotaan,2021,Semester 1 (Maret),0.65
+5100,BALI,Perkotaan,2021,Semester 2 (September),0.71
+5100,BALI,Perkotaan,2022,Semester 1 (Maret),0.62
+5100,BALI,Perkotaan,2022,Semester 2 (September),0.45
+5100,BALI,Perdesaan,2021,Semester 1 (Maret),0.75
+5100,BALI,Perdesaan,2021,Semester 2 (September),0.88
+5100,BALI,Perdesaan,2022,Semester 1 (Maret),0.64
+5100,BALI,Perdesaan,2022,Semester 2 (September),0.86
+5100,BALI,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.68
+5100,BALI,Perkotaan+Perdesaan,2021,Semester 2 (September),0.76
+5100,BALI,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.62
+5100,BALI,Perkotaan+Perdesaan,2022,Semester 2 (September),0.56
+5200,NUSA TENGGARA BARAT,Perkotaan,2021,Semester 1 (Maret),2.35
+5200,NUSA TENGGARA BARAT,Perkotaan,2021,Semester 2 (September),2.43
+5200,NUSA TENGGARA BARAT,Perkotaan,2022,Semester 1 (Maret),2.58
+5200,NUSA TENGGARA BARAT,Perkotaan,2022,Semester 2 (September),2.79
+5200,NUSA TENGGARA BARAT,Perdesaan,2021,Semester 1 (Maret),2.13
+5200,NUSA TENGGARA BARAT,Perdesaan,2021,Semester 2 (September),2.57
+5200,NUSA TENGGARA BARAT,Perdesaan,2022,Semester 1 (Maret),2.4
+5200,NUSA TENGGARA BARAT,Perdesaan,2022,Semester 2 (September),2.33
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.24
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2021,Semester 2 (September),2.5
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.49
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2022,Semester 2 (September),2.57
+5300,NUSA TENGGARA TIMUR,Perkotaan,2021,Semester 1 (Maret),1.39
+5300,NUSA TENGGARA TIMUR,Perkotaan,2021,Semester 2 (September),1.4
+5300,NUSA TENGGARA TIMUR,Perkotaan,2022,Semester 1 (Maret),1.51
+5300,NUSA TENGGARA TIMUR,Perkotaan,2022,Semester 2 (September),1.01
+5300,NUSA TENGGARA TIMUR,Perdesaan,2021,Semester 1 (Maret),4.81
+5300,NUSA TENGGARA TIMUR,Perdesaan,2021,Semester 2 (September),5.93
+5300,NUSA TENGGARA TIMUR,Perdesaan,2022,Semester 1 (Maret),4.35
+5300,NUSA TENGGARA TIMUR,Perdesaan,2022,Semester 2 (September),4.69
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2021,Semester 1 (Maret),3.96
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2021,Semester 2 (September),4.79
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2022,Semester 1 (Maret),3.63
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2022,Semester 2 (September),3.74
+6100,KALIMANTAN BARAT,Perkotaan,2021,Semester 1 (Maret),0.59
+6100,KALIMANTAN BARAT,Perkotaan,2021,Semester 2 (September),0.62
+6100,KALIMANTAN BARAT,Perkotaan,2022,Semester 1 (Maret),0.54
+6100,KALIMANTAN BARAT,Perkotaan,2022,Semester 2 (September),0.69
+6100,KALIMANTAN BARAT,Perdesaan,2021,Semester 1 (Maret),1.28
+6100,KALIMANTAN BARAT,Perdesaan,2021,Semester 2 (September),1.24
+6100,KALIMANTAN BARAT,Perdesaan,2022,Semester 1 (Maret),1.33
+6100,KALIMANTAN BARAT,Perdesaan,2022,Semester 2 (September),1.34
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.03
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2021,Semester 2 (September),1.02
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.04
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2022,Semester 2 (September),1.1
+6200,KALIMANTAN TENGAH,Perkotaan,2021,Semester 1 (Maret),0.69
+6200,KALIMANTAN TENGAH,Perkotaan,2021,Semester 2 (September),0.6
+6200,KALIMANTAN TENGAH,Perkotaan,2022,Semester 1 (Maret),0.83
+6200,KALIMANTAN TENGAH,Perkotaan,2022,Semester 2 (September),0.58
+6200,KALIMANTAN TENGAH,Perdesaan,2021,Semester 1 (Maret),0.73
+6200,KALIMANTAN TENGAH,Perdesaan,2021,Semester 2 (September),0.86
+6200,KALIMANTAN TENGAH,Perdesaan,2022,Semester 1 (Maret),0.98
+6200,KALIMANTAN TENGAH,Perdesaan,2022,Semester 2 (September),0.72
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.71
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2021,Semester 2 (September),0.75
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.91
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2022,Semester 2 (September),0.66
+6300,KALIMANTAN SELATAN,Perkotaan,2021,Semester 1 (Maret),0.58
+6300,KALIMANTAN SELATAN,Perkotaan,2021,Semester 2 (September),0.47
+6300,KALIMANTAN SELATAN,Perkotaan,2022,Semester 1 (Maret),0.52
+6300,KALIMANTAN SELATAN,Perkotaan,2022,Semester 2 (September),0.39
+6300,KALIMANTAN SELATAN,Perdesaan,2021,Semester 1 (Maret),0.76
+6300,KALIMANTAN SELATAN,Perdesaan,2021,Semester 2 (September),0.62
+6300,KALIMANTAN SELATAN,Perdesaan,2022,Semester 1 (Maret),0.75
+6300,KALIMANTAN SELATAN,Perdesaan,2022,Semester 2 (September),0.86
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.67
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2021,Semester 2 (September),0.55
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.63
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2022,Semester 2 (September),0.63
+6400,KALIMANTAN TIMUR,Perkotaan,2021,Semester 1 (Maret),1.02
+6400,KALIMANTAN TIMUR,Perkotaan,2021,Semester 2 (September),0.88
+6400,KALIMANTAN TIMUR,Perkotaan,2022,Semester 1 (Maret),0.67
+6400,KALIMANTAN TIMUR,Perkotaan,2022,Semester 2 (September),0.63
+6400,KALIMANTAN TIMUR,Perdesaan,2021,Semester 1 (Maret),1.67
+6400,KALIMANTAN TIMUR,Perdesaan,2021,Semester 2 (September),1.38
+6400,KALIMANTAN TIMUR,Perdesaan,2022,Semester 1 (Maret),1.69
+6400,KALIMANTAN TIMUR,Perdesaan,2022,Semester 2 (September),1.12
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.22
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2021,Semester 2 (September),1.04
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.99
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2022,Semester 2 (September),0.78
+6500,KALIMANTAN UTARA,Perkotaan,2021,Semester 1 (Maret),0.7
+6500,KALIMANTAN UTARA,Perkotaan,2021,Semester 2 (September),0.79
+6500,KALIMANTAN UTARA,Perkotaan,2022,Semester 1 (Maret),0.74
+6500,KALIMANTAN UTARA,Perkotaan,2022,Semester 2 (September),0.48
+6500,KALIMANTAN UTARA,Perdesaan,2021,Semester 1 (Maret),1.15
+6500,KALIMANTAN UTARA,Perdesaan,2021,Semester 2 (September),1.07
+6500,KALIMANTAN UTARA,Perdesaan,2022,Semester 1 (Maret),1.16
+6500,KALIMANTAN UTARA,Perdesaan,2022,Semester 2 (September),0.82
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.87
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2021,Semester 2 (September),0.89
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.89
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2022,Semester 2 (September),0.6
+7100,SULAWESI UTARA,Perkotaan,2021,Semester 1 (Maret),0.8
+7100,SULAWESI UTARA,Perkotaan,2021,Semester 2 (September),0.73
+7100,SULAWESI UTARA,Perkotaan,2022,Semester 1 (Maret),0.83
+7100,SULAWESI UTARA,Perkotaan,2022,Semester 2 (September),0.75
+7100,SULAWESI UTARA,Perdesaan,2021,Semester 1 (Maret),1.76
+7100,SULAWESI UTARA,Perdesaan,2021,Semester 2 (September),1.42
+7100,SULAWESI UTARA,Perdesaan,2022,Semester 1 (Maret),1.52
+7100,SULAWESI UTARA,Perdesaan,2022,Semester 2 (September),1.55
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.24
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2021,Semester 2 (September),1.04
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.15
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2022,Semester 2 (September),1.11
+7200,SULAWESI TENGAH,Perkotaan,2021,Semester 1 (Maret),1.55
+7200,SULAWESI TENGAH,Perkotaan,2021,Semester 2 (September),1.48
+7200,SULAWESI TENGAH,Perkotaan,2022,Semester 1 (Maret),1.49
+7200,SULAWESI TENGAH,Perkotaan,2022,Semester 2 (September),1.83
+7200,SULAWESI TENGAH,Perdesaan,2021,Semester 1 (Maret),2.82
+7200,SULAWESI TENGAH,Perdesaan,2021,Semester 2 (September),2.59
+7200,SULAWESI TENGAH,Perdesaan,2022,Semester 1 (Maret),2.84
+7200,SULAWESI TENGAH,Perdesaan,2022,Semester 2 (September),2.29
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.43
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2021,Semester 2 (September),2.24
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.41
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2022,Semester 2 (September),2.15
+7300,SULAWESI SELATAN,Perkotaan,2021,Semester 1 (Maret),0.79
+7300,SULAWESI SELATAN,Perkotaan,2021,Semester 2 (September),0.63
+7300,SULAWESI SELATAN,Perkotaan,2022,Semester 1 (Maret),0.76
+7300,SULAWESI SELATAN,Perkotaan,2022,Semester 2 (September),0.76
+7300,SULAWESI SELATAN,Perdesaan,2021,Semester 1 (Maret),2.06
+7300,SULAWESI SELATAN,Perdesaan,2021,Semester 2 (September),2.03
+7300,SULAWESI SELATAN,Perdesaan,2022,Semester 1 (Maret),1.87
+7300,SULAWESI SELATAN,Perdesaan,2022,Semester 2 (September),2.13
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.49
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2021,Semester 2 (September),1.4
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.36
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2022,Semester 2 (September),1.5
+7400,SULAWESI TENGGARA,Perkotaan,2021,Semester 1 (Maret),1.33
+7400,SULAWESI TENGGARA,Perkotaan,2021,Semester 2 (September),1.31
+7400,SULAWESI TENGGARA,Perkotaan,2022,Semester 1 (Maret),1.03
+7400,SULAWESI TENGGARA,Perkotaan,2022,Semester 2 (September),0.91
+7400,SULAWESI TENGGARA,Perdesaan,2021,Semester 1 (Maret),2.62
+7400,SULAWESI TENGGARA,Perdesaan,2021,Semester 2 (September),3.02
+7400,SULAWESI TENGGARA,Perdesaan,2022,Semester 1 (Maret),2.27
+7400,SULAWESI TENGGARA,Perdesaan,2022,Semester 2 (September),2.7
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.16
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2021,Semester 2 (September),2.4
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.82
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2022,Semester 2 (September),2.05
+7500,GORONTALO,Perkotaan,2021,Semester 1 (Maret),0.58
+7500,GORONTALO,Perkotaan,2021,Semester 2 (September),0.55
+7500,GORONTALO,Perkotaan,2022,Semester 1 (Maret),0.32
+7500,GORONTALO,Perkotaan,2022,Semester 2 (September),0.67
+7500,GORONTALO,Perdesaan,2021,Semester 1 (Maret),4.66
+7500,GORONTALO,Perdesaan,2021,Semester 2 (September),4.79
+7500,GORONTALO,Perdesaan,2022,Semester 1 (Maret),5.18
+7500,GORONTALO,Perdesaan,2022,Semester 2 (September),4.63
+7500,GORONTALO,Perkotaan+Perdesaan,2021,Semester 1 (Maret),2.87
+7500,GORONTALO,Perkotaan+Perdesaan,2021,Semester 2 (September),2.92
+7500,GORONTALO,Perkotaan+Perdesaan,2022,Semester 1 (Maret),3.04
+7500,GORONTALO,Perkotaan+Perdesaan,2022,Semester 2 (September),2.85
+7600,SULAWESI BARAT,Perkotaan,2021,Semester 1 (Maret),1.52
+7600,SULAWESI BARAT,Perkotaan,2021,Semester 2 (September),1.25
+7600,SULAWESI BARAT,Perkotaan,2022,Semester 1 (Maret),1.59
+7600,SULAWESI BARAT,Perkotaan,2022,Semester 2 (September),1.34
+7600,SULAWESI BARAT,Perdesaan,2021,Semester 1 (Maret),1.82
+7600,SULAWESI BARAT,Perdesaan,2021,Semester 2 (September),2.07
+7600,SULAWESI BARAT,Perdesaan,2022,Semester 1 (Maret),2.37
+7600,SULAWESI BARAT,Perdesaan,2022,Semester 2 (September),2.28
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.76
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2021,Semester 2 (September),1.9
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.21
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2022,Semester 2 (September),2.09
+8100,MALUKU,Perkotaan,2021,Semester 1 (Maret),0.94
+8100,MALUKU,Perkotaan,2021,Semester 2 (September),0.92
+8100,MALUKU,Perkotaan,2022,Semester 1 (Maret),0.79
+8100,MALUKU,Perkotaan,2022,Semester 2 (September),0.86
+8100,MALUKU,Perdesaan,2021,Semester 1 (Maret),5.65
+8100,MALUKU,Perdesaan,2021,Semester 2 (September),5.52
+8100,MALUKU,Perdesaan,2022,Semester 1 (Maret),4.46
+8100,MALUKU,Perdesaan,2022,Semester 2 (September),4.86
+8100,MALUKU,Perkotaan+Perdesaan,2021,Semester 1 (Maret),3.58
+8100,MALUKU,Perkotaan+Perdesaan,2021,Semester 2 (September),3.49
+8100,MALUKU,Perkotaan+Perdesaan,2022,Semester 1 (Maret),2.9
+8100,MALUKU,Perkotaan+Perdesaan,2022,Semester 2 (September),3.08
+8200,MALUKU UTARA,Perkotaan,2021,Semester 1 (Maret),0.97
+8200,MALUKU UTARA,Perkotaan,2021,Semester 2 (September),0.96
+8200,MALUKU UTARA,Perkotaan,2022,Semester 1 (Maret),0.55
+8200,MALUKU UTARA,Perkotaan,2022,Semester 2 (September),0.58
+8200,MALUKU UTARA,Perdesaan,2021,Semester 1 (Maret),0.97
+8200,MALUKU UTARA,Perdesaan,2021,Semester 2 (September),0.93
+8200,MALUKU UTARA,Perdesaan,2022,Semester 1 (Maret),1.06
+8200,MALUKU UTARA,Perdesaan,2022,Semester 2 (September),1.49
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),0.97
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2021,Semester 2 (September),0.94
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),0.91
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2022,Semester 2 (September),1.23
+9100,PAPUA BARAT,Perkotaan,2021,Semester 1 (Maret),1.2
+9100,PAPUA BARAT,Perkotaan,2021,Semester 2 (September),0.91
+9100,PAPUA BARAT,Perkotaan,2022,Semester 1 (Maret),1.17
+9100,PAPUA BARAT,Perkotaan,2022,Semester 2 (September),1.11
+9100,PAPUA BARAT,Perdesaan,2021,Semester 1 (Maret),8.73
+9100,PAPUA BARAT,Perdesaan,2021,Semester 2 (September),9.58
+9100,PAPUA BARAT,Perdesaan,2022,Semester 1 (Maret),7.38
+9100,PAPUA BARAT,Perdesaan,2022,Semester 2 (September),8.46
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2021,Semester 1 (Maret),5.49
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2021,Semester 2 (September),5.84
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2022,Semester 1 (Maret),4.82
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2022,Semester 2 (September),5.25
+9400,PAPUA,Perkotaan,2021,Semester 1 (Maret),0.85
+9400,PAPUA,Perkotaan,2021,Semester 2 (September),0.86
+9400,PAPUA,Perkotaan,2022,Semester 1 (Maret),0.53
+9400,PAPUA,Perkotaan,2022,Semester 2 (September),0.9
+9400,PAPUA,Perdesaan,2021,Semester 1 (Maret),7.52
+9400,PAPUA,Perdesaan,2021,Semester 2 (September),8.53
+9400,PAPUA,Perdesaan,2022,Semester 1 (Maret),8.47
+9400,PAPUA,Perdesaan,2022,Semester 2 (September),9.92
+9400,PAPUA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),5.6
+9400,PAPUA,Perkotaan+Perdesaan,2021,Semester 2 (September),6.31
+9400,PAPUA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),6.16
+9400,PAPUA,Perkotaan+Perdesaan,2022,Semester 2 (September),7.28
+9999,INDONESIA,Perkotaan,2021,Semester 1 (Maret),1.29
+9999,INDONESIA,Perkotaan,2021,Semester 2 (September),1.23
+9999,INDONESIA,Perkotaan,2022,Semester 1 (Maret),1.19
+9999,INDONESIA,Perkotaan,2022,Semester 2 (September),1.16
+9999,INDONESIA,Perdesaan,2021,Semester 1 (Maret),2.27
+9999,INDONESIA,Perdesaan,2021,Semester 2 (September),2.25
+9999,INDONESIA,Perdesaan,2022,Semester 1 (Maret),2.13
+9999,INDONESIA,Perdesaan,2022,Semester 2 (September),2.11
+9999,INDONESIA,Perkotaan+Perdesaan,2021,Semester 1 (Maret),1.71
+9999,INDONESIA,Perkotaan+Perdesaan,2021,Semester 2 (September),1.67
+9999,INDONESIA,Perkotaan+Perdesaan,2022,Semester 1 (Maret),1.59
+9999,INDONESIA,Perkotaan+Perdesaan,2022,Semester 2 (September),1.56
+1100,ACEH,Perkotaan,2023,Semester 1 (Maret),1.93
+1100,ACEH,Perkotaan,2024,Semester 1 (Maret),1.58
+1100,ACEH,Perkotaan,2024,Semester 2 (September),0.95
+1100,ACEH,Perdesaan,2023,Semester 1 (Maret),3.2
+1100,ACEH,Perdesaan,2024,Semester 1 (Maret),3.18
+1100,ACEH,Perdesaan,2024,Semester 2 (September),2.5
+1100,ACEH,Perkotaan+Perdesaan,2023,Semester 1 (Maret),2.76
+1100,ACEH,Perkotaan+Perdesaan,2024,Semester 1 (Maret),2.62
+1100,ACEH,Perkotaan+Perdesaan,2024,Semester 2 (September),1.95
+1200,SUMATERA UTARA,Perkotaan,2023,Semester 1 (Maret),1.24
+1200,SUMATERA UTARA,Perkotaan,2024,Semester 1 (Maret),1.16
+1200,SUMATERA UTARA,Perkotaan,2024,Semester 2 (September),1.08
+1200,SUMATERA UTARA,Perdesaan,2023,Semester 1 (Maret),1.29
+1200,SUMATERA UTARA,Perdesaan,2024,Semester 1 (Maret),1.31
+1200,SUMATERA UTARA,Perdesaan,2024,Semester 2 (September),1.09
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.26
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.23
+1200,SUMATERA UTARA,Perkotaan+Perdesaan,2024,Semester 2 (September),1.08
+1300,SUMATERA BARAT,Perkotaan,2023,Semester 1 (Maret),0.69
+1300,SUMATERA BARAT,Perkotaan,2024,Semester 1 (Maret),0.61
+1300,SUMATERA BARAT,Perkotaan,2024,Semester 2 (September),0.35
+1300,SUMATERA BARAT,Perdesaan,2023,Semester 1 (Maret),0.96
+1300,SUMATERA BARAT,Perdesaan,2024,Semester 1 (Maret),0.89
+1300,SUMATERA BARAT,Perdesaan,2024,Semester 2 (September),1.14
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.82
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.74
+1300,SUMATERA BARAT,Perkotaan+Perdesaan,2024,Semester 2 (September),0.73
+1400,RIAU,Perkotaan,2023,Semester 1 (Maret),0.99
+1400,RIAU,Perkotaan,2024,Semester 1 (Maret),0.99
+1400,RIAU,Perkotaan,2024,Semester 2 (September),0.89
+1400,RIAU,Perdesaan,2023,Semester 1 (Maret),1.0
+1400,RIAU,Perdesaan,2024,Semester 1 (Maret),0.97
+1400,RIAU,Perdesaan,2024,Semester 2 (September),0.86
+1400,RIAU,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.0
+1400,RIAU,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.97
+1400,RIAU,Perkotaan+Perdesaan,2024,Semester 2 (September),0.87
+1500,JAMBI,Perkotaan,2023,Semester 1 (Maret),1.62
+1500,JAMBI,Perkotaan,2024,Semester 1 (Maret),1.49
+1500,JAMBI,Perkotaan,2024,Semester 2 (September),2.27
+1500,JAMBI,Perdesaan,2023,Semester 1 (Maret),0.99
+1500,JAMBI,Perdesaan,2024,Semester 1 (Maret),0.85
+1500,JAMBI,Perdesaan,2024,Semester 2 (September),0.83
+1500,JAMBI,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.19
+1500,JAMBI,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.06
+1500,JAMBI,Perkotaan+Perdesaan,2024,Semester 2 (September),1.31
+1600,SUMATERA SELATAN,Perkotaan,2023,Semester 1 (Maret),1.78
+1600,SUMATERA SELATAN,Perkotaan,2024,Semester 1 (Maret),1.69
+1600,SUMATERA SELATAN,Perkotaan,2024,Semester 2 (September),1.03
+1600,SUMATERA SELATAN,Perdesaan,2023,Semester 1 (Maret),1.69
+1600,SUMATERA SELATAN,Perdesaan,2024,Semester 1 (Maret),2.01
+1600,SUMATERA SELATAN,Perdesaan,2024,Semester 2 (September),1.71
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.72
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.89
+1600,SUMATERA SELATAN,Perkotaan+Perdesaan,2024,Semester 2 (September),1.45
+1700,BENGKULU,Perkotaan,2023,Semester 1 (Maret),2.22
+1700,BENGKULU,Perkotaan,2024,Semester 1 (Maret),2.44
+1700,BENGKULU,Perkotaan,2024,Semester 2 (September),1.57
+1700,BENGKULU,Perdesaan,2023,Semester 1 (Maret),2.1
+1700,BENGKULU,Perdesaan,2024,Semester 1 (Maret),1.94
+1700,BENGKULU,Perdesaan,2024,Semester 2 (September),1.97
+1700,BENGKULU,Perkotaan+Perdesaan,2023,Semester 1 (Maret),2.14
+1700,BENGKULU,Perkotaan+Perdesaan,2024,Semester 1 (Maret),2.11
+1700,BENGKULU,Perkotaan+Perdesaan,2024,Semester 2 (September),1.84
+1800,LAMPUNG,Perkotaan,2023,Semester 1 (Maret),1.2
+1800,LAMPUNG,Perkotaan,2024,Semester 1 (Maret),1.11
+1800,LAMPUNG,Perkotaan,2024,Semester 2 (September),1.17
+1800,LAMPUNG,Perdesaan,2023,Semester 1 (Maret),1.85
+1800,LAMPUNG,Perdesaan,2024,Semester 1 (Maret),1.75
+1800,LAMPUNG,Perdesaan,2024,Semester 2 (September),2.04
+1800,LAMPUNG,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.64
+1800,LAMPUNG,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.53
+1800,LAMPUNG,Perkotaan+Perdesaan,2024,Semester 2 (September),1.74
+1900,KEP. BANGKA BELITUNG,Perkotaan,2023,Semester 1 (Maret),0.49
+1900,KEP. BANGKA BELITUNG,Perkotaan,2024,Semester 1 (Maret),0.47
+1900,KEP. BANGKA BELITUNG,Perkotaan,2024,Semester 2 (September),0.49
+1900,KEP. BANGKA BELITUNG,Perdesaan,2023,Semester 1 (Maret),0.82
+1900,KEP. BANGKA BELITUNG,Perdesaan,2024,Semester 1 (Maret),0.93
+1900,KEP. BANGKA BELITUNG,Perdesaan,2024,Semester 2 (September),1.12
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.63
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.66
+1900,KEP. BANGKA BELITUNG,Perkotaan+Perdesaan,2024,Semester 2 (September),0.75
+2100,KEP. RIAU,Perkotaan,2023,Semester 1 (Maret),0.7
+2100,KEP. RIAU,Perkotaan,2024,Semester 1 (Maret),0.66
+2100,KEP. RIAU,Perkotaan,2024,Semester 2 (September),0.56
+2100,KEP. RIAU,Perdesaan,2023,Semester 1 (Maret),1.74
+2100,KEP. RIAU,Perdesaan,2024,Semester 1 (Maret),1.12
+2100,KEP. RIAU,Perdesaan,2024,Semester 2 (September),1.34
+2100,KEP. RIAU,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.82
+2100,KEP. RIAU,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.7
+2100,KEP. RIAU,Perkotaan+Perdesaan,2024,Semester 2 (September),0.64
+3100,DKI JAKARTA,Perkotaan,2023,Semester 1 (Maret),0.69
+3100,DKI JAKARTA,Perkotaan,2024,Semester 1 (Maret),0.65
+3100,DKI JAKARTA,Perkotaan,2024,Semester 2 (September),0.55
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.69
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.65
+3100,DKI JAKARTA,Perkotaan+Perdesaan,2024,Semester 2 (September),0.55
+3200,JAWA BARAT,Perkotaan,2023,Semester 1 (Maret),1.1
+3200,JAWA BARAT,Perkotaan,2024,Semester 1 (Maret),1.15
+3200,JAWA BARAT,Perkotaan,2024,Semester 2 (September),0.96
+3200,JAWA BARAT,Perdesaan,2023,Semester 1 (Maret),1.4
+3200,JAWA BARAT,Perdesaan,2024,Semester 1 (Maret),1.45
+3200,JAWA BARAT,Perdesaan,2024,Semester 2 (September),1.44
+3200,JAWA BARAT,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.16
+3200,JAWA BARAT,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.21
+3200,JAWA BARAT,Perkotaan+Perdesaan,2024,Semester 2 (September),1.05
+3300,JAWA TENGAH,Perkotaan,2023,Semester 1 (Maret),1.67
+3300,JAWA TENGAH,Perkotaan,2024,Semester 1 (Maret),1.51
+3300,JAWA TENGAH,Perkotaan,2024,Semester 2 (September),1.5
+3300,JAWA TENGAH,Perdesaan,2023,Semester 1 (Maret),1.83
+3300,JAWA TENGAH,Perdesaan,2024,Semester 1 (Maret),1.79
+3300,JAWA TENGAH,Perdesaan,2024,Semester 2 (September),1.72
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.75
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.64
+3300,JAWA TENGAH,Perkotaan+Perdesaan,2024,Semester 2 (September),1.6
+3400,DI YOGYAKARTA,Perkotaan,2023,Semester 1 (Maret),1.62
+3400,DI YOGYAKARTA,Perkotaan,2024,Semester 1 (Maret),1.73
+3400,DI YOGYAKARTA,Perkotaan,2024,Semester 2 (September),1.39
+3400,DI YOGYAKARTA,Perdesaan,2023,Semester 1 (Maret),2.01
+3400,DI YOGYAKARTA,Perdesaan,2024,Semester 1 (Maret),2.28
+3400,DI YOGYAKARTA,Perdesaan,2024,Semester 2 (September),2.09
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.72
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.87
+3400,DI YOGYAKARTA,Perkotaan+Perdesaan,2024,Semester 2 (September),1.56
+3500,JAWA TIMUR,Perkotaan,2023,Semester 1 (Maret),1.19
+3500,JAWA TIMUR,Perkotaan,2024,Semester 1 (Maret),0.98
+3500,JAWA TIMUR,Perkotaan,2024,Semester 2 (September),1.02
+3500,JAWA TIMUR,Perdesaan,2023,Semester 1 (Maret),2.19
+3500,JAWA TIMUR,Perdesaan,2024,Semester 1 (Maret),2.13
+3500,JAWA TIMUR,Perdesaan,2024,Semester 2 (September),2.23
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.63
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.48
+3500,JAWA TIMUR,Perkotaan+Perdesaan,2024,Semester 2 (September),1.54
+3600,BANTEN,Perkotaan,2023,Semester 1 (Maret),1.25
+3600,BANTEN,Perkotaan,2024,Semester 1 (Maret),0.95
+3600,BANTEN,Perkotaan,2024,Semester 2 (September),0.79
+3600,BANTEN,Perdesaan,2023,Semester 1 (Maret),1.06
+3600,BANTEN,Perdesaan,2024,Semester 1 (Maret),1.04
+3600,BANTEN,Perdesaan,2024,Semester 2 (September),0.82
+3600,BANTEN,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.2
+3600,BANTEN,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.97
+3600,BANTEN,Perkotaan+Perdesaan,2024,Semester 2 (September),0.8
+5100,BALI,Perkotaan,2023,Semester 1 (Maret),0.48
+5100,BALI,Perkotaan,2024,Semester 1 (Maret),0.43
+5100,BALI,Perkotaan,2024,Semester 2 (September),0.4
+5100,BALI,Perdesaan,2023,Semester 1 (Maret),0.74
+5100,BALI,Perdesaan,2024,Semester 1 (Maret),0.69
+5100,BALI,Perdesaan,2024,Semester 2 (September),0.55
+5100,BALI,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.55
+5100,BALI,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.5
+5100,BALI,Perkotaan+Perdesaan,2024,Semester 2 (September),0.44
+5200,NUSA TENGGARA BARAT,Perkotaan,2023,Semester 1 (Maret),2.28
+5200,NUSA TENGGARA BARAT,Perkotaan,2024,Semester 1 (Maret),2.42
+5200,NUSA TENGGARA BARAT,Perkotaan,2024,Semester 2 (September),1.77
+5200,NUSA TENGGARA BARAT,Perdesaan,2023,Semester 1 (Maret),2.48
+5200,NUSA TENGGARA BARAT,Perdesaan,2024,Semester 1 (Maret),2.46
+5200,NUSA TENGGARA BARAT,Perdesaan,2024,Semester 2 (September),2.18
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2023,Semester 1 (Maret),2.38
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2024,Semester 1 (Maret),2.44
+5200,NUSA TENGGARA BARAT,Perkotaan+Perdesaan,2024,Semester 2 (September),1.96
+5300,NUSA TENGGARA TIMUR,Perkotaan,2023,Semester 1 (Maret),1.21
+5300,NUSA TENGGARA TIMUR,Perkotaan,2024,Semester 1 (Maret),1.19
+5300,NUSA TENGGARA TIMUR,Perkotaan,2024,Semester 2 (September),1.24
+5300,NUSA TENGGARA TIMUR,Perdesaan,2023,Semester 1 (Maret),4.07
+5300,NUSA TENGGARA TIMUR,Perdesaan,2024,Semester 1 (Maret),4.21
+5300,NUSA TENGGARA TIMUR,Perdesaan,2024,Semester 2 (September),4.43
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2023,Semester 1 (Maret),3.33
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2024,Semester 1 (Maret),3.41
+5300,NUSA TENGGARA TIMUR,Perkotaan+Perdesaan,2024,Semester 2 (September),3.57
+6100,KALIMANTAN BARAT,Perkotaan,2023,Semester 1 (Maret),0.59
+6100,KALIMANTAN BARAT,Perkotaan,2024,Semester 1 (Maret),0.46
+6100,KALIMANTAN BARAT,Perkotaan,2024,Semester 2 (September),0.66
+6100,KALIMANTAN BARAT,Perdesaan,2023,Semester 1 (Maret),1.29
+6100,KALIMANTAN BARAT,Perdesaan,2024,Semester 1 (Maret),1.1
+6100,KALIMANTAN BARAT,Perdesaan,2024,Semester 2 (September),1.01
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.03
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.86
+6100,KALIMANTAN BARAT,Perkotaan+Perdesaan,2024,Semester 2 (September),0.88
+6200,KALIMANTAN TENGAH,Perkotaan,2023,Semester 1 (Maret),0.59
+6200,KALIMANTAN TENGAH,Perkotaan,2024,Semester 1 (Maret),0.81
+6200,KALIMANTAN TENGAH,Perkotaan,2024,Semester 2 (September),0.69
+6200,KALIMANTAN TENGAH,Perdesaan,2023,Semester 1 (Maret),0.72
+6200,KALIMANTAN TENGAH,Perdesaan,2024,Semester 1 (Maret),0.76
+6200,KALIMANTAN TENGAH,Perdesaan,2024,Semester 2 (September),0.68
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.66
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.78
+6200,KALIMANTAN TENGAH,Perkotaan+Perdesaan,2024,Semester 2 (September),0.68
+6300,KALIMANTAN SELATAN,Perkotaan,2023,Semester 1 (Maret),0.42
+6300,KALIMANTAN SELATAN,Perkotaan,2024,Semester 1 (Maret),0.5
+6300,KALIMANTAN SELATAN,Perkotaan,2024,Semester 2 (September),0.44
+6300,KALIMANTAN SELATAN,Perdesaan,2023,Semester 1 (Maret),0.8
+6300,KALIMANTAN SELATAN,Perdesaan,2024,Semester 1 (Maret),0.65
+6300,KALIMANTAN SELATAN,Perdesaan,2024,Semester 2 (September),0.53
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.61
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.57
+6300,KALIMANTAN SELATAN,Perkotaan+Perdesaan,2024,Semester 2 (September),0.48
+6400,KALIMANTAN TIMUR,Perkotaan,2023,Semester 1 (Maret),0.6
+6400,KALIMANTAN TIMUR,Perkotaan,2024,Semester 1 (Maret),0.62
+6400,KALIMANTAN TIMUR,Perkotaan,2024,Semester 2 (September),0.51
+6400,KALIMANTAN TIMUR,Perdesaan,2023,Semester 1 (Maret),1.15
+6400,KALIMANTAN TIMUR,Perdesaan,2024,Semester 1 (Maret),1.21
+6400,KALIMANTAN TIMUR,Perdesaan,2024,Semester 2 (September),0.82
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.77
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.8
+6400,KALIMANTAN TIMUR,Perkotaan+Perdesaan,2024,Semester 2 (September),0.61
+6500,KALIMANTAN UTARA,Perkotaan,2023,Semester 1 (Maret),0.56
+6500,KALIMANTAN UTARA,Perkotaan,2024,Semester 1 (Maret),0.65
+6500,KALIMANTAN UTARA,Perkotaan,2024,Semester 2 (September),0.22
+6500,KALIMANTAN UTARA,Perdesaan,2023,Semester 1 (Maret),0.78
+6500,KALIMANTAN UTARA,Perdesaan,2024,Semester 1 (Maret),1.12
+6500,KALIMANTAN UTARA,Perdesaan,2024,Semester 2 (September),1.0
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),0.64
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.82
+6500,KALIMANTAN UTARA,Perkotaan+Perdesaan,2024,Semester 2 (September),0.49
+7100,SULAWESI UTARA,Perkotaan,2023,Semester 1 (Maret),0.69
+7100,SULAWESI UTARA,Perkotaan,2024,Semester 1 (Maret),0.69
+7100,SULAWESI UTARA,Perkotaan,2024,Semester 2 (September),0.59
+7100,SULAWESI UTARA,Perdesaan,2023,Semester 1 (Maret),1.57
+7100,SULAWESI UTARA,Perdesaan,2024,Semester 1 (Maret),1.61
+7100,SULAWESI UTARA,Perdesaan,2024,Semester 2 (September),2.03
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.09
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.1
+7100,SULAWESI UTARA,Perkotaan+Perdesaan,2024,Semester 2 (September),1.22
+7200,SULAWESI TENGAH,Perkotaan,2023,Semester 1 (Maret),1.53
+7200,SULAWESI TENGAH,Perkotaan,2024,Semester 1 (Maret),1.44
+7200,SULAWESI TENGAH,Perkotaan,2024,Semester 2 (September),0.95
+7200,SULAWESI TENGAH,Perdesaan,2023,Semester 1 (Maret),2.4
+7200,SULAWESI TENGAH,Perdesaan,2024,Semester 1 (Maret),2.43
+7200,SULAWESI TENGAH,Perdesaan,2024,Semester 2 (September),2.1
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2023,Semester 1 (Maret),2.12
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2024,Semester 1 (Maret),2.1
+7200,SULAWESI TENGAH,Perkotaan+Perdesaan,2024,Semester 2 (September),1.72
+7300,SULAWESI SELATAN,Perkotaan,2023,Semester 1 (Maret),0.71
+7300,SULAWESI SELATAN,Perkotaan,2024,Semester 1 (Maret),0.76
+7300,SULAWESI SELATAN,Perkotaan,2024,Semester 2 (September),0.86
+7300,SULAWESI SELATAN,Perdesaan,2023,Semester 1 (Maret),2.31
+7300,SULAWESI SELATAN,Perdesaan,2024,Semester 1 (Maret),1.96
+7300,SULAWESI SELATAN,Perdesaan,2024,Semester 2 (September),1.86
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.57
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.39
+7300,SULAWESI SELATAN,Perkotaan+Perdesaan,2024,Semester 2 (September),1.38
+7400,SULAWESI TENGGARA,Perkotaan,2023,Semester 1 (Maret),1.08
+7400,SULAWESI TENGGARA,Perkotaan,2024,Semester 1 (Maret),1.25
+7400,SULAWESI TENGGARA,Perkotaan,2024,Semester 2 (September),0.99
+7400,SULAWESI TENGGARA,Perdesaan,2023,Semester 1 (Maret),2.51
+7400,SULAWESI TENGGARA,Perdesaan,2024,Semester 1 (Maret),2.6
+7400,SULAWESI TENGGARA,Perdesaan,2024,Semester 2 (September),2.33
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.96
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),2.08
+7400,SULAWESI TENGGARA,Perkotaan+Perdesaan,2024,Semester 2 (September),1.81
+7500,GORONTALO,Perkotaan,2023,Semester 1 (Maret),0.67
+7500,GORONTALO,Perkotaan,2024,Semester 1 (Maret),0.51
+7500,GORONTALO,Perkotaan,2024,Semester 2 (September),0.39
+7500,GORONTALO,Perdesaan,2023,Semester 1 (Maret),4.73
+7500,GORONTALO,Perdesaan,2024,Semester 1 (Maret),4.87
+7500,GORONTALO,Perdesaan,2024,Semester 2 (September),3.96
+7500,GORONTALO,Perkotaan+Perdesaan,2023,Semester 1 (Maret),2.92
+7500,GORONTALO,Perkotaan+Perdesaan,2024,Semester 1 (Maret),2.88
+7500,GORONTALO,Perkotaan+Perdesaan,2024,Semester 2 (September),2.3
+7600,SULAWESI BARAT,Perkotaan,2023,Semester 1 (Maret),1.66
+7600,SULAWESI BARAT,Perkotaan,2024,Semester 1 (Maret),1.57
+7600,SULAWESI BARAT,Perkotaan,2024,Semester 2 (September),1.38
+7600,SULAWESI BARAT,Perdesaan,2023,Semester 1 (Maret),1.84
+7600,SULAWESI BARAT,Perdesaan,2024,Semester 1 (Maret),1.92
+7600,SULAWESI BARAT,Perdesaan,2024,Semester 2 (September),1.47
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.8
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.85
+7600,SULAWESI BARAT,Perkotaan+Perdesaan,2024,Semester 2 (September),1.45
+8100,MALUKU,Perkotaan,2023,Semester 1 (Maret),0.83
+8100,MALUKU,Perkotaan,2024,Semester 1 (Maret),0.93
+8100,MALUKU,Perkotaan,2024,Semester 2 (September),0.81
+8100,MALUKU,Perdesaan,2023,Semester 1 (Maret),4.77
+8100,MALUKU,Perdesaan,2024,Semester 1 (Maret),4.78
+8100,MALUKU,Perdesaan,2024,Semester 2 (September),4.04
+8100,MALUKU,Perkotaan+Perdesaan,2023,Semester 1 (Maret),3.08
+8100,MALUKU,Perkotaan+Perdesaan,2024,Semester 1 (Maret),3.1
+8100,MALUKU,Perkotaan+Perdesaan,2024,Semester 2 (September),2.57
+8200,MALUKU UTARA,Perkotaan,2023,Semester 1 (Maret),1.05
+8200,MALUKU UTARA,Perkotaan,2024,Semester 1 (Maret),0.94
+8200,MALUKU UTARA,Perkotaan,2024,Semester 2 (September),1.16
+8200,MALUKU UTARA,Perdesaan,2023,Semester 1 (Maret),1.1
+8200,MALUKU UTARA,Perdesaan,2024,Semester 1 (Maret),0.87
+8200,MALUKU UTARA,Perdesaan,2024,Semester 2 (September),0.73
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.08
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),0.89
+8200,MALUKU UTARA,Perkotaan+Perdesaan,2024,Semester 2 (September),0.85
+9100,PAPUA BARAT,Perkotaan,2023,Semester 1 (Maret),1.78
+9100,PAPUA BARAT,Perkotaan,2024,Semester 1 (Maret),0.93
+9100,PAPUA BARAT,Perkotaan,2024,Semester 2 (September),1.15
+9100,PAPUA BARAT,Perdesaan,2023,Semester 1 (Maret),7.18
+9100,PAPUA BARAT,Perdesaan,2024,Semester 1 (Maret),5.87
+9100,PAPUA BARAT,Perdesaan,2024,Semester 2 (September),6.12
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2023,Semester 1 (Maret),4.94
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2024,Semester 1 (Maret),4.35
+9100,PAPUA BARAT,Perkotaan+Perdesaan,2024,Semester 2 (September),4.57
+9200,PAPUA BARAT DAYA,Perkotaan,2024,Semester 1 (Maret),1.29
+9200,PAPUA BARAT DAYA,Perkotaan,2024,Semester 2 (September),0.94
+9200,PAPUA BARAT DAYA,Perdesaan,2024,Semester 1 (Maret),7.48
+9200,PAPUA BARAT DAYA,Perdesaan,2024,Semester 2 (September),5.15
+9200,PAPUA BARAT DAYA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),4.38
+9200,PAPUA BARAT DAYA,Perkotaan+Perdesaan,2024,Semester 2 (September),3.04
+9400,PAPUA,Perkotaan,2023,Semester 1 (Maret),0.87
+9400,PAPUA,Perkotaan,2024,Semester 1 (Maret),1.09
+9400,PAPUA,Perkotaan,2024,Semester 2 (September),1.63
+9400,PAPUA,Perdesaan,2023,Semester 1 (Maret),8.48
+9400,PAPUA,Perdesaan,2024,Semester 1 (Maret),8.39
+9400,PAPUA,Perdesaan,2024,Semester 2 (September),9.23
+9400,PAPUA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),6.25
+9400,PAPUA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),4.01
+9400,PAPUA,Perkotaan+Perdesaan,2024,Semester 2 (September),4.64
+9500,PAPUA SELATAN,Perkotaan,2024,Semester 1 (Maret),0.44
+9500,PAPUA SELATAN,Perkotaan,2024,Semester 2 (September),0.23
+9500,PAPUA SELATAN,Perdesaan,2024,Semester 1 (Maret),5.59
+9500,PAPUA SELATAN,Perdesaan,2024,Semester 2 (September),7.19
+9500,PAPUA SELATAN,Perkotaan+Perdesaan,2024,Semester 1 (Maret),3.71
+9500,PAPUA SELATAN,Perkotaan+Perdesaan,2024,Semester 2 (September),4.63
+9600,PAPUA TENGAH,Perkotaan,2024,Semester 1 (Maret),0.83
+9600,PAPUA TENGAH,Perkotaan,2024,Semester 2 (September),0.78
+9600,PAPUA TENGAH,Perdesaan,2024,Semester 1 (Maret),7.61
+9600,PAPUA TENGAH,Perdesaan,2024,Semester 2 (September),6.74
+9600,PAPUA TENGAH,Perkotaan+Perdesaan,2024,Semester 1 (Maret),5.96
+9600,PAPUA TENGAH,Perkotaan+Perdesaan,2024,Semester 2 (September),5.28
+9700,PAPUA PEGUNUNGAN,Perkotaan,2024,Semester 1 (Maret),2.72
+9700,PAPUA PEGUNUNGAN,Perkotaan,2024,Semester 2 (September),2.18
+9700,PAPUA PEGUNUNGAN,Perdesaan,2024,Semester 1 (Maret),6.47
+9700,PAPUA PEGUNUNGAN,Perdesaan,2024,Semester 2 (September),7.56
+9700,PAPUA PEGUNUNGAN,Perkotaan+Perdesaan,2024,Semester 1 (Maret),6.21
+9700,PAPUA PEGUNUNGAN,Perkotaan+Perdesaan,2024,Semester 2 (September),7.17
+9999,INDONESIA,Perkotaan,2023,Semester 1 (Maret),1.16
+9999,INDONESIA,Perkotaan,2024,Semester 1 (Maret),1.1
+9999,INDONESIA,Perkotaan,2024,Semester 2 (September),0.98
+9999,INDONESIA,Perdesaan,2023,Semester 1 (Maret),2.03
+9999,INDONESIA,Perdesaan,2024,Semester 1 (Maret),1.98
+9999,INDONESIA,Perdesaan,2024,Semester 2 (September),1.92
+9999,INDONESIA,Perkotaan+Perdesaan,2023,Semester 1 (Maret),1.53
+9999,INDONESIA,Perkotaan+Perdesaan,2024,Semester 1 (Maret),1.46
+9999,INDONESIA,Perkotaan+Perdesaan,2024,Semester 2 (September),1.36

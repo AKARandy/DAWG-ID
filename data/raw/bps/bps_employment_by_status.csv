@@ -1,0 +1,1744 @@
+province_code,province,area_type,year,period,value
+1100,ACEH,1. Berusaha Sendiri,2022,Februari ,533290
+1100,ACEH,1. Berusaha Sendiri,2022,Agustus,604272
+1100,ACEH,1. Berusaha Sendiri,2023,Februari ,581040
+1100,ACEH,1. Berusaha Sendiri,2023,Agustus,626676
+1100,ACEH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,379162
+1100,ACEH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,318339
+1100,ACEH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,377395
+1100,ACEH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,323177
+1100,ACEH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,97583
+1100,ACEH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,80333
+1100,ACEH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,99320
+1100,ACEH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,103392
+1100,ACEH,4. Buruh / Karyawan / Pegawai,2022,Februari ,827338
+1100,ACEH,4. Buruh / Karyawan / Pegawai,2022,Agustus,842954
+1100,ACEH,4. Buruh / Karyawan / Pegawai,2023,Februari ,745827
+1100,ACEH,4. Buruh / Karyawan / Pegawai,2023,Agustus,879044
+1100,ACEH,5. Pekerja Bebas di Pertanian,2022,Februari ,110166
+1100,ACEH,5. Pekerja Bebas di Pertanian,2022,Agustus,146394
+1100,ACEH,5. Pekerja Bebas di Pertanian,2023,Februari ,108083
+1100,ACEH,5. Pekerja Bebas di Pertanian,2023,Agustus,117333
+1100,ACEH,6. Pekerja Bebas di Non Pertanian,2022,Februari ,102243
+1100,ACEH,6. Pekerja Bebas di Non Pertanian,2022,Agustus,102538
+1100,ACEH,6. Pekerja Bebas di Non Pertanian,2023,Februari ,136610
+1100,ACEH,6. Pekerja Bebas di Non Pertanian,2023,Agustus,114334
+1100,ACEH,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,314884
+1100,ACEH,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,300164
+1100,ACEH,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,401681
+1100,ACEH,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,283389
+1100,ACEH,Total,2022,Februari ,2364666
+1100,ACEH,Total,2022,Agustus,2394994
+1100,ACEH,Total,2023,Februari ,2449956
+1100,ACEH,Total,2023,Agustus,2447345
+1200,SUMATERA UTARA,1. Berusaha Sendiri,2022,Februari ,1350775
+1200,SUMATERA UTARA,1. Berusaha Sendiri,2022,Agustus,1442845
+1200,SUMATERA UTARA,1. Berusaha Sendiri,2023,Februari ,1370275
+1200,SUMATERA UTARA,1. Berusaha Sendiri,2023,Agustus,1678211
+1200,SUMATERA UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,1240925
+1200,SUMATERA UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,1033192
+1200,SUMATERA UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,1136962
+1200,SUMATERA UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,1035761
+1200,SUMATERA UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,232436
+1200,SUMATERA UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,264083
+1200,SUMATERA UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,277912
+1200,SUMATERA UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,287853
+1200,SUMATERA UTARA,4. Buruh / Karyawan / Pegawai,2022,Februari ,2629442
+1200,SUMATERA UTARA,4. Buruh / Karyawan / Pegawai,2022,Agustus,2681903
+1200,SUMATERA UTARA,4. Buruh / Karyawan / Pegawai,2023,Februari ,2884485
+1200,SUMATERA UTARA,4. Buruh / Karyawan / Pegawai,2023,Agustus,2843817
+1200,SUMATERA UTARA,5. Pekerja Bebas di Pertanian,2022,Februari ,291772
+1200,SUMATERA UTARA,5. Pekerja Bebas di Pertanian,2022,Agustus,295867
+1200,SUMATERA UTARA,5. Pekerja Bebas di Pertanian,2023,Februari ,255854
+1200,SUMATERA UTARA,5. Pekerja Bebas di Pertanian,2023,Agustus,278743
+1200,SUMATERA UTARA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,315616
+1200,SUMATERA UTARA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,360062
+1200,SUMATERA UTARA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,336651
+1200,SUMATERA UTARA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,272936
+1200,SUMATERA UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,1253611
+1200,SUMATERA UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,1119422
+1200,SUMATERA UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,1199017
+1200,SUMATERA UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,1152216
+1200,SUMATERA UTARA,Total,2022,Februari ,7314577
+1200,SUMATERA UTARA,Total,2022,Agustus,7197374
+1200,SUMATERA UTARA,Total,2023,Februari ,7461156
+1200,SUMATERA UTARA,Total,2023,Agustus,7549537
+1300,SUMATERA BARAT,1. Berusaha Sendiri,2022,Februari ,565370
+1300,SUMATERA BARAT,1. Berusaha Sendiri,2022,Agustus,653862
+1300,SUMATERA BARAT,1. Berusaha Sendiri,2023,Februari ,595814
+1300,SUMATERA BARAT,1. Berusaha Sendiri,2023,Agustus,694094
+1300,SUMATERA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,483555
+1300,SUMATERA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,433372
+1300,SUMATERA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,488249
+1300,SUMATERA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,469208
+1300,SUMATERA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,104245
+1300,SUMATERA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,93174
+1300,SUMATERA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,146904
+1300,SUMATERA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,121729
+1300,SUMATERA BARAT,4. Buruh / Karyawan / Pegawai,2022,Februari ,886437
+1300,SUMATERA BARAT,4. Buruh / Karyawan / Pegawai,2022,Agustus,840702
+1300,SUMATERA BARAT,4. Buruh / Karyawan / Pegawai,2023,Februari ,935949
+1300,SUMATERA BARAT,4. Buruh / Karyawan / Pegawai,2023,Agustus,896996
+1300,SUMATERA BARAT,5. Pekerja Bebas di Pertanian,2022,Februari ,153218
+1300,SUMATERA BARAT,5. Pekerja Bebas di Pertanian,2022,Agustus,159216
+1300,SUMATERA BARAT,5. Pekerja Bebas di Pertanian,2023,Februari ,128674
+1300,SUMATERA BARAT,5. Pekerja Bebas di Pertanian,2023,Agustus,166420
+1300,SUMATERA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Februari ,101877
+1300,SUMATERA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Agustus,120536
+1300,SUMATERA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Februari ,142839
+1300,SUMATERA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Agustus,133170
+1300,SUMATERA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,399905
+1300,SUMATERA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,387302
+1300,SUMATERA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,384114
+1300,SUMATERA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,363308
+1300,SUMATERA BARAT,Total,2022,Februari ,2694607
+1300,SUMATERA BARAT,Total,2022,Agustus,2688164
+1300,SUMATERA BARAT,Total,2023,Februari ,2822543
+1300,SUMATERA BARAT,Total,2023,Agustus,2844925
+1400,RIAU,1. Berusaha Sendiri,2022,Februari ,614570
+1400,RIAU,1. Berusaha Sendiri,2022,Agustus,694008
+1400,RIAU,1. Berusaha Sendiri,2023,Februari ,618631
+1400,RIAU,1. Berusaha Sendiri,2023,Agustus,688343
+1400,RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,369279
+1400,RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,345988
+1400,RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,287304
+1400,RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,290574
+1400,RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,181874
+1400,RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,179443
+1400,RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,178277
+1400,RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,202733
+1400,RIAU,4. Buruh / Karyawan / Pegawai,2022,Februari ,1238299
+1400,RIAU,4. Buruh / Karyawan / Pegawai,2022,Agustus,1277659
+1400,RIAU,4. Buruh / Karyawan / Pegawai,2023,Februari ,1298408
+1400,RIAU,4. Buruh / Karyawan / Pegawai,2023,Agustus,1234451
+1400,RIAU,5. Pekerja Bebas di Pertanian,2022,Februari ,195764
+1400,RIAU,5. Pekerja Bebas di Pertanian,2022,Agustus,233706
+1400,RIAU,5. Pekerja Bebas di Pertanian,2023,Februari ,196449
+1400,RIAU,5. Pekerja Bebas di Pertanian,2023,Agustus,192193
+1400,RIAU,6. Pekerja Bebas di Non Pertanian,2022,Februari ,87060
+1400,RIAU,6. Pekerja Bebas di Non Pertanian,2022,Agustus,103379
+1400,RIAU,6. Pekerja Bebas di Non Pertanian,2023,Februari ,119042
+1400,RIAU,6. Pekerja Bebas di Non Pertanian,2023,Agustus,85568
+1400,RIAU,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,319743
+1400,RIAU,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,334746
+1400,RIAU,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,343518
+1400,RIAU,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,308472
+1400,RIAU,Total,2022,Februari ,3006589
+1400,RIAU,Total,2022,Agustus,3168929
+1400,RIAU,Total,2023,Februari ,3041629
+1400,RIAU,Total,2023,Agustus,3002334
+1500,JAMBI,1. Berusaha Sendiri,2022,Februari ,347325
+1500,JAMBI,1. Berusaha Sendiri,2022,Agustus,440747
+1500,JAMBI,1. Berusaha Sendiri,2023,Februari ,360312
+1500,JAMBI,1. Berusaha Sendiri,2023,Agustus,455085
+1500,JAMBI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,299668
+1500,JAMBI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,234315
+1500,JAMBI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,281301
+1500,JAMBI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,229175
+1500,JAMBI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,79049
+1500,JAMBI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,90532
+1500,JAMBI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,96757
+1500,JAMBI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,90143
+1500,JAMBI,4. Buruh / Karyawan / Pegawai,2022,Februari ,607155
+1500,JAMBI,4. Buruh / Karyawan / Pegawai,2022,Agustus,628911
+1500,JAMBI,4. Buruh / Karyawan / Pegawai,2023,Februari ,608503
+1500,JAMBI,4. Buruh / Karyawan / Pegawai,2023,Agustus,635648
+1500,JAMBI,5. Pekerja Bebas di Pertanian,2022,Februari ,104480
+1500,JAMBI,5. Pekerja Bebas di Pertanian,2022,Agustus,101742
+1500,JAMBI,5. Pekerja Bebas di Pertanian,2023,Februari ,87091
+1500,JAMBI,5. Pekerja Bebas di Pertanian,2023,Agustus,100571
+1500,JAMBI,6. Pekerja Bebas di Non Pertanian,2022,Februari ,65171
+1500,JAMBI,6. Pekerja Bebas di Non Pertanian,2022,Agustus,44086
+1500,JAMBI,6. Pekerja Bebas di Non Pertanian,2023,Februari ,55471
+1500,JAMBI,6. Pekerja Bebas di Non Pertanian,2023,Agustus,52692
+1500,JAMBI,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,258813
+1500,JAMBI,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,257486
+1500,JAMBI,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,279218
+1500,JAMBI,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,238950
+1500,JAMBI,Total,2022,Februari ,1761661
+1500,JAMBI,Total,2022,Agustus,1797819
+1500,JAMBI,Total,2023,Februari ,1768653
+1500,JAMBI,Total,2023,Agustus,1802264
+1600,SUMATERA SELATAN,1. Berusaha Sendiri,2022,Februari ,936697
+1600,SUMATERA SELATAN,1. Berusaha Sendiri,2022,Agustus,1012639
+1600,SUMATERA SELATAN,1. Berusaha Sendiri,2023,Februari ,1084434
+1600,SUMATERA SELATAN,1. Berusaha Sendiri,2023,Agustus,1063720
+1600,SUMATERA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,736586
+1600,SUMATERA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,730512
+1600,SUMATERA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,748995
+1600,SUMATERA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,710379
+1600,SUMATERA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,110169
+1600,SUMATERA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,105224
+1600,SUMATERA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,160998
+1600,SUMATERA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,138924
+1600,SUMATERA SELATAN,4. Buruh / Karyawan / Pegawai,2022,Februari ,1367634
+1600,SUMATERA SELATAN,4. Buruh / Karyawan / Pegawai,2022,Agustus,1470045
+1600,SUMATERA SELATAN,4. Buruh / Karyawan / Pegawai,2023,Februari ,1409723
+1600,SUMATERA SELATAN,4. Buruh / Karyawan / Pegawai,2023,Agustus,1490405
+1600,SUMATERA SELATAN,5. Pekerja Bebas di Pertanian,2022,Februari ,132161
+1600,SUMATERA SELATAN,5. Pekerja Bebas di Pertanian,2022,Agustus,92464
+1600,SUMATERA SELATAN,5. Pekerja Bebas di Pertanian,2023,Februari ,51739
+1600,SUMATERA SELATAN,5. Pekerja Bebas di Pertanian,2023,Agustus,118662
+1600,SUMATERA SELATAN,6. Pekerja Bebas di Non Pertanian,2022,Februari ,132450
+1600,SUMATERA SELATAN,6. Pekerja Bebas di Non Pertanian,2022,Agustus,93482
+1600,SUMATERA SELATAN,6. Pekerja Bebas di Non Pertanian,2023,Februari ,102391
+1600,SUMATERA SELATAN,6. Pekerja Bebas di Non Pertanian,2023,Agustus,119898
+1600,SUMATERA SELATAN,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,780614
+1600,SUMATERA SELATAN,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,785338
+1600,SUMATERA SELATAN,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,731892
+1600,SUMATERA SELATAN,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,757671
+1600,SUMATERA SELATAN,Total,2022,Februari ,4196311
+1600,SUMATERA SELATAN,Total,2022,Agustus,4289704
+1600,SUMATERA SELATAN,Total,2023,Februari ,4290172
+1600,SUMATERA SELATAN,Total,2023,Agustus,4399659
+1700,BENGKULU,1. Berusaha Sendiri,2022,Februari ,217681
+1700,BENGKULU,1. Berusaha Sendiri,2022,Agustus,225584
+1700,BENGKULU,1. Berusaha Sendiri,2023,Februari ,198393
+1700,BENGKULU,1. Berusaha Sendiri,2023,Agustus,232544
+1700,BENGKULU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,227679
+1700,BENGKULU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,191607
+1700,BENGKULU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,240866
+1700,BENGKULU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,199256
+1700,BENGKULU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,33670
+1700,BENGKULU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,39042
+1700,BENGKULU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,47552
+1700,BENGKULU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,34698
+1700,BENGKULU,4. Buruh / Karyawan / Pegawai,2022,Februari ,276559
+1700,BENGKULU,4. Buruh / Karyawan / Pegawai,2022,Agustus,297741
+1700,BENGKULU,4. Buruh / Karyawan / Pegawai,2023,Februari ,277783
+1700,BENGKULU,4. Buruh / Karyawan / Pegawai,2023,Agustus,310058
+1700,BENGKULU,5. Pekerja Bebas di Pertanian,2022,Februari ,61991
+1700,BENGKULU,5. Pekerja Bebas di Pertanian,2022,Agustus,63923
+1700,BENGKULU,5. Pekerja Bebas di Pertanian,2023,Februari ,59308
+1700,BENGKULU,5. Pekerja Bebas di Pertanian,2023,Agustus,64601
+1700,BENGKULU,6. Pekerja Bebas di Non Pertanian,2022,Februari ,41757
+1700,BENGKULU,6. Pekerja Bebas di Non Pertanian,2022,Agustus,37795
+1700,BENGKULU,6. Pekerja Bebas di Non Pertanian,2023,Februari ,41986
+1700,BENGKULU,6. Pekerja Bebas di Non Pertanian,2023,Agustus,49386
+1700,BENGKULU,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,196435
+1700,BENGKULU,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,181804
+1700,BENGKULU,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,227965
+1700,BENGKULU,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,179072
+1700,BENGKULU,Total,2022,Februari ,1055772
+1700,BENGKULU,Total,2022,Agustus,1037496
+1700,BENGKULU,Total,2023,Februari ,1093853
+1700,BENGKULU,Total,2023,Agustus,1069615
+1800,LAMPUNG,1. Berusaha Sendiri,2022,Februari ,806333
+1800,LAMPUNG,1. Berusaha Sendiri,2022,Agustus,878210
+1800,LAMPUNG,1. Berusaha Sendiri,2023,Februari ,958729
+1800,LAMPUNG,1. Berusaha Sendiri,2023,Agustus,1032382
+1800,LAMPUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,1004847
+1800,LAMPUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,889961
+1800,LAMPUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,988024
+1800,LAMPUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,887494
+1800,LAMPUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,125255
+1800,LAMPUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,114933
+1800,LAMPUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,135757
+1800,LAMPUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,126013
+1800,LAMPUNG,4. Buruh / Karyawan / Pegawai,2022,Februari ,1242682
+1800,LAMPUNG,4. Buruh / Karyawan / Pegawai,2022,Agustus,1135028
+1800,LAMPUNG,4. Buruh / Karyawan / Pegawai,2023,Februari ,1067915
+1800,LAMPUNG,4. Buruh / Karyawan / Pegawai,2023,Agustus,1252006
+1800,LAMPUNG,5. Pekerja Bebas di Pertanian,2022,Februari ,323157
+1800,LAMPUNG,5. Pekerja Bebas di Pertanian,2022,Agustus,317382
+1800,LAMPUNG,5. Pekerja Bebas di Pertanian,2023,Februari ,400202
+1800,LAMPUNG,5. Pekerja Bebas di Pertanian,2023,Agustus,286906
+1800,LAMPUNG,6. Pekerja Bebas di Non Pertanian,2022,Februari ,251658
+1800,LAMPUNG,6. Pekerja Bebas di Non Pertanian,2022,Agustus,244568
+1800,LAMPUNG,6. Pekerja Bebas di Non Pertanian,2023,Februari ,300927
+1800,LAMPUNG,6. Pekerja Bebas di Non Pertanian,2023,Agustus,310872
+1800,LAMPUNG,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,1002890
+1800,LAMPUNG,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,807884
+1800,LAMPUNG,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,942477
+1800,LAMPUNG,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,801985
+1800,LAMPUNG,Total,2022,Februari ,4756822
+1800,LAMPUNG,Total,2022,Agustus,4387966
+1800,LAMPUNG,Total,2023,Februari ,4794031
+1800,LAMPUNG,Total,2023,Agustus,4697658
+1900,KEP. BANGKA BELITUNG,1. Berusaha Sendiri,2022,Februari ,197443
+1900,KEP. BANGKA BELITUNG,1. Berusaha Sendiri,2022,Agustus,206869
+1900,KEP. BANGKA BELITUNG,1. Berusaha Sendiri,2023,Februari ,219092
+1900,KEP. BANGKA BELITUNG,1. Berusaha Sendiri,2023,Agustus,218634
+1900,KEP. BANGKA BELITUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,84597
+1900,KEP. BANGKA BELITUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,63206
+1900,KEP. BANGKA BELITUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,59450
+1900,KEP. BANGKA BELITUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,60287
+1900,KEP. BANGKA BELITUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,37195
+1900,KEP. BANGKA BELITUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,43138
+1900,KEP. BANGKA BELITUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,48478
+1900,KEP. BANGKA BELITUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,37099
+1900,KEP. BANGKA BELITUNG,4. Buruh / Karyawan / Pegawai,2022,Februari ,336481
+1900,KEP. BANGKA BELITUNG,4. Buruh / Karyawan / Pegawai,2022,Agustus,325048
+1900,KEP. BANGKA BELITUNG,4. Buruh / Karyawan / Pegawai,2023,Februari ,339976
+1900,KEP. BANGKA BELITUNG,4. Buruh / Karyawan / Pegawai,2023,Agustus,329788
+1900,KEP. BANGKA BELITUNG,5. Pekerja Bebas di Pertanian,2022,Februari ,18098
+1900,KEP. BANGKA BELITUNG,5. Pekerja Bebas di Pertanian,2022,Agustus,16058
+1900,KEP. BANGKA BELITUNG,5. Pekerja Bebas di Pertanian,2023,Februari ,14628
+1900,KEP. BANGKA BELITUNG,5. Pekerja Bebas di Pertanian,2023,Agustus,18062
+1900,KEP. BANGKA BELITUNG,6. Pekerja Bebas di Non Pertanian,2022,Februari ,22726
+1900,KEP. BANGKA BELITUNG,6. Pekerja Bebas di Non Pertanian,2022,Agustus,17136
+1900,KEP. BANGKA BELITUNG,6. Pekerja Bebas di Non Pertanian,2023,Februari ,19773
+1900,KEP. BANGKA BELITUNG,6. Pekerja Bebas di Non Pertanian,2023,Agustus,20934
+1900,KEP. BANGKA BELITUNG,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,59274
+1900,KEP. BANGKA BELITUNG,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,59517
+1900,KEP. BANGKA BELITUNG,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,72614
+1900,KEP. BANGKA BELITUNG,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,65011
+1900,KEP. BANGKA BELITUNG,Total,2022,Februari ,755814
+1900,KEP. BANGKA BELITUNG,Total,2022,Agustus,730972
+1900,KEP. BANGKA BELITUNG,Total,2023,Februari ,774011
+1900,KEP. BANGKA BELITUNG,Total,2023,Agustus,749815
+2100,KEP. RIAU,1. Berusaha Sendiri,2022,Februari ,150452
+2100,KEP. RIAU,1. Berusaha Sendiri,2022,Agustus,228843
+2100,KEP. RIAU,1. Berusaha Sendiri,2023,Februari ,161142
+2100,KEP. RIAU,1. Berusaha Sendiri,2023,Agustus,205557
+2100,KEP. RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,73446
+2100,KEP. RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,66721
+2100,KEP. RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,67379
+2100,KEP. RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,57425
+2100,KEP. RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,38285
+2100,KEP. RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,37329
+2100,KEP. RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,39459
+2100,KEP. RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,38465
+2100,KEP. RIAU,4. Buruh / Karyawan / Pegawai,2022,Februari ,608839
+2100,KEP. RIAU,4. Buruh / Karyawan / Pegawai,2022,Agustus,698846
+2100,KEP. RIAU,4. Buruh / Karyawan / Pegawai,2023,Februari ,693476
+2100,KEP. RIAU,4. Buruh / Karyawan / Pegawai,2023,Agustus,637669
+2100,KEP. RIAU,5. Pekerja Bebas di Pertanian,2022,Februari ,4815
+2100,KEP. RIAU,5. Pekerja Bebas di Pertanian,2022,Agustus,6322
+2100,KEP. RIAU,5. Pekerja Bebas di Pertanian,2023,Februari ,543
+2100,KEP. RIAU,5. Pekerja Bebas di Pertanian,2023,Agustus,3948
+2100,KEP. RIAU,6. Pekerja Bebas di Non Pertanian,2022,Februari ,28391
+2100,KEP. RIAU,6. Pekerja Bebas di Non Pertanian,2022,Agustus,41320
+2100,KEP. RIAU,6. Pekerja Bebas di Non Pertanian,2023,Februari ,10329
+2100,KEP. RIAU,6. Pekerja Bebas di Non Pertanian,2023,Agustus,13433
+2100,KEP. RIAU,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,68897
+2100,KEP. RIAU,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,76616
+2100,KEP. RIAU,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,50797
+2100,KEP. RIAU,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,62859
+2100,KEP. RIAU,Total,2022,Februari ,973125
+2100,KEP. RIAU,Total,2022,Agustus,1155997
+2100,KEP. RIAU,Total,2023,Februari ,1023125
+2100,KEP. RIAU,Total,2023,Agustus,1019356
+3100,DKI JAKARTA,1. Berusaha Sendiri,2022,Februari ,1080499
+3100,DKI JAKARTA,1. Berusaha Sendiri,2022,Agustus,1183102
+3100,DKI JAKARTA,1. Berusaha Sendiri,2023,Februari ,1084942
+3100,DKI JAKARTA,1. Berusaha Sendiri,2023,Agustus,1162880
+3100,DKI JAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,249183
+3100,DKI JAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,195349
+3100,DKI JAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,253316
+3100,DKI JAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,248452
+3100,DKI JAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,186225
+3100,DKI JAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,154147
+3100,DKI JAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,269379
+3100,DKI JAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,186108
+3100,DKI JAKARTA,4. Buruh / Karyawan / Pegawai,2022,Februari ,2799147
+3100,DKI JAKARTA,4. Buruh / Karyawan / Pegawai,2022,Agustus,2923158
+3100,DKI JAKARTA,4. Buruh / Karyawan / Pegawai,2023,Februari ,2898613
+3100,DKI JAKARTA,4. Buruh / Karyawan / Pegawai,2023,Agustus,3048533
+3100,DKI JAKARTA,5. Pekerja Bebas di Pertanian,2022,Februari ,3616
+3100,DKI JAKARTA,5. Pekerja Bebas di Pertanian,2022,Agustus,2488
+3100,DKI JAKARTA,5. Pekerja Bebas di Pertanian,2023,Agustus,1549
+3100,DKI JAKARTA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,126835
+3100,DKI JAKARTA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,174406
+3100,DKI JAKARTA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,90715
+3100,DKI JAKARTA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,140264
+3100,DKI JAKARTA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,278036
+3100,DKI JAKARTA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,242452
+3100,DKI JAKARTA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,260654
+3100,DKI JAKARTA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,284951
+3100,DKI JAKARTA,Total,2022,Februari ,4723541
+3100,DKI JAKARTA,Total,2022,Agustus,4875102
+3100,DKI JAKARTA,Total,2023,Februari ,4857619
+3100,DKI JAKARTA,Total,2023,Agustus,5072737
+3200,JAWA BARAT,1. Berusaha Sendiri,2022,Februari ,4783624
+3200,JAWA BARAT,1. Berusaha Sendiri,2022,Agustus,5139406
+3200,JAWA BARAT,1. Berusaha Sendiri,2023,Februari ,5015505
+3200,JAWA BARAT,1. Berusaha Sendiri,2023,Agustus,5465649
+3200,JAWA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,2744786
+3200,JAWA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,2533045
+3200,JAWA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,2957971
+3200,JAWA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,2577011
+3200,JAWA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,786547
+3200,JAWA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,800017
+3200,JAWA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,779503
+3200,JAWA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,772675
+3200,JAWA BARAT,4. Buruh / Karyawan / Pegawai,2022,Februari ,9379496
+3200,JAWA BARAT,4. Buruh / Karyawan / Pegawai,2022,Agustus,9846241
+3200,JAWA BARAT,4. Buruh / Karyawan / Pegawai,2023,Februari ,9320100
+3200,JAWA BARAT,4. Buruh / Karyawan / Pegawai,2023,Agustus,9767774
+3200,JAWA BARAT,5. Pekerja Bebas di Pertanian,2022,Februari ,1081480
+3200,JAWA BARAT,5. Pekerja Bebas di Pertanian,2022,Agustus,1159651
+3200,JAWA BARAT,5. Pekerja Bebas di Pertanian,2023,Februari ,1307127
+3200,JAWA BARAT,5. Pekerja Bebas di Pertanian,2023,Agustus,962614
+3200,JAWA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Februari ,1737069
+3200,JAWA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Agustus,1896310
+3200,JAWA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Februari ,1549570
+3200,JAWA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Agustus,1818633
+3200,JAWA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,2233224
+3200,JAWA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,2077898
+3200,JAWA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,2465048
+3200,JAWA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,2139242
+3200,JAWA BARAT,Total,2022,Februari ,22746226
+3200,JAWA BARAT,Total,2022,Agustus,23452568
+3200,JAWA BARAT,Total,2023,Februari ,23394824
+3200,JAWA BARAT,Total,2023,Agustus,23503598
+3300,JAWA TENGAH,1. Berusaha Sendiri,2022,Februari ,3728398
+3300,JAWA TENGAH,1. Berusaha Sendiri,2022,Agustus,3922691
+3300,JAWA TENGAH,1. Berusaha Sendiri,2023,Februari ,4119677
+3300,JAWA TENGAH,1. Berusaha Sendiri,2023,Agustus,4639252
+3300,JAWA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,3358901
+3300,JAWA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,2805232
+3300,JAWA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,3435689
+3300,JAWA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,2976742
+3300,JAWA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,670127
+3300,JAWA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,556838
+3300,JAWA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,615136
+3300,JAWA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,591544
+3300,JAWA TENGAH,4. Buruh / Karyawan / Pegawai,2022,Februari ,6953561
+3300,JAWA TENGAH,4. Buruh / Karyawan / Pegawai,2022,Agustus,6770006
+3300,JAWA TENGAH,4. Buruh / Karyawan / Pegawai,2023,Februari ,6912072
+3300,JAWA TENGAH,4. Buruh / Karyawan / Pegawai,2023,Agustus,7326685
+3300,JAWA TENGAH,5. Pekerja Bebas di Pertanian,2022,Februari ,826188
+3300,JAWA TENGAH,5. Pekerja Bebas di Pertanian,2022,Agustus,720375
+3300,JAWA TENGAH,5. Pekerja Bebas di Pertanian,2023,Februari ,812109
+3300,JAWA TENGAH,5. Pekerja Bebas di Pertanian,2023,Agustus,691994
+3300,JAWA TENGAH,6. Pekerja Bebas di Non Pertanian,2022,Februari ,1412656
+3300,JAWA TENGAH,6. Pekerja Bebas di Non Pertanian,2022,Agustus,1353487
+3300,JAWA TENGAH,6. Pekerja Bebas di Non Pertanian,2023,Februari ,1200651
+3300,JAWA TENGAH,6. Pekerja Bebas di Non Pertanian,2023,Agustus,1478142
+3300,JAWA TENGAH,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,2615417
+3300,JAWA TENGAH,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,2261830
+3300,JAWA TENGAH,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,2864608
+3300,JAWA TENGAH,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,2284516
+3300,JAWA TENGAH,Total,2022,Februari ,19565248
+3300,JAWA TENGAH,Total,2022,Agustus,18390459
+3300,JAWA TENGAH,Total,2023,Februari ,19959942
+3300,JAWA TENGAH,Total,2023,Agustus,19988875
+3400,DI YOGYAKARTA,1. Berusaha Sendiri,2022,Februari ,388477
+3400,DI YOGYAKARTA,1. Berusaha Sendiri,2022,Agustus,468305
+3400,DI YOGYAKARTA,1. Berusaha Sendiri,2023,Februari ,403737
+3400,DI YOGYAKARTA,1. Berusaha Sendiri,2023,Agustus,462700
+3400,DI YOGYAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,393886
+3400,DI YOGYAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,327188
+3400,DI YOGYAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,398639
+3400,DI YOGYAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,305042
+3400,DI YOGYAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,78222
+3400,DI YOGYAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,82675
+3400,DI YOGYAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,90823
+3400,DI YOGYAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,71774
+3400,DI YOGYAKARTA,4. Buruh / Karyawan / Pegawai,2022,Februari ,841553
+3400,DI YOGYAKARTA,4. Buruh / Karyawan / Pegawai,2022,Agustus,962181
+3400,DI YOGYAKARTA,4. Buruh / Karyawan / Pegawai,2023,Februari ,802480
+3400,DI YOGYAKARTA,4. Buruh / Karyawan / Pegawai,2023,Agustus,917189
+3400,DI YOGYAKARTA,5. Pekerja Bebas di Pertanian,2022,Februari ,40888
+3400,DI YOGYAKARTA,5. Pekerja Bebas di Pertanian,2022,Agustus,23106
+3400,DI YOGYAKARTA,5. Pekerja Bebas di Pertanian,2023,Februari ,17742
+3400,DI YOGYAKARTA,5. Pekerja Bebas di Pertanian,2023,Agustus,16921
+3400,DI YOGYAKARTA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,86857
+3400,DI YOGYAKARTA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,108187
+3400,DI YOGYAKARTA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,100202
+3400,DI YOGYAKARTA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,95143
+3400,DI YOGYAKARTA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,324414
+3400,DI YOGYAKARTA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,269489
+3400,DI YOGYAKARTA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,340278
+3400,DI YOGYAKARTA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,270941
+3400,DI YOGYAKARTA,Total,2022,Februari ,2154297
+3400,DI YOGYAKARTA,Total,2022,Agustus,2241131
+3400,DI YOGYAKARTA,Total,2023,Februari ,2153901
+3400,DI YOGYAKARTA,Total,2023,Agustus,2139710
+3500,JAWA TIMUR,1. Berusaha Sendiri,2022,Februari ,3883167
+3500,JAWA TIMUR,1. Berusaha Sendiri,2022,Agustus,4436795
+3500,JAWA TIMUR,1. Berusaha Sendiri,2023,Februari ,4214956
+3500,JAWA TIMUR,1. Berusaha Sendiri,2023,Agustus,4879286
+3500,JAWA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,4127844
+3500,JAWA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,3779207
+3500,JAWA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,4145520
+3500,JAWA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,3726867
+3500,JAWA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,771885
+3500,JAWA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,594208
+3500,JAWA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,891718
+3500,JAWA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,731057
+3500,JAWA TIMUR,4. Buruh / Karyawan / Pegawai,2022,Februari ,7444149
+3500,JAWA TIMUR,4. Buruh / Karyawan / Pegawai,2022,Agustus,7216142
+3500,JAWA TIMUR,4. Buruh / Karyawan / Pegawai,2023,Februari ,7052730
+3500,JAWA TIMUR,4. Buruh / Karyawan / Pegawai,2023,Agustus,7643044
+3500,JAWA TIMUR,5. Pekerja Bebas di Pertanian,2022,Februari ,1166591
+3500,JAWA TIMUR,5. Pekerja Bebas di Pertanian,2022,Agustus,1298841
+3500,JAWA TIMUR,5. Pekerja Bebas di Pertanian,2023,Februari ,1507848
+3500,JAWA TIMUR,5. Pekerja Bebas di Pertanian,2023,Agustus,1302320
+3500,JAWA TIMUR,6. Pekerja Bebas di Non Pertanian,2022,Februari ,989079
+3500,JAWA TIMUR,6. Pekerja Bebas di Non Pertanian,2022,Agustus,1179149
+3500,JAWA TIMUR,6. Pekerja Bebas di Non Pertanian,2023,Februari ,1172794
+3500,JAWA TIMUR,6. Pekerja Bebas di Non Pertanian,2023,Agustus,1220662
+3500,JAWA TIMUR,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,3548622
+3500,JAWA TIMUR,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,3108951
+3500,JAWA TIMUR,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,3419227
+3500,JAWA TIMUR,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,3199941
+3500,JAWA TIMUR,Total,2022,Februari ,21931337
+3500,JAWA TIMUR,Total,2022,Agustus,21613293
+3500,JAWA TIMUR,Total,2023,Februari ,22404793
+3500,JAWA TIMUR,Total,2023,Agustus,22703177
+3600,BANTEN,1. Berusaha Sendiri,2022,Februari ,1202791
+3600,BANTEN,1. Berusaha Sendiri,2022,Agustus,1302970
+3600,BANTEN,1. Berusaha Sendiri,2023,Februari ,1111909
+3600,BANTEN,1. Berusaha Sendiri,2023,Agustus,1236312
+3600,BANTEN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,395520
+3600,BANTEN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,455985
+3600,BANTEN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,550656
+3600,BANTEN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,424474
+3600,BANTEN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,100194
+3600,BANTEN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,130221
+3600,BANTEN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,196272
+3600,BANTEN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,148932
+3600,BANTEN,4. Buruh / Karyawan / Pegawai,2022,Februari ,2524920
+3600,BANTEN,4. Buruh / Karyawan / Pegawai,2022,Agustus,2961507
+3600,BANTEN,4. Buruh / Karyawan / Pegawai,2023,Februari ,2810795
+3600,BANTEN,4. Buruh / Karyawan / Pegawai,2023,Agustus,2812688
+3600,BANTEN,5. Pekerja Bebas di Pertanian,2022,Februari ,268598
+3600,BANTEN,5. Pekerja Bebas di Pertanian,2022,Agustus,172097
+3600,BANTEN,5. Pekerja Bebas di Pertanian,2023,Februari ,184271
+3600,BANTEN,5. Pekerja Bebas di Pertanian,2023,Agustus,132966
+3600,BANTEN,6. Pekerja Bebas di Non Pertanian,2022,Februari ,333532
+3600,BANTEN,6. Pekerja Bebas di Non Pertanian,2022,Agustus,444403
+3600,BANTEN,6. Pekerja Bebas di Non Pertanian,2023,Februari ,289632
+3600,BANTEN,6. Pekerja Bebas di Non Pertanian,2023,Agustus,339386
+3600,BANTEN,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,579746
+3600,BANTEN,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,473435
+3600,BANTEN,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,473768
+3600,BANTEN,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,421898
+3600,BANTEN,Total,2022,Februari ,5405301
+3600,BANTEN,Total,2022,Agustus,5940618
+3600,BANTEN,Total,2023,Februari ,5617303
+3600,BANTEN,Total,2023,Agustus,5516656
+5100,BALI,1. Berusaha Sendiri,2022,Februari ,394798
+5100,BALI,1. Berusaha Sendiri,2022,Agustus,449057
+5100,BALI,1. Berusaha Sendiri,2023,Februari ,407640
+5100,BALI,1. Berusaha Sendiri,2023,Agustus,478358
+5100,BALI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,550760
+5100,BALI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,413995
+5100,BALI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,487721
+5100,BALI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,380853
+5100,BALI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,47198
+5100,BALI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,75983
+5100,BALI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,80561
+5100,BALI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,82005
+5100,BALI,4. Buruh / Karyawan / Pegawai,2022,Februari ,1002471
+5100,BALI,4. Buruh / Karyawan / Pegawai,2022,Agustus,1138045
+5100,BALI,4. Buruh / Karyawan / Pegawai,2023,Februari ,1113598
+5100,BALI,4. Buruh / Karyawan / Pegawai,2023,Agustus,1165405
+5100,BALI,5. Pekerja Bebas di Pertanian,2022,Februari ,33024
+5100,BALI,5. Pekerja Bebas di Pertanian,2022,Agustus,63474
+5100,BALI,5. Pekerja Bebas di Pertanian,2023,Februari ,36654
+5100,BALI,5. Pekerja Bebas di Pertanian,2023,Agustus,64390
+5100,BALI,6. Pekerja Bebas di Non Pertanian,2022,Februari ,97345
+5100,BALI,6. Pekerja Bebas di Non Pertanian,2022,Agustus,104432
+5100,BALI,6. Pekerja Bebas di Non Pertanian,2023,Februari ,117834
+5100,BALI,6. Pekerja Bebas di Non Pertanian,2023,Agustus,97451
+5100,BALI,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,427461
+5100,BALI,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,362084
+5100,BALI,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,380798
+5100,BALI,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,349354
+5100,BALI,Total,2022,Februari ,2553057
+5100,BALI,Total,2022,Agustus,2607070
+5100,BALI,Total,2023,Februari ,2624806
+5100,BALI,Total,2023,Agustus,2617816
+5200,NUSA TENGGARA BARAT,1. Berusaha Sendiri,2022,Februari ,524492
+5200,NUSA TENGGARA BARAT,1. Berusaha Sendiri,2022,Agustus,544562
+5200,NUSA TENGGARA BARAT,1. Berusaha Sendiri,2023,Februari ,562864
+5200,NUSA TENGGARA BARAT,1. Berusaha Sendiri,2023,Agustus,616072
+5200,NUSA TENGGARA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,647206
+5200,NUSA TENGGARA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,626343
+5200,NUSA TENGGARA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,655156
+5200,NUSA TENGGARA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,611804
+5200,NUSA TENGGARA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,42178
+5200,NUSA TENGGARA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,45987
+5200,NUSA TENGGARA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,45437
+5200,NUSA TENGGARA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,68271
+5200,NUSA TENGGARA BARAT,4. Buruh / Karyawan / Pegawai,2022,Februari ,608053
+5200,NUSA TENGGARA BARAT,4. Buruh / Karyawan / Pegawai,2022,Agustus,623924
+5200,NUSA TENGGARA BARAT,4. Buruh / Karyawan / Pegawai,2023,Februari ,662391
+5200,NUSA TENGGARA BARAT,4. Buruh / Karyawan / Pegawai,2023,Agustus,733040
+5200,NUSA TENGGARA BARAT,5. Pekerja Bebas di Pertanian,2022,Februari ,118320
+5200,NUSA TENGGARA BARAT,5. Pekerja Bebas di Pertanian,2022,Agustus,178012
+5200,NUSA TENGGARA BARAT,5. Pekerja Bebas di Pertanian,2023,Februari ,94260
+5200,NUSA TENGGARA BARAT,5. Pekerja Bebas di Pertanian,2023,Agustus,177699
+5200,NUSA TENGGARA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Februari ,169989
+5200,NUSA TENGGARA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Agustus,229392
+5200,NUSA TENGGARA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Februari ,214717
+5200,NUSA TENGGARA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Agustus,232403
+5200,NUSA TENGGARA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,562067
+5200,NUSA TENGGARA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,470125
+5200,NUSA TENGGARA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,525497
+5200,NUSA TENGGARA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,453693
+5200,NUSA TENGGARA BARAT,Total,2022,Februari ,2672305
+5200,NUSA TENGGARA BARAT,Total,2022,Agustus,2718345
+5200,NUSA TENGGARA BARAT,Total,2023,Februari ,2760322
+5200,NUSA TENGGARA BARAT,Total,2023,Agustus,2892982
+5300,NUSA TENGGARA TIMUR,1. Berusaha Sendiri,2022,Februari ,511963
+5300,NUSA TENGGARA TIMUR,1. Berusaha Sendiri,2022,Agustus,700707
+5300,NUSA TENGGARA TIMUR,1. Berusaha Sendiri,2023,Februari ,519935
+5300,NUSA TENGGARA TIMUR,1. Berusaha Sendiri,2023,Agustus,708400
+5300,NUSA TENGGARA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,730752
+5300,NUSA TENGGARA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,697198
+5300,NUSA TENGGARA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,728961
+5300,NUSA TENGGARA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,652589
+5300,NUSA TENGGARA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,40716
+5300,NUSA TENGGARA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,35932
+5300,NUSA TENGGARA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,37375
+5300,NUSA TENGGARA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,40025
+5300,NUSA TENGGARA TIMUR,4. Buruh / Karyawan / Pegawai,2022,Februari ,612262
+5300,NUSA TENGGARA TIMUR,4. Buruh / Karyawan / Pegawai,2022,Agustus,685800
+5300,NUSA TENGGARA TIMUR,4. Buruh / Karyawan / Pegawai,2023,Februari ,663259
+5300,NUSA TENGGARA TIMUR,4. Buruh / Karyawan / Pegawai,2023,Agustus,698495
+5300,NUSA TENGGARA TIMUR,5. Pekerja Bebas di Pertanian,2022,Februari ,62005
+5300,NUSA TENGGARA TIMUR,5. Pekerja Bebas di Pertanian,2022,Agustus,36937
+5300,NUSA TENGGARA TIMUR,5. Pekerja Bebas di Pertanian,2023,Februari ,34942
+5300,NUSA TENGGARA TIMUR,5. Pekerja Bebas di Pertanian,2023,Agustus,32561
+5300,NUSA TENGGARA TIMUR,6. Pekerja Bebas di Non Pertanian,2022,Februari ,47363
+5300,NUSA TENGGARA TIMUR,6. Pekerja Bebas di Non Pertanian,2022,Agustus,55807
+5300,NUSA TENGGARA TIMUR,6. Pekerja Bebas di Non Pertanian,2023,Februari ,19212
+5300,NUSA TENGGARA TIMUR,6. Pekerja Bebas di Non Pertanian,2023,Agustus,51369
+5300,NUSA TENGGARA TIMUR,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,732066
+5300,NUSA TENGGARA TIMUR,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,702912
+5300,NUSA TENGGARA TIMUR,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,815769
+5300,NUSA TENGGARA TIMUR,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,713462
+5300,NUSA TENGGARA TIMUR,Total,2022,Februari ,2737127
+5300,NUSA TENGGARA TIMUR,Total,2022,Agustus,2915293
+5300,NUSA TENGGARA TIMUR,Total,2023,Februari ,2819453
+5300,NUSA TENGGARA TIMUR,Total,2023,Agustus,2896901
+6100,KALIMANTAN BARAT,1. Berusaha Sendiri,2022,Februari ,550181
+6100,KALIMANTAN BARAT,1. Berusaha Sendiri,2022,Agustus,575269
+6100,KALIMANTAN BARAT,1. Berusaha Sendiri,2023,Februari ,554641
+6100,KALIMANTAN BARAT,1. Berusaha Sendiri,2023,Agustus,623168
+6100,KALIMANTAN BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,493371
+6100,KALIMANTAN BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,406906
+6100,KALIMANTAN BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,489743
+6100,KALIMANTAN BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,402614
+6100,KALIMANTAN BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,93759
+6100,KALIMANTAN BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,77405
+6100,KALIMANTAN BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,88040
+6100,KALIMANTAN BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,88293
+6100,KALIMANTAN BARAT,4. Buruh / Karyawan / Pegawai,2022,Februari ,996362
+6100,KALIMANTAN BARAT,4. Buruh / Karyawan / Pegawai,2022,Agustus,977144
+6100,KALIMANTAN BARAT,4. Buruh / Karyawan / Pegawai,2023,Februari ,1084535
+6100,KALIMANTAN BARAT,4. Buruh / Karyawan / Pegawai,2023,Agustus,1030465
+6100,KALIMANTAN BARAT,5. Pekerja Bebas di Pertanian,2022,Februari ,83898
+6100,KALIMANTAN BARAT,5. Pekerja Bebas di Pertanian,2022,Agustus,77840
+6100,KALIMANTAN BARAT,5. Pekerja Bebas di Pertanian,2023,Februari ,39090
+6100,KALIMANTAN BARAT,5. Pekerja Bebas di Pertanian,2023,Agustus,94194
+6100,KALIMANTAN BARAT,6. Pekerja Bebas di Non Pertanian,2022,Februari ,104040
+6100,KALIMANTAN BARAT,6. Pekerja Bebas di Non Pertanian,2022,Agustus,81219
+6100,KALIMANTAN BARAT,6. Pekerja Bebas di Non Pertanian,2023,Februari ,41219
+6100,KALIMANTAN BARAT,6. Pekerja Bebas di Non Pertanian,2023,Agustus,100248
+6100,KALIMANTAN BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,404097
+6100,KALIMANTAN BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,361740
+6100,KALIMANTAN BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,433040
+6100,KALIMANTAN BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,436263
+6100,KALIMANTAN BARAT,Total,2022,Februari ,2725708
+6100,KALIMANTAN BARAT,Total,2022,Agustus,2557523
+6100,KALIMANTAN BARAT,Total,2023,Februari ,2730308
+6100,KALIMANTAN BARAT,Total,2023,Agustus,2775245
+6200,KALIMANTAN TENGAH,1. Berusaha Sendiri,2022,Februari ,338219
+6200,KALIMANTAN TENGAH,1. Berusaha Sendiri,2022,Agustus,323876
+6200,KALIMANTAN TENGAH,1. Berusaha Sendiri,2023,Februari ,343469
+6200,KALIMANTAN TENGAH,1. Berusaha Sendiri,2023,Agustus,346718
+6200,KALIMANTAN TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,177786
+6200,KALIMANTAN TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,154229
+6200,KALIMANTAN TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,136888
+6200,KALIMANTAN TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,141210
+6200,KALIMANTAN TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,33272
+6200,KALIMANTAN TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,42295
+6200,KALIMANTAN TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,40873
+6200,KALIMANTAN TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,45993
+6200,KALIMANTAN TENGAH,4. Buruh / Karyawan / Pegawai,2022,Februari ,532542
+6200,KALIMANTAN TENGAH,4. Buruh / Karyawan / Pegawai,2022,Agustus,609738
+6200,KALIMANTAN TENGAH,4. Buruh / Karyawan / Pegawai,2023,Februari ,655273
+6200,KALIMANTAN TENGAH,4. Buruh / Karyawan / Pegawai,2023,Agustus,603785
+6200,KALIMANTAN TENGAH,5. Pekerja Bebas di Pertanian,2022,Februari ,35826
+6200,KALIMANTAN TENGAH,5. Pekerja Bebas di Pertanian,2022,Agustus,33445
+6200,KALIMANTAN TENGAH,5. Pekerja Bebas di Pertanian,2023,Februari ,25702
+6200,KALIMANTAN TENGAH,5. Pekerja Bebas di Pertanian,2023,Agustus,29106
+6200,KALIMANTAN TENGAH,6. Pekerja Bebas di Non Pertanian,2022,Februari ,54383
+6200,KALIMANTAN TENGAH,6. Pekerja Bebas di Non Pertanian,2022,Agustus,34642
+6200,KALIMANTAN TENGAH,6. Pekerja Bebas di Non Pertanian,2023,Februari ,30037
+6200,KALIMANTAN TENGAH,6. Pekerja Bebas di Non Pertanian,2023,Agustus,39326
+6200,KALIMANTAN TENGAH,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,144972
+6200,KALIMANTAN TENGAH,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,146250
+6200,KALIMANTAN TENGAH,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,152230
+6200,KALIMANTAN TENGAH,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,143737
+6200,KALIMANTAN TENGAH,Total,2022,Februari ,1317000
+6200,KALIMANTAN TENGAH,Total,2022,Agustus,1344475
+6200,KALIMANTAN TENGAH,Total,2023,Februari ,1384472
+6200,KALIMANTAN TENGAH,Total,2023,Agustus,1349875
+6300,KALIMANTAN SELATAN,1. Berusaha Sendiri,2022,Februari ,485652
+6300,KALIMANTAN SELATAN,1. Berusaha Sendiri,2022,Agustus,540516
+6300,KALIMANTAN SELATAN,1. Berusaha Sendiri,2023,Februari ,501532
+6300,KALIMANTAN SELATAN,1. Berusaha Sendiri,2023,Agustus,550667
+6300,KALIMANTAN SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,315506
+6300,KALIMANTAN SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,306435
+6300,KALIMANTAN SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,295560
+6300,KALIMANTAN SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,269971
+6300,KALIMANTAN SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,62960
+6300,KALIMANTAN SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,53261
+6300,KALIMANTAN SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,52871
+6300,KALIMANTAN SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,56490
+6300,KALIMANTAN SELATAN,4. Buruh / Karyawan / Pegawai,2022,Februari ,827506
+6300,KALIMANTAN SELATAN,4. Buruh / Karyawan / Pegawai,2022,Agustus,840029
+6300,KALIMANTAN SELATAN,4. Buruh / Karyawan / Pegawai,2023,Februari ,843860
+6300,KALIMANTAN SELATAN,4. Buruh / Karyawan / Pegawai,2023,Agustus,874079
+6300,KALIMANTAN SELATAN,5. Pekerja Bebas di Pertanian,2022,Februari ,20707
+6300,KALIMANTAN SELATAN,5. Pekerja Bebas di Pertanian,2022,Agustus,26373
+6300,KALIMANTAN SELATAN,5. Pekerja Bebas di Pertanian,2023,Februari ,48339
+6300,KALIMANTAN SELATAN,5. Pekerja Bebas di Pertanian,2023,Agustus,27793
+6300,KALIMANTAN SELATAN,6. Pekerja Bebas di Non Pertanian,2022,Februari ,64004
+6300,KALIMANTAN SELATAN,6. Pekerja Bebas di Non Pertanian,2022,Agustus,54905
+6300,KALIMANTAN SELATAN,6. Pekerja Bebas di Non Pertanian,2023,Februari ,58676
+6300,KALIMANTAN SELATAN,6. Pekerja Bebas di Non Pertanian,2023,Agustus,60703
+6300,KALIMANTAN SELATAN,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,263496
+6300,KALIMANTAN SELATAN,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,270706
+6300,KALIMANTAN SELATAN,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,275150
+6300,KALIMANTAN SELATAN,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,239978
+6300,KALIMANTAN SELATAN,Total,2022,Februari ,2039831
+6300,KALIMANTAN SELATAN,Total,2022,Agustus,2092225
+6300,KALIMANTAN SELATAN,Total,2023,Februari ,2075988
+6300,KALIMANTAN SELATAN,Total,2023,Agustus,2079681
+6400,KALIMANTAN TIMUR,1. Berusaha Sendiri,2022,Februari ,342896
+6400,KALIMANTAN TIMUR,1. Berusaha Sendiri,2022,Agustus,418152
+6400,KALIMANTAN TIMUR,1. Berusaha Sendiri,2023,Februari ,413579
+6400,KALIMANTAN TIMUR,1. Berusaha Sendiri,2023,Agustus,442091
+6400,KALIMANTAN TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,189213
+6400,KALIMANTAN TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,147138
+6400,KALIMANTAN TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,176488
+6400,KALIMANTAN TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,156872
+6400,KALIMANTAN TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,100087
+6400,KALIMANTAN TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,58511
+6400,KALIMANTAN TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,62640
+6400,KALIMANTAN TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,60189
+6400,KALIMANTAN TIMUR,4. Buruh / Karyawan / Pegawai,2022,Februari ,890731
+6400,KALIMANTAN TIMUR,4. Buruh / Karyawan / Pegawai,2022,Agustus,915189
+6400,KALIMANTAN TIMUR,4. Buruh / Karyawan / Pegawai,2023,Februari ,910259
+6400,KALIMANTAN TIMUR,4. Buruh / Karyawan / Pegawai,2023,Agustus,961948
+6400,KALIMANTAN TIMUR,5. Pekerja Bebas di Pertanian,2022,Februari ,26396
+6400,KALIMANTAN TIMUR,5. Pekerja Bebas di Pertanian,2022,Agustus,20943
+6400,KALIMANTAN TIMUR,5. Pekerja Bebas di Pertanian,2023,Februari ,13025
+6400,KALIMANTAN TIMUR,5. Pekerja Bebas di Pertanian,2023,Agustus,25812
+6400,KALIMANTAN TIMUR,6. Pekerja Bebas di Non Pertanian,2022,Februari ,49786
+6400,KALIMANTAN TIMUR,6. Pekerja Bebas di Non Pertanian,2022,Agustus,47312
+6400,KALIMANTAN TIMUR,6. Pekerja Bebas di Non Pertanian,2023,Februari ,44217
+6400,KALIMANTAN TIMUR,6. Pekerja Bebas di Non Pertanian,2023,Agustus,46088
+6400,KALIMANTAN TIMUR,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,183326
+6400,KALIMANTAN TIMUR,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,139675
+6400,KALIMANTAN TIMUR,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,188764
+6400,KALIMANTAN TIMUR,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,154295
+6400,KALIMANTAN TIMUR,Total,2022,Februari ,1782435
+6400,KALIMANTAN TIMUR,Total,2022,Agustus,1746920
+6400,KALIMANTAN TIMUR,Total,2023,Februari ,1808972
+6400,KALIMANTAN TIMUR,Total,2023,Agustus,1847295
+6500,KALIMANTAN UTARA,1. Berusaha Sendiri,2022,Februari ,67262
+6500,KALIMANTAN UTARA,1. Berusaha Sendiri,2022,Agustus,76378
+6500,KALIMANTAN UTARA,1. Berusaha Sendiri,2023,Februari ,70062
+6500,KALIMANTAN UTARA,1. Berusaha Sendiri,2023,Agustus,69897
+6500,KALIMANTAN UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,38774
+6500,KALIMANTAN UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,35959
+6500,KALIMANTAN UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,48496
+6500,KALIMANTAN UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,50756
+6500,KALIMANTAN UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,12971
+6500,KALIMANTAN UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,13200
+6500,KALIMANTAN UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,13837
+6500,KALIMANTAN UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,15425
+6500,KALIMANTAN UTARA,4. Buruh / Karyawan / Pegawai,2022,Februari ,154163
+6500,KALIMANTAN UTARA,4. Buruh / Karyawan / Pegawai,2022,Agustus,167333
+6500,KALIMANTAN UTARA,4. Buruh / Karyawan / Pegawai,2023,Februari ,146185
+6500,KALIMANTAN UTARA,4. Buruh / Karyawan / Pegawai,2023,Agustus,165558
+6500,KALIMANTAN UTARA,5. Pekerja Bebas di Pertanian,2022,Februari ,5494
+6500,KALIMANTAN UTARA,5. Pekerja Bebas di Pertanian,2022,Agustus,13037
+6500,KALIMANTAN UTARA,5. Pekerja Bebas di Pertanian,2023,Februari ,17014
+6500,KALIMANTAN UTARA,5. Pekerja Bebas di Pertanian,2023,Agustus,13879
+6500,KALIMANTAN UTARA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,12397
+6500,KALIMANTAN UTARA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,6976
+6500,KALIMANTAN UTARA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,7023
+6500,KALIMANTAN UTARA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,10409
+6500,KALIMANTAN UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,42657
+6500,KALIMANTAN UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,41101
+6500,KALIMANTAN UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,55160
+6500,KALIMANTAN UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,46346
+6500,KALIMANTAN UTARA,Total,2022,Februari ,333718
+6500,KALIMANTAN UTARA,Total,2022,Agustus,353984
+6500,KALIMANTAN UTARA,Total,2023,Februari ,357777
+6500,KALIMANTAN UTARA,Total,2023,Agustus,372270
+7100,SULAWESI UTARA,1. Berusaha Sendiri,2022,Februari ,358964
+7100,SULAWESI UTARA,1. Berusaha Sendiri,2022,Agustus,360403
+7100,SULAWESI UTARA,1. Berusaha Sendiri,2023,Februari ,385847
+7100,SULAWESI UTARA,1. Berusaha Sendiri,2023,Agustus,396471
+7100,SULAWESI UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,135615
+7100,SULAWESI UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,95154
+7100,SULAWESI UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,113997
+7100,SULAWESI UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,105404
+7100,SULAWESI UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,26610
+7100,SULAWESI UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,34283
+7100,SULAWESI UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,28892
+7100,SULAWESI UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,34047
+7100,SULAWESI UTARA,4. Buruh / Karyawan / Pegawai,2022,Februari ,413993
+7100,SULAWESI UTARA,4. Buruh / Karyawan / Pegawai,2022,Agustus,439544
+7100,SULAWESI UTARA,4. Buruh / Karyawan / Pegawai,2023,Februari ,473689
+7100,SULAWESI UTARA,4. Buruh / Karyawan / Pegawai,2023,Agustus,489615
+7100,SULAWESI UTARA,5. Pekerja Bebas di Pertanian,2022,Februari ,47971
+7100,SULAWESI UTARA,5. Pekerja Bebas di Pertanian,2022,Agustus,58533
+7100,SULAWESI UTARA,5. Pekerja Bebas di Pertanian,2023,Februari ,40952
+7100,SULAWESI UTARA,5. Pekerja Bebas di Pertanian,2023,Agustus,54402
+7100,SULAWESI UTARA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,95940
+7100,SULAWESI UTARA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,78562
+7100,SULAWESI UTARA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,81833
+7100,SULAWESI UTARA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,75356
+7100,SULAWESI UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,107984
+7100,SULAWESI UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,93486
+7100,SULAWESI UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,104651
+7100,SULAWESI UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,95653
+7100,SULAWESI UTARA,Total,2022,Februari ,1187077
+7100,SULAWESI UTARA,Total,2022,Agustus,1159965
+7100,SULAWESI UTARA,Total,2023,Februari ,1229861
+7100,SULAWESI UTARA,Total,2023,Agustus,1250948
+7200,SULAWESI TENGAH,1. Berusaha Sendiri,2022,Februari ,334119
+7200,SULAWESI TENGAH,1. Berusaha Sendiri,2022,Agustus,397661
+7200,SULAWESI TENGAH,1. Berusaha Sendiri,2023,Februari ,340586
+7200,SULAWESI TENGAH,1. Berusaha Sendiri,2023,Agustus,401283
+7200,SULAWESI TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,276133
+7200,SULAWESI TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,288105
+7200,SULAWESI TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,295317
+7200,SULAWESI TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,250771
+7200,SULAWESI TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,41327
+7200,SULAWESI TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,43087
+7200,SULAWESI TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,73949
+7200,SULAWESI TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,47286
+7200,SULAWESI TENGAH,4. Buruh / Karyawan / Pegawai,2022,Februari ,469032
+7200,SULAWESI TENGAH,4. Buruh / Karyawan / Pegawai,2022,Agustus,466606
+7200,SULAWESI TENGAH,4. Buruh / Karyawan / Pegawai,2023,Februari ,437177
+7200,SULAWESI TENGAH,4. Buruh / Karyawan / Pegawai,2023,Agustus,477199
+7200,SULAWESI TENGAH,5. Pekerja Bebas di Pertanian,2022,Februari ,76183
+7200,SULAWESI TENGAH,5. Pekerja Bebas di Pertanian,2022,Agustus,67253
+7200,SULAWESI TENGAH,5. Pekerja Bebas di Pertanian,2023,Februari ,56237
+7200,SULAWESI TENGAH,5. Pekerja Bebas di Pertanian,2023,Agustus,54960
+7200,SULAWESI TENGAH,6. Pekerja Bebas di Non Pertanian,2022,Februari ,72544
+7200,SULAWESI TENGAH,6. Pekerja Bebas di Non Pertanian,2022,Agustus,59734
+7200,SULAWESI TENGAH,6. Pekerja Bebas di Non Pertanian,2023,Februari ,56324
+7200,SULAWESI TENGAH,6. Pekerja Bebas di Non Pertanian,2023,Agustus,57548
+7200,SULAWESI TENGAH,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,258087
+7200,SULAWESI TENGAH,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,263874
+7200,SULAWESI TENGAH,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,282889
+7200,SULAWESI TENGAH,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,258122
+7200,SULAWESI TENGAH,Total,2022,Februari ,1527425
+7200,SULAWESI TENGAH,Total,2022,Agustus,1586320
+7200,SULAWESI TENGAH,Total,2023,Februari ,1542479
+7200,SULAWESI TENGAH,Total,2023,Agustus,1547169
+7300,SULAWESI SELATAN,1. Berusaha Sendiri,2022,Februari ,780303
+7300,SULAWESI SELATAN,1. Berusaha Sendiri,2022,Agustus,994371
+7300,SULAWESI SELATAN,1. Berusaha Sendiri,2023,Februari ,819358
+7300,SULAWESI SELATAN,1. Berusaha Sendiri,2023,Agustus,1068775
+7300,SULAWESI SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,907017
+7300,SULAWESI SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,826966
+7300,SULAWESI SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,912550
+7300,SULAWESI SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,749430
+7300,SULAWESI SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,197819
+7300,SULAWESI SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,143320
+7300,SULAWESI SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,151901
+7300,SULAWESI SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,137536
+7300,SULAWESI SELATAN,4. Buruh / Karyawan / Pegawai,2022,Februari ,1497843
+7300,SULAWESI SELATAN,4. Buruh / Karyawan / Pegawai,2022,Agustus,1443452
+7300,SULAWESI SELATAN,4. Buruh / Karyawan / Pegawai,2023,Februari ,1516274
+7300,SULAWESI SELATAN,4. Buruh / Karyawan / Pegawai,2023,Agustus,1534390
+7300,SULAWESI SELATAN,5. Pekerja Bebas di Pertanian,2022,Februari ,103818
+7300,SULAWESI SELATAN,5. Pekerja Bebas di Pertanian,2022,Agustus,103020
+7300,SULAWESI SELATAN,5. Pekerja Bebas di Pertanian,2023,Februari ,79762
+7300,SULAWESI SELATAN,5. Pekerja Bebas di Pertanian,2023,Agustus,94237
+7300,SULAWESI SELATAN,6. Pekerja Bebas di Non Pertanian,2022,Februari ,124936
+7300,SULAWESI SELATAN,6. Pekerja Bebas di Non Pertanian,2022,Agustus,103553
+7300,SULAWESI SELATAN,6. Pekerja Bebas di Non Pertanian,2023,Februari ,102495
+7300,SULAWESI SELATAN,6. Pekerja Bebas di Non Pertanian,2023,Agustus,160815
+7300,SULAWESI SELATAN,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,716381
+7300,SULAWESI SELATAN,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,738968
+7300,SULAWESI SELATAN,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,733509
+7300,SULAWESI SELATAN,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,745800
+7300,SULAWESI SELATAN,Total,2022,Februari ,4328117
+7300,SULAWESI SELATAN,Total,2022,Agustus,4353650
+7300,SULAWESI SELATAN,Total,2023,Februari ,4315849
+7300,SULAWESI SELATAN,Total,2023,Agustus,4490983
+7400,SULAWESI TENGGARA,1. Berusaha Sendiri,2022,Februari ,235073
+7400,SULAWESI TENGGARA,1. Berusaha Sendiri,2022,Agustus,336223
+7400,SULAWESI TENGGARA,1. Berusaha Sendiri,2023,Februari ,303175
+7400,SULAWESI TENGGARA,1. Berusaha Sendiri,2023,Agustus,341905
+7400,SULAWESI TENGGARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,243269
+7400,SULAWESI TENGGARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,218186
+7400,SULAWESI TENGGARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,228818
+7400,SULAWESI TENGGARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,217087
+7400,SULAWESI TENGGARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,58202
+7400,SULAWESI TENGGARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,41512
+7400,SULAWESI TENGGARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,45420
+7400,SULAWESI TENGGARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,44332
+7400,SULAWESI TENGGARA,4. Buruh / Karyawan / Pegawai,2022,Februari ,446965
+7400,SULAWESI TENGGARA,4. Buruh / Karyawan / Pegawai,2022,Agustus,460961
+7400,SULAWESI TENGGARA,4. Buruh / Karyawan / Pegawai,2023,Februari ,430799
+7400,SULAWESI TENGGARA,4. Buruh / Karyawan / Pegawai,2023,Agustus,471475
+7400,SULAWESI TENGGARA,5. Pekerja Bebas di Pertanian,2022,Februari ,23468
+7400,SULAWESI TENGGARA,5. Pekerja Bebas di Pertanian,2022,Agustus,20070
+7400,SULAWESI TENGGARA,5. Pekerja Bebas di Pertanian,2023,Februari ,15141
+7400,SULAWESI TENGGARA,5. Pekerja Bebas di Pertanian,2023,Agustus,10188
+7400,SULAWESI TENGGARA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,41012
+7400,SULAWESI TENGGARA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,42213
+7400,SULAWESI TENGGARA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,41988
+7400,SULAWESI TENGGARA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,48250
+7400,SULAWESI TENGGARA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,183921
+7400,SULAWESI TENGGARA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,216756
+7400,SULAWESI TENGGARA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,217291
+7400,SULAWESI TENGGARA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,218403
+7400,SULAWESI TENGGARA,Total,2022,Februari ,1231910
+7400,SULAWESI TENGGARA,Total,2022,Agustus,1335921
+7400,SULAWESI TENGGARA,Total,2023,Februari ,1282632
+7400,SULAWESI TENGGARA,Total,2023,Agustus,1351640
+7500,GORONTALO,1. Berusaha Sendiri,2022,Februari ,131371
+7500,GORONTALO,1. Berusaha Sendiri,2022,Agustus,151566
+7500,GORONTALO,1. Berusaha Sendiri,2023,Februari ,151583
+7500,GORONTALO,1. Berusaha Sendiri,2023,Agustus,177780
+7500,GORONTALO,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,111718
+7500,GORONTALO,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,109126
+7500,GORONTALO,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,131547
+7500,GORONTALO,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,97073
+7500,GORONTALO,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,19825
+7500,GORONTALO,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,19020
+7500,GORONTALO,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,13251
+7500,GORONTALO,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,15116
+7500,GORONTALO,4. Buruh / Karyawan / Pegawai,2022,Februari ,202316
+7500,GORONTALO,4. Buruh / Karyawan / Pegawai,2022,Agustus,196178
+7500,GORONTALO,4. Buruh / Karyawan / Pegawai,2023,Februari ,174397
+7500,GORONTALO,4. Buruh / Karyawan / Pegawai,2023,Agustus,213938
+7500,GORONTALO,5. Pekerja Bebas di Pertanian,2022,Februari ,32627
+7500,GORONTALO,5. Pekerja Bebas di Pertanian,2022,Agustus,31464
+7500,GORONTALO,5. Pekerja Bebas di Pertanian,2023,Februari ,52178
+7500,GORONTALO,5. Pekerja Bebas di Pertanian,2023,Agustus,28846
+7500,GORONTALO,6. Pekerja Bebas di Non Pertanian,2022,Februari ,29337
+7500,GORONTALO,6. Pekerja Bebas di Non Pertanian,2022,Agustus,28726
+7500,GORONTALO,6. Pekerja Bebas di Non Pertanian,2023,Februari ,23542
+7500,GORONTALO,6. Pekerja Bebas di Non Pertanian,2023,Agustus,23561
+7500,GORONTALO,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,60953
+7500,GORONTALO,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,78170
+7500,GORONTALO,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,76431
+7500,GORONTALO,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,75207
+7500,GORONTALO,Total,2022,Februari ,588147
+7500,GORONTALO,Total,2022,Agustus,614250
+7500,GORONTALO,Total,2023,Februari ,622929
+7500,GORONTALO,Total,2023,Agustus,631521
+7600,SULAWESI BARAT,1. Berusaha Sendiri,2022,Februari ,135421
+7600,SULAWESI BARAT,1. Berusaha Sendiri,2022,Agustus,151389
+7600,SULAWESI BARAT,1. Berusaha Sendiri,2023,Februari ,173944
+7600,SULAWESI BARAT,1. Berusaha Sendiri,2023,Agustus,168252
+7600,SULAWESI BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,168279
+7600,SULAWESI BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,197500
+7600,SULAWESI BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,151578
+7600,SULAWESI BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,177779
+7600,SULAWESI BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,13181
+7600,SULAWESI BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,8328
+7600,SULAWESI BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,30588
+7600,SULAWESI BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,13346
+7600,SULAWESI BARAT,4. Buruh / Karyawan / Pegawai,2022,Februari ,163250
+7600,SULAWESI BARAT,4. Buruh / Karyawan / Pegawai,2022,Agustus,158165
+7600,SULAWESI BARAT,4. Buruh / Karyawan / Pegawai,2023,Februari ,188640
+7600,SULAWESI BARAT,4. Buruh / Karyawan / Pegawai,2023,Agustus,184685
+7600,SULAWESI BARAT,5. Pekerja Bebas di Pertanian,2022,Februari ,30634
+7600,SULAWESI BARAT,5. Pekerja Bebas di Pertanian,2022,Agustus,24150
+7600,SULAWESI BARAT,5. Pekerja Bebas di Pertanian,2023,Februari ,17578
+7600,SULAWESI BARAT,5. Pekerja Bebas di Pertanian,2023,Agustus,23691
+7600,SULAWESI BARAT,6. Pekerja Bebas di Non Pertanian,2022,Februari ,27182
+7600,SULAWESI BARAT,6. Pekerja Bebas di Non Pertanian,2022,Agustus,29020
+7600,SULAWESI BARAT,6. Pekerja Bebas di Non Pertanian,2023,Februari ,11946
+7600,SULAWESI BARAT,6. Pekerja Bebas di Non Pertanian,2023,Agustus,24839
+7600,SULAWESI BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,156668
+7600,SULAWESI BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,163350
+7600,SULAWESI BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,121873
+7600,SULAWESI BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,150415
+7600,SULAWESI BARAT,Total,2022,Februari ,694615
+7600,SULAWESI BARAT,Total,2022,Agustus,731902
+7600,SULAWESI BARAT,Total,2023,Februari ,696147
+7600,SULAWESI BARAT,Total,2023,Agustus,743007
+8100,MALUKU,1. Berusaha Sendiri,2022,Februari ,236312
+8100,MALUKU,1. Berusaha Sendiri,2022,Agustus,264482
+8100,MALUKU,1. Berusaha Sendiri,2023,Februari ,261959
+8100,MALUKU,1. Berusaha Sendiri,2023,Agustus,246493
+8100,MALUKU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,131114
+8100,MALUKU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,106529
+8100,MALUKU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,141407
+8100,MALUKU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,132336
+8100,MALUKU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,21217
+8100,MALUKU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,16494
+8100,MALUKU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,26770
+8100,MALUKU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,15286
+8100,MALUKU,4. Buruh / Karyawan / Pegawai,2022,Februari ,275835
+8100,MALUKU,4. Buruh / Karyawan / Pegawai,2022,Agustus,280340
+8100,MALUKU,4. Buruh / Karyawan / Pegawai,2023,Februari ,267653
+8100,MALUKU,4. Buruh / Karyawan / Pegawai,2023,Agustus,279756
+8100,MALUKU,5. Pekerja Bebas di Pertanian,2022,Februari ,8463
+8100,MALUKU,5. Pekerja Bebas di Pertanian,2022,Agustus,4937
+8100,MALUKU,5. Pekerja Bebas di Pertanian,2023,Februari ,5036
+8100,MALUKU,5. Pekerja Bebas di Pertanian,2023,Agustus,8272
+8100,MALUKU,6. Pekerja Bebas di Non Pertanian,2022,Februari ,26856
+8100,MALUKU,6. Pekerja Bebas di Non Pertanian,2022,Agustus,19448
+8100,MALUKU,6. Pekerja Bebas di Non Pertanian,2023,Februari ,14329
+8100,MALUKU,6. Pekerja Bebas di Non Pertanian,2023,Agustus,25199
+8100,MALUKU,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,120582
+8100,MALUKU,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,116614
+8100,MALUKU,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,129767
+8100,MALUKU,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,145912
+8100,MALUKU,Total,2022,Februari ,820379
+8100,MALUKU,Total,2022,Agustus,808844
+8100,MALUKU,Total,2023,Februari ,846921
+8100,MALUKU,Total,2023,Agustus,853254
+8200,MALUKU UTARA,1. Berusaha Sendiri,2022,Februari ,145223
+8200,MALUKU UTARA,1. Berusaha Sendiri,2022,Agustus,168100
+8200,MALUKU UTARA,1. Berusaha Sendiri,2023,Februari ,154008
+8200,MALUKU UTARA,1. Berusaha Sendiri,2023,Agustus,184364
+8200,MALUKU UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,110228
+8200,MALUKU UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,97571
+8200,MALUKU UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,114846
+8200,MALUKU UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,105263
+8200,MALUKU UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,20891
+8200,MALUKU UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,16270
+8200,MALUKU UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,10936
+8200,MALUKU UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,16137
+8200,MALUKU UTARA,4. Buruh / Karyawan / Pegawai,2022,Februari ,198374
+8200,MALUKU UTARA,4. Buruh / Karyawan / Pegawai,2022,Agustus,184757
+8200,MALUKU UTARA,4. Buruh / Karyawan / Pegawai,2023,Februari ,187468
+8200,MALUKU UTARA,4. Buruh / Karyawan / Pegawai,2023,Agustus,199173
+8200,MALUKU UTARA,5. Pekerja Bebas di Pertanian,2022,Februari ,10954
+8200,MALUKU UTARA,5. Pekerja Bebas di Pertanian,2022,Agustus,14057
+8200,MALUKU UTARA,5. Pekerja Bebas di Pertanian,2023,Februari ,14259
+8200,MALUKU UTARA,5. Pekerja Bebas di Pertanian,2023,Agustus,7590
+8200,MALUKU UTARA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,27560
+8200,MALUKU UTARA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,21808
+8200,MALUKU UTARA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,27549
+8200,MALUKU UTARA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,20237
+8200,MALUKU UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,90011
+8200,MALUKU UTARA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,82405
+8200,MALUKU UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,107165
+8200,MALUKU UTARA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,101935
+8200,MALUKU UTARA,Total,2022,Februari ,603241
+8200,MALUKU UTARA,Total,2022,Agustus,584968
+8200,MALUKU UTARA,Total,2023,Februari ,616231
+8200,MALUKU UTARA,Total,2023,Agustus,634699
+9100,PAPUA BARAT,1. Berusaha Sendiri,2022,Februari ,123789
+9100,PAPUA BARAT,1. Berusaha Sendiri,2022,Agustus,118867
+9100,PAPUA BARAT,1. Berusaha Sendiri,2023,Februari ,163940
+9100,PAPUA BARAT,1. Berusaha Sendiri,2023,Agustus,153403
+9100,PAPUA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,94846
+9100,PAPUA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,81861
+9100,PAPUA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,74963
+9100,PAPUA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,75234
+9100,PAPUA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,9595
+9100,PAPUA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,6972
+9100,PAPUA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,12249
+9100,PAPUA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,11481
+9100,PAPUA BARAT,4. Buruh / Karyawan / Pegawai,2022,Februari ,215335
+9100,PAPUA BARAT,4. Buruh / Karyawan / Pegawai,2022,Agustus,186744
+9100,PAPUA BARAT,4. Buruh / Karyawan / Pegawai,2023,Februari ,225936
+9100,PAPUA BARAT,4. Buruh / Karyawan / Pegawai,2023,Agustus,221004
+9100,PAPUA BARAT,5. Pekerja Bebas di Pertanian,2022,Februari ,1059
+9100,PAPUA BARAT,5. Pekerja Bebas di Pertanian,2022,Agustus,1506
+9100,PAPUA BARAT,5. Pekerja Bebas di Pertanian,2023,Februari ,1837
+9100,PAPUA BARAT,5. Pekerja Bebas di Pertanian,2023,Agustus,2528
+9100,PAPUA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Februari ,16413
+9100,PAPUA BARAT,6. Pekerja Bebas di Non Pertanian,2022,Agustus,7823
+9100,PAPUA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Februari ,5506
+9100,PAPUA BARAT,6. Pekerja Bebas di Non Pertanian,2023,Agustus,10631
+9100,PAPUA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,111077
+9100,PAPUA BARAT,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,83932
+9100,PAPUA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,104298
+9100,PAPUA BARAT,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,86602
+9100,PAPUA BARAT,Total,2022,Februari ,572114
+9100,PAPUA BARAT,Total,2022,Agustus,487705
+9100,PAPUA BARAT,Total,2023,Februari ,588729
+9100,PAPUA BARAT,Total,2023,Agustus,560883
+9400,PAPUA,1. Berusaha Sendiri,2022,Februari ,429849
+9400,PAPUA,1. Berusaha Sendiri,2022,Agustus,408941
+9400,PAPUA,1. Berusaha Sendiri,2023,Februari ,426515
+9400,PAPUA,1. Berusaha Sendiri,2023,Agustus,499190
+9400,PAPUA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,785424
+9400,PAPUA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,574734
+9400,PAPUA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,757069
+9400,PAPUA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,688919
+9400,PAPUA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,9181
+9400,PAPUA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,10830
+9400,PAPUA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,15839
+9400,PAPUA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,15981
+9400,PAPUA,4. Buruh / Karyawan / Pegawai,2022,Februari ,327496
+9400,PAPUA,4. Buruh / Karyawan / Pegawai,2022,Agustus,296534
+9400,PAPUA,4. Buruh / Karyawan / Pegawai,2023,Februari ,343010
+9400,PAPUA,4. Buruh / Karyawan / Pegawai,2023,Agustus,365332
+9400,PAPUA,5. Pekerja Bebas di Pertanian,2022,Februari ,1474
+9400,PAPUA,5. Pekerja Bebas di Pertanian,2022,Agustus,3088
+9400,PAPUA,5. Pekerja Bebas di Pertanian,2023,Februari ,5388
+9400,PAPUA,5. Pekerja Bebas di Pertanian,2023,Agustus,3690
+9400,PAPUA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,25935
+9400,PAPUA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,17758
+9400,PAPUA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,23920
+9400,PAPUA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,17067
+9400,PAPUA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,912436
+9400,PAPUA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,622882
+9400,PAPUA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,849383
+9400,PAPUA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,858768
+9400,PAPUA,Total,2022,Februari ,2491795
+9400,PAPUA,Total,2022,Agustus,1934767
+9400,PAPUA,Total,2023,Februari ,2421124
+9400,PAPUA,Total,2023,Agustus,2448947
+9999,INDONESIA,1. Berusaha Sendiri,2022,Februari ,26912779
+9999,INDONESIA,1. Berusaha Sendiri,2022,Agustus,29821668
+9999,INDONESIA,1. Berusaha Sendiri,2023,Februari ,28653225
+9999,INDONESIA,1. Berusaha Sendiri,2023,Agustus,32214612
+9999,INDONESIA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Februari ,22276875
+9999,INDONESIA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2022,Agustus,19787154
+9999,INDONESIA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Februari ,22358821
+9999,INDONESIA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2023,Agustus,19787289
+9999,INDONESIA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Februari ,4483950
+9999,INDONESIA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2022,Agustus,4108027
+9999,INDONESIA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Februari ,4905674
+9999,INDONESIA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2023,Agustus,4490378
+9999,INDONESIA,4. Buruh / Karyawan / Pegawai,2022,Februari ,49798221
+9999,INDONESIA,4. Buruh / Karyawan / Pegawai,2022,Agustus,50948555
+9999,INDONESIA,4. Buruh / Karyawan / Pegawai,2023,Februari ,50383238
+9999,INDONESIA,4. Buruh / Karyawan / Pegawai,2023,Agustus,52695137
+9999,INDONESIA,5. Pekerja Bebas di Pertanian,2022,Februari ,5505304
+9999,INDONESIA,5. Pekerja Bebas di Pertanian,2022,Agustus,5587771
+9999,INDONESIA,5. Pekerja Bebas di Pertanian,2023,Februari ,5729062
+9999,INDONESIA,5. Pekerja Bebas di Pertanian,2023,Agustus,5209641
+9999,INDONESIA,6. Pekerja Bebas di Non Pertanian,2022,Februari ,6921999
+9999,INDONESIA,6. Pekerja Bebas di Non Pertanian,2022,Agustus,7344174
+9999,INDONESIA,6. Pekerja Bebas di Non Pertanian,2023,Februari ,6591950
+9999,INDONESIA,6. Pekerja Bebas di Non Pertanian,2023,Agustus,7366953
+9999,INDONESIA,7. Pekerja Keluarga Tak Dibayar,2022,Februari ,19712767
+9999,INDONESIA,7. Pekerja Keluarga Tak Dibayar,2022,Agustus,17699364
+9999,INDONESIA,7. Pekerja Keluarga Tak Dibayar,2023,Februari ,20010541
+9999,INDONESIA,7. Pekerja Keluarga Tak Dibayar,2023,Agustus,18088367
+9999,INDONESIA,Total,2022,Februari ,135611895
+9999,INDONESIA,Total,2022,Agustus,135296713
+9999,INDONESIA,Total,2023,Februari ,138632511
+9999,INDONESIA,Total,2023,Agustus,139852377
+1100,ACEH,1. Berusaha Sendiri,2024,Februari ,585959
+1100,ACEH,1. Berusaha Sendiri,2024,Agustus,645318
+1100,ACEH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,384228
+1100,ACEH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,325122
+1100,ACEH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,122956
+1100,ACEH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,104835
+1100,ACEH,4. Buruh / Karyawan / Pegawai,2024,Februari ,780835
+1100,ACEH,4. Buruh / Karyawan / Pegawai,2024,Agustus,894197
+1100,ACEH,5. Pekerja Bebas di Pertanian,2024,Februari ,113048
+1100,ACEH,5. Pekerja Bebas di Pertanian,2024,Agustus,132869
+1100,ACEH,6. Pekerja Bebas di Non Pertanian,2024,Februari ,98277
+1100,ACEH,6. Pekerja Bebas di Non Pertanian,2024,Agustus,126749
+1100,ACEH,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,370084
+1100,ACEH,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,279264
+1100,ACEH,Total,2024,Februari ,2455387
+1100,ACEH,Total,2024,Agustus,2508354
+1200,SUMATERA UTARA,1. Berusaha Sendiri,2024,Februari ,1411012
+1200,SUMATERA UTARA,1. Berusaha Sendiri,2024,Agustus,1677410
+1200,SUMATERA UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,1222479
+1200,SUMATERA UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,1017863
+1200,SUMATERA UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,315226
+1200,SUMATERA UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,294145
+1200,SUMATERA UTARA,4. Buruh / Karyawan / Pegawai,2024,Februari ,2905348
+1200,SUMATERA UTARA,4. Buruh / Karyawan / Pegawai,2024,Agustus,2999749
+1200,SUMATERA UTARA,5. Pekerja Bebas di Pertanian,2024,Februari ,190781
+1200,SUMATERA UTARA,5. Pekerja Bebas di Pertanian,2024,Agustus,279693
+1200,SUMATERA UTARA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,351752
+1200,SUMATERA UTARA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,282698
+1200,SUMATERA UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,1195680
+1200,SUMATERA UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,1171806
+1200,SUMATERA UTARA,Total,2024,Februari ,7592278
+1200,SUMATERA UTARA,Total,2024,Agustus,7723364
+1300,SUMATERA BARAT,1. Berusaha Sendiri,2024,Februari ,622355
+1300,SUMATERA BARAT,1. Berusaha Sendiri,2024,Agustus,668142
+1300,SUMATERA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,503694
+1300,SUMATERA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,477518
+1300,SUMATERA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,136753
+1300,SUMATERA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,117094
+1300,SUMATERA BARAT,4. Buruh / Karyawan / Pegawai,2024,Februari ,916930
+1300,SUMATERA BARAT,4. Buruh / Karyawan / Pegawai,2024,Agustus,978207
+1300,SUMATERA BARAT,5. Pekerja Bebas di Pertanian,2024,Februari ,140172
+1300,SUMATERA BARAT,5. Pekerja Bebas di Pertanian,2024,Agustus,182849
+1300,SUMATERA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Februari ,146353
+1300,SUMATERA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Agustus,126790
+1300,SUMATERA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,441195
+1300,SUMATERA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,374153
+1300,SUMATERA BARAT,Total,2024,Februari ,2907452
+1300,SUMATERA BARAT,Total,2024,Agustus,2924753
+1400,RIAU,1. Berusaha Sendiri,2024,Februari ,640475
+1400,RIAU,1. Berusaha Sendiri,2024,Agustus,681879
+1400,RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,312262
+1400,RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,309452
+1400,RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,169148
+1400,RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,229903
+1400,RIAU,4. Buruh / Karyawan / Pegawai,2024,Februari ,1284941
+1400,RIAU,4. Buruh / Karyawan / Pegawai,2024,Agustus,1347698
+1400,RIAU,5. Pekerja Bebas di Pertanian,2024,Februari ,219923
+1400,RIAU,5. Pekerja Bebas di Pertanian,2024,Agustus,167981
+1400,RIAU,6. Pekerja Bebas di Non Pertanian,2024,Februari ,99369
+1400,RIAU,6. Pekerja Bebas di Non Pertanian,2024,Agustus,77279
+1400,RIAU,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,372639
+1400,RIAU,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,345175
+1400,RIAU,Total,2024,Februari ,3098757
+1400,RIAU,Total,2024,Agustus,3159367
+1500,JAMBI,1. Berusaha Sendiri,2024,Februari ,362396
+1500,JAMBI,1. Berusaha Sendiri,2024,Agustus,436009
+1500,JAMBI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,251856
+1500,JAMBI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,241752
+1500,JAMBI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,109104
+1500,JAMBI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,101117
+1500,JAMBI,4. Buruh / Karyawan / Pegawai,2024,Februari ,586153
+1500,JAMBI,4. Buruh / Karyawan / Pegawai,2024,Agustus,662381
+1500,JAMBI,5. Pekerja Bebas di Pertanian,2024,Februari ,101127
+1500,JAMBI,5. Pekerja Bebas di Pertanian,2024,Agustus,99906
+1500,JAMBI,6. Pekerja Bebas di Non Pertanian,2024,Februari ,71346
+1500,JAMBI,6. Pekerja Bebas di Non Pertanian,2024,Agustus,49621
+1500,JAMBI,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,291554
+1500,JAMBI,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,242481
+1500,JAMBI,Total,2024,Februari ,1773536
+1500,JAMBI,Total,2024,Agustus,1833267
+1600,SUMATERA SELATAN,1. Berusaha Sendiri,2024,Februari ,1074402
+1600,SUMATERA SELATAN,1. Berusaha Sendiri,2024,Agustus,988205
+1600,SUMATERA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,731134
+1600,SUMATERA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,764746
+1600,SUMATERA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,140861
+1600,SUMATERA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,116932
+1600,SUMATERA SELATAN,4. Buruh / Karyawan / Pegawai,2024,Februari ,1460013
+1600,SUMATERA SELATAN,4. Buruh / Karyawan / Pegawai,2024,Agustus,1570479
+1600,SUMATERA SELATAN,5. Pekerja Bebas di Pertanian,2024,Februari ,78457
+1600,SUMATERA SELATAN,5. Pekerja Bebas di Pertanian,2024,Agustus,125536
+1600,SUMATERA SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Februari ,85902
+1600,SUMATERA SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Agustus,98844
+1600,SUMATERA SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,804678
+1600,SUMATERA SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,815358
+1600,SUMATERA SELATAN,Total,2024,Februari ,4375447
+1600,SUMATERA SELATAN,Total,2024,Agustus,4480100
+1700,BENGKULU,1. Berusaha Sendiri,2024,Februari ,236853
+1700,BENGKULU,1. Berusaha Sendiri,2024,Agustus,228256
+1700,BENGKULU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,172012
+1700,BENGKULU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,201111
+1700,BENGKULU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,42141
+1700,BENGKULU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,43530
+1700,BENGKULU,4. Buruh / Karyawan / Pegawai,2024,Februari ,341422
+1700,BENGKULU,4. Buruh / Karyawan / Pegawai,2024,Agustus,330763
+1700,BENGKULU,5. Pekerja Bebas di Pertanian,2024,Februari ,73151
+1700,BENGKULU,5. Pekerja Bebas di Pertanian,2024,Agustus,63063
+1700,BENGKULU,6. Pekerja Bebas di Non Pertanian,2024,Februari ,39498
+1700,BENGKULU,6. Pekerja Bebas di Non Pertanian,2024,Agustus,43635
+1700,BENGKULU,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,175667
+1700,BENGKULU,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,190876
+1700,BENGKULU,Total,2024,Februari ,1080744
+1700,BENGKULU,Total,2024,Agustus,1101234
+1800,LAMPUNG,1. Berusaha Sendiri,2024,Februari ,927787
+1800,LAMPUNG,1. Berusaha Sendiri,2024,Agustus,1012029
+1800,LAMPUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,965330
+1800,LAMPUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,890711
+1800,LAMPUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,117186
+1800,LAMPUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,143048
+1800,LAMPUNG,4. Buruh / Karyawan / Pegawai,2024,Februari ,1212725
+1800,LAMPUNG,4. Buruh / Karyawan / Pegawai,2024,Agustus,1334427
+1800,LAMPUNG,5. Pekerja Bebas di Pertanian,2024,Februari ,308109
+1800,LAMPUNG,5. Pekerja Bebas di Pertanian,2024,Agustus,287725
+1800,LAMPUNG,6. Pekerja Bebas di Non Pertanian,2024,Februari ,270129
+1800,LAMPUNG,6. Pekerja Bebas di Non Pertanian,2024,Agustus,279306
+1800,LAMPUNG,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,1035068
+1800,LAMPUNG,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,840343
+1800,LAMPUNG,Total,2024,Februari ,4836334
+1800,LAMPUNG,Total,2024,Agustus,4787589
+1900,KEP. BANGKA BELITUNG,1. Berusaha Sendiri,2024,Februari ,220280
+1900,KEP. BANGKA BELITUNG,1. Berusaha Sendiri,2024,Agustus,210040
+1900,KEP. BANGKA BELITUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,60411
+1900,KEP. BANGKA BELITUNG,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,68907
+1900,KEP. BANGKA BELITUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,45627
+1900,KEP. BANGKA BELITUNG,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,34923
+1900,KEP. BANGKA BELITUNG,4. Buruh / Karyawan / Pegawai,2024,Februari ,332522
+1900,KEP. BANGKA BELITUNG,4. Buruh / Karyawan / Pegawai,2024,Agustus,339402
+1900,KEP. BANGKA BELITUNG,5. Pekerja Bebas di Pertanian,2024,Februari ,25671
+1900,KEP. BANGKA BELITUNG,5. Pekerja Bebas di Pertanian,2024,Agustus,20826
+1900,KEP. BANGKA BELITUNG,6. Pekerja Bebas di Non Pertanian,2024,Februari ,16419
+1900,KEP. BANGKA BELITUNG,6. Pekerja Bebas di Non Pertanian,2024,Agustus,16040
+1900,KEP. BANGKA BELITUNG,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,86210
+1900,KEP. BANGKA BELITUNG,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,75946
+1900,KEP. BANGKA BELITUNG,Total,2024,Februari ,787140
+1900,KEP. BANGKA BELITUNG,Total,2024,Agustus,766084
+2100,KEP. RIAU,1. Berusaha Sendiri,2024,Februari ,169171
+2100,KEP. RIAU,1. Berusaha Sendiri,2024,Agustus,182722
+2100,KEP. RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,70711
+2100,KEP. RIAU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,63631
+2100,KEP. RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,34279
+2100,KEP. RIAU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,44987
+2100,KEP. RIAU,4. Buruh / Karyawan / Pegawai,2024,Februari ,635992
+2100,KEP. RIAU,4. Buruh / Karyawan / Pegawai,2024,Agustus,673118
+2100,KEP. RIAU,5. Pekerja Bebas di Pertanian,2024,Februari ,8262
+2100,KEP. RIAU,5. Pekerja Bebas di Pertanian,2024,Agustus,3920
+2100,KEP. RIAU,6. Pekerja Bebas di Non Pertanian,2024,Februari ,27991
+2100,KEP. RIAU,6. Pekerja Bebas di Non Pertanian,2024,Agustus,20180
+2100,KEP. RIAU,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,56987
+2100,KEP. RIAU,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,60529
+2100,KEP. RIAU,Total,2024,Februari ,1003393
+2100,KEP. RIAU,Total,2024,Agustus,1049087
+3100,DKI JAKARTA,1. Berusaha Sendiri,2024,Februari ,1115359
+3100,DKI JAKARTA,1. Berusaha Sendiri,2024,Agustus,1173975
+3100,DKI JAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,343319
+3100,DKI JAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,267776
+3100,DKI JAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,306944
+3100,DKI JAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,193649
+3100,DKI JAKARTA,4. Buruh / Karyawan / Pegawai,2024,Februari ,2958229
+3100,DKI JAKARTA,4. Buruh / Karyawan / Pegawai,2024,Agustus,3059737
+3100,DKI JAKARTA,5. Pekerja Bebas di Pertanian,2024,Februari ,0
+3100,DKI JAKARTA,5. Pekerja Bebas di Pertanian,2024,Agustus,1490
+3100,DKI JAKARTA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,121921
+3100,DKI JAKARTA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,127234
+3100,DKI JAKARTA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,261010
+3100,DKI JAKARTA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,283914
+3100,DKI JAKARTA,Total,2024,Februari ,5106782
+3100,DKI JAKARTA,Total,2024,Agustus,5107775
+3200,JAWA BARAT,1. Berusaha Sendiri,2024,Februari ,5048784
+3200,JAWA BARAT,1. Berusaha Sendiri,2024,Agustus,5277180
+3200,JAWA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,2800298
+3200,JAWA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,2755777
+3200,JAWA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,841384
+3200,JAWA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,797608
+3200,JAWA BARAT,4. Buruh / Karyawan / Pegawai,2024,Februari ,10093609
+3200,JAWA BARAT,4. Buruh / Karyawan / Pegawai,2024,Agustus,10338608
+3200,JAWA BARAT,5. Pekerja Bebas di Pertanian,2024,Februari ,1058283
+3200,JAWA BARAT,5. Pekerja Bebas di Pertanian,2024,Agustus,1053386
+3200,JAWA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Februari ,1821463
+3200,JAWA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Agustus,1976885
+3200,JAWA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,2422764
+3200,JAWA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,2217666
+3200,JAWA BARAT,Total,2024,Februari ,24086585
+3200,JAWA BARAT,Total,2024,Agustus,24417110
+3300,JAWA TENGAH,1. Berusaha Sendiri,2024,Februari ,4204297
+3300,JAWA TENGAH,1. Berusaha Sendiri,2024,Agustus,4539388
+3300,JAWA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,3498001
+3300,JAWA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,3028490
+3300,JAWA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,616964
+3300,JAWA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,616770
+3300,JAWA TENGAH,4. Buruh / Karyawan / Pegawai,2024,Februari ,7399199
+3300,JAWA TENGAH,4. Buruh / Karyawan / Pegawai,2024,Agustus,7802374
+3300,JAWA TENGAH,5. Pekerja Bebas di Pertanian,2024,Februari ,929344
+3300,JAWA TENGAH,5. Pekerja Bebas di Pertanian,2024,Agustus,831150
+3300,JAWA TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Februari ,1260580
+3300,JAWA TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Agustus,1370561
+3300,JAWA TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,2500839
+3300,JAWA TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,2672660
+3300,JAWA TENGAH,Total,2024,Februari ,20409224
+3300,JAWA TENGAH,Total,2024,Agustus,20861393
+3400,DI YOGYAKARTA,1. Berusaha Sendiri,2024,Februari ,413157
+3400,DI YOGYAKARTA,1. Berusaha Sendiri,2024,Agustus,454282
+3400,DI YOGYAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,429475
+3400,DI YOGYAKARTA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,305757
+3400,DI YOGYAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,89101
+3400,DI YOGYAKARTA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,76095
+3400,DI YOGYAKARTA,4. Buruh / Karyawan / Pegawai,2024,Februari ,842616
+3400,DI YOGYAKARTA,4. Buruh / Karyawan / Pegawai,2024,Agustus,947238
+3400,DI YOGYAKARTA,5. Pekerja Bebas di Pertanian,2024,Februari ,25658
+3400,DI YOGYAKARTA,5. Pekerja Bebas di Pertanian,2024,Agustus,25574
+3400,DI YOGYAKARTA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,75630
+3400,DI YOGYAKARTA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,79342
+3400,DI YOGYAKARTA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,257972
+3400,DI YOGYAKARTA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,294481
+3400,DI YOGYAKARTA,Total,2024,Februari ,2133609
+3400,DI YOGYAKARTA,Total,2024,Agustus,2182769
+3500,JAWA TIMUR,1. Berusaha Sendiri,2024,Februari ,4303765
+3500,JAWA TIMUR,1. Berusaha Sendiri,2024,Agustus,4743683
+3500,JAWA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,4538909
+3500,JAWA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,3672278
+3500,JAWA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,835631
+3500,JAWA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,729532
+3500,JAWA TIMUR,4. Buruh / Karyawan / Pegawai,2024,Februari ,7733834
+3500,JAWA TIMUR,4. Buruh / Karyawan / Pegawai,2024,Agustus,8266448
+3500,JAWA TIMUR,5. Pekerja Bebas di Pertanian,2024,Februari ,1299487
+3500,JAWA TIMUR,5. Pekerja Bebas di Pertanian,2024,Agustus,1479558
+3500,JAWA TIMUR,6. Pekerja Bebas di Non Pertanian,2024,Februari ,1121328
+3500,JAWA TIMUR,6. Pekerja Bebas di Non Pertanian,2024,Agustus,1114909
+3500,JAWA TIMUR,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,3403124
+3500,JAWA TIMUR,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,3354702
+3500,JAWA TIMUR,Total,2024,Februari ,23236078
+3500,JAWA TIMUR,Total,2024,Agustus,23361110
+3600,BANTEN,1. Berusaha Sendiri,2024,Februari ,1037717
+3600,BANTEN,1. Berusaha Sendiri,2024,Agustus,1171097
+3600,BANTEN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,512820
+3600,BANTEN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,485630
+3600,BANTEN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,203591
+3600,BANTEN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,126827
+3600,BANTEN,4. Buruh / Karyawan / Pegawai,2024,Februari ,2624042
+3600,BANTEN,4. Buruh / Karyawan / Pegawai,2024,Agustus,2991606
+3600,BANTEN,5. Pekerja Bebas di Pertanian,2024,Februari ,195053
+3600,BANTEN,5. Pekerja Bebas di Pertanian,2024,Agustus,199527
+3600,BANTEN,6. Pekerja Bebas di Non Pertanian,2024,Februari ,433653
+3600,BANTEN,6. Pekerja Bebas di Non Pertanian,2024,Agustus,336957
+3600,BANTEN,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,618459
+3600,BANTEN,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,486279
+3600,BANTEN,Total,2024,Februari ,5625335
+3600,BANTEN,Total,2024,Agustus,5797923
+5100,BALI,1. Berusaha Sendiri,2024,Februari ,436131
+5100,BALI,1. Berusaha Sendiri,2024,Agustus,490709
+5100,BALI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,389254
+5100,BALI,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,351518
+5100,BALI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,85799
+5100,BALI,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,85738
+5100,BALI,4. Buruh / Karyawan / Pegawai,2024,Februari ,1236676
+5100,BALI,4. Buruh / Karyawan / Pegawai,2024,Agustus,1228943
+5100,BALI,5. Pekerja Bebas di Pertanian,2024,Februari ,43987
+5100,BALI,5. Pekerja Bebas di Pertanian,2024,Agustus,64135
+5100,BALI,6. Pekerja Bebas di Non Pertanian,2024,Februari ,133636
+5100,BALI,6. Pekerja Bebas di Non Pertanian,2024,Agustus,99860
+5100,BALI,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,337319
+5100,BALI,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,344518
+5100,BALI,Total,2024,Februari ,2662802
+5100,BALI,Total,2024,Agustus,2665421
+5200,NUSA TENGGARA BARAT,1. Berusaha Sendiri,2024,Februari ,569628
+5200,NUSA TENGGARA BARAT,1. Berusaha Sendiri,2024,Agustus,605418
+5200,NUSA TENGGARA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,671970
+5200,NUSA TENGGARA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,614293
+5200,NUSA TENGGARA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,46156
+5200,NUSA TENGGARA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,72486
+5200,NUSA TENGGARA BARAT,4. Buruh / Karyawan / Pegawai,2024,Februari ,736425
+5200,NUSA TENGGARA BARAT,4. Buruh / Karyawan / Pegawai,2024,Agustus,843365
+5200,NUSA TENGGARA BARAT,5. Pekerja Bebas di Pertanian,2024,Februari ,152898
+5200,NUSA TENGGARA BARAT,5. Pekerja Bebas di Pertanian,2024,Agustus,219744
+5200,NUSA TENGGARA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Februari ,202559
+5200,NUSA TENGGARA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Agustus,204052
+5200,NUSA TENGGARA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,550677
+5200,NUSA TENGGARA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,546191
+5200,NUSA TENGGARA BARAT,Total,2024,Februari ,2930313
+5200,NUSA TENGGARA BARAT,Total,2024,Agustus,3105549
+5300,NUSA TENGGARA TIMUR,1. Berusaha Sendiri,2024,Februari ,536583
+5300,NUSA TENGGARA TIMUR,1. Berusaha Sendiri,2024,Agustus,697371
+5300,NUSA TENGGARA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,716663
+5300,NUSA TENGGARA TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,635283
+5300,NUSA TENGGARA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,44780
+5300,NUSA TENGGARA TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,48502
+5300,NUSA TENGGARA TIMUR,4. Buruh / Karyawan / Pegawai,2024,Februari ,720688
+5300,NUSA TENGGARA TIMUR,4. Buruh / Karyawan / Pegawai,2024,Agustus,758562
+5300,NUSA TENGGARA TIMUR,5. Pekerja Bebas di Pertanian,2024,Februari ,44765
+5300,NUSA TENGGARA TIMUR,5. Pekerja Bebas di Pertanian,2024,Agustus,49055
+5300,NUSA TENGGARA TIMUR,6. Pekerja Bebas di Non Pertanian,2024,Februari ,24377
+5300,NUSA TENGGARA TIMUR,6. Pekerja Bebas di Non Pertanian,2024,Agustus,48488
+5300,NUSA TENGGARA TIMUR,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,875922
+5300,NUSA TENGGARA TIMUR,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,787201
+5300,NUSA TENGGARA TIMUR,Total,2024,Februari ,2963778
+5300,NUSA TENGGARA TIMUR,Total,2024,Agustus,3024462
+6100,KALIMANTAN BARAT,1. Berusaha Sendiri,2024,Februari ,564347
+6100,KALIMANTAN BARAT,1. Berusaha Sendiri,2024,Agustus,641195
+6100,KALIMANTAN BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,456042
+6100,KALIMANTAN BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,378251
+6100,KALIMANTAN BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,101974
+6100,KALIMANTAN BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,97259
+6100,KALIMANTAN BARAT,4. Buruh / Karyawan / Pegawai,2024,Februari ,1034158
+6100,KALIMANTAN BARAT,4. Buruh / Karyawan / Pegawai,2024,Agustus,1162010
+6100,KALIMANTAN BARAT,5. Pekerja Bebas di Pertanian,2024,Februari ,81941
+6100,KALIMANTAN BARAT,5. Pekerja Bebas di Pertanian,2024,Agustus,99182
+6100,KALIMANTAN BARAT,6. Pekerja Bebas di Non Pertanian,2024,Februari ,96621
+6100,KALIMANTAN BARAT,6. Pekerja Bebas di Non Pertanian,2024,Agustus,98296
+6100,KALIMANTAN BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,421835
+6100,KALIMANTAN BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,387328
+6100,KALIMANTAN BARAT,Total,2024,Februari ,2756918
+6100,KALIMANTAN BARAT,Total,2024,Agustus,2863521
+6200,KALIMANTAN TENGAH,1. Berusaha Sendiri,2024,Februari ,320986
+6200,KALIMANTAN TENGAH,1. Berusaha Sendiri,2024,Agustus,338458
+6200,KALIMANTAN TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,147379
+6200,KALIMANTAN TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,143527
+6200,KALIMANTAN TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,46794
+6200,KALIMANTAN TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,55064
+6200,KALIMANTAN TENGAH,4. Buruh / Karyawan / Pegawai,2024,Februari ,631798
+6200,KALIMANTAN TENGAH,4. Buruh / Karyawan / Pegawai,2024,Agustus,655428
+6200,KALIMANTAN TENGAH,5. Pekerja Bebas di Pertanian,2024,Februari ,30707
+6200,KALIMANTAN TENGAH,5. Pekerja Bebas di Pertanian,2024,Agustus,36018
+6200,KALIMANTAN TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Februari ,33133
+6200,KALIMANTAN TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Agustus,42695
+6200,KALIMANTAN TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,169035
+6200,KALIMANTAN TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,131085
+6200,KALIMANTAN TENGAH,Total,2024,Februari ,1379832
+6200,KALIMANTAN TENGAH,Total,2024,Agustus,1402275
+6300,KALIMANTAN SELATAN,1. Berusaha Sendiri,2024,Februari ,510360
+6300,KALIMANTAN SELATAN,1. Berusaha Sendiri,2024,Agustus,507614
+6300,KALIMANTAN SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,257843
+6300,KALIMANTAN SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,277007
+6300,KALIMANTAN SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,68562
+6300,KALIMANTAN SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,65674
+6300,KALIMANTAN SELATAN,4. Buruh / Karyawan / Pegawai,2024,Februari ,881866
+6300,KALIMANTAN SELATAN,4. Buruh / Karyawan / Pegawai,2024,Agustus,923205
+6300,KALIMANTAN SELATAN,5. Pekerja Bebas di Pertanian,2024,Februari ,26366
+6300,KALIMANTAN SELATAN,5. Pekerja Bebas di Pertanian,2024,Agustus,30931
+6300,KALIMANTAN SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Februari ,52838
+6300,KALIMANTAN SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Agustus,42920
+6300,KALIMANTAN SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,300553
+6300,KALIMANTAN SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,281925
+6300,KALIMANTAN SELATAN,Total,2024,Februari ,2098388
+6300,KALIMANTAN SELATAN,Total,2024,Agustus,2129276
+6400,KALIMANTAN TIMUR,1. Berusaha Sendiri,2024,Februari ,421138
+6400,KALIMANTAN TIMUR,1. Berusaha Sendiri,2024,Agustus,445260
+6400,KALIMANTAN TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,188586
+6400,KALIMANTAN TIMUR,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,150826
+6400,KALIMANTAN TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,72305
+6400,KALIMANTAN TIMUR,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,75429
+6400,KALIMANTAN TIMUR,4. Buruh / Karyawan / Pegawai,2024,Februari ,934044
+6400,KALIMANTAN TIMUR,4. Buruh / Karyawan / Pegawai,2024,Agustus,1064558
+6400,KALIMANTAN TIMUR,5. Pekerja Bebas di Pertanian,2024,Februari ,28948
+6400,KALIMANTAN TIMUR,5. Pekerja Bebas di Pertanian,2024,Agustus,19169
+6400,KALIMANTAN TIMUR,6. Pekerja Bebas di Non Pertanian,2024,Februari ,49935
+6400,KALIMANTAN TIMUR,6. Pekerja Bebas di Non Pertanian,2024,Agustus,41756
+6400,KALIMANTAN TIMUR,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,199038
+6400,KALIMANTAN TIMUR,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,179449
+6400,KALIMANTAN TIMUR,Total,2024,Februari ,1893994
+6400,KALIMANTAN TIMUR,Total,2024,Agustus,1976447
+6500,KALIMANTAN UTARA,1. Berusaha Sendiri,2024,Februari ,74328
+6500,KALIMANTAN UTARA,1. Berusaha Sendiri,2024,Agustus,78697
+6500,KALIMANTAN UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,36153
+6500,KALIMANTAN UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,48181
+6500,KALIMANTAN UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,14444
+6500,KALIMANTAN UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,12545
+6500,KALIMANTAN UTARA,4. Buruh / Karyawan / Pegawai,2024,Februari ,161847
+6500,KALIMANTAN UTARA,4. Buruh / Karyawan / Pegawai,2024,Agustus,175095
+6500,KALIMANTAN UTARA,5. Pekerja Bebas di Pertanian,2024,Februari ,6933
+6500,KALIMANTAN UTARA,5. Pekerja Bebas di Pertanian,2024,Agustus,7613
+6500,KALIMANTAN UTARA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,5156
+6500,KALIMANTAN UTARA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,8138
+6500,KALIMANTAN UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,45203
+6500,KALIMANTAN UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,48092
+6500,KALIMANTAN UTARA,Total,2024,Februari ,344064
+6500,KALIMANTAN UTARA,Total,2024,Agustus,378361
+7100,SULAWESI UTARA,1. Berusaha Sendiri,2024,Februari ,393313
+7100,SULAWESI UTARA,1. Berusaha Sendiri,2024,Agustus,357806
+7100,SULAWESI UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,104983
+7100,SULAWESI UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,112514
+7100,SULAWESI UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,26440
+7100,SULAWESI UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,41470
+7100,SULAWESI UTARA,4. Buruh / Karyawan / Pegawai,2024,Februari ,504748
+7100,SULAWESI UTARA,4. Buruh / Karyawan / Pegawai,2024,Agustus,540000
+7100,SULAWESI UTARA,5. Pekerja Bebas di Pertanian,2024,Februari ,57011
+7100,SULAWESI UTARA,5. Pekerja Bebas di Pertanian,2024,Agustus,77176
+7100,SULAWESI UTARA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,58457
+7100,SULAWESI UTARA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,62463
+7100,SULAWESI UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,112236
+7100,SULAWESI UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,114405
+7100,SULAWESI UTARA,Total,2024,Februari ,1257188
+7100,SULAWESI UTARA,Total,2024,Agustus,1305834
+7200,SULAWESI TENGAH,1. Berusaha Sendiri,2024,Februari ,360268
+7200,SULAWESI TENGAH,1. Berusaha Sendiri,2024,Agustus,386658
+7200,SULAWESI TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,298085
+7200,SULAWESI TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,257031
+7200,SULAWESI TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,50970
+7200,SULAWESI TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,52507
+7200,SULAWESI TENGAH,4. Buruh / Karyawan / Pegawai,2024,Februari ,472271
+7200,SULAWESI TENGAH,4. Buruh / Karyawan / Pegawai,2024,Agustus,500097
+7200,SULAWESI TENGAH,5. Pekerja Bebas di Pertanian,2024,Februari ,54964
+7200,SULAWESI TENGAH,5. Pekerja Bebas di Pertanian,2024,Agustus,79308
+7200,SULAWESI TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Februari ,54672
+7200,SULAWESI TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Agustus,53989
+7200,SULAWESI TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,234428
+7200,SULAWESI TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,269066
+7200,SULAWESI TENGAH,Total,2024,Februari ,1525658
+7200,SULAWESI TENGAH,Total,2024,Agustus,1598656
+7300,SULAWESI SELATAN,1. Berusaha Sendiri,2024,Februari ,844931
+7300,SULAWESI SELATAN,1. Berusaha Sendiri,2024,Agustus,1021034
+7300,SULAWESI SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,829875
+7300,SULAWESI SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,751391
+7300,SULAWESI SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,162347
+7300,SULAWESI SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,170852
+7300,SULAWESI SELATAN,4. Buruh / Karyawan / Pegawai,2024,Februari ,1670747
+7300,SULAWESI SELATAN,4. Buruh / Karyawan / Pegawai,2024,Agustus,1678177
+7300,SULAWESI SELATAN,5. Pekerja Bebas di Pertanian,2024,Februari ,75001
+7300,SULAWESI SELATAN,5. Pekerja Bebas di Pertanian,2024,Agustus,136898
+7300,SULAWESI SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Februari ,153033
+7300,SULAWESI SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Agustus,144813
+7300,SULAWESI SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,741367
+7300,SULAWESI SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,777763
+7300,SULAWESI SELATAN,Total,2024,Februari ,4477301
+7300,SULAWESI SELATAN,Total,2024,Agustus,4680928
+7400,SULAWESI TENGGARA,1. Berusaha Sendiri,2024,Februari ,316298
+7400,SULAWESI TENGGARA,1. Berusaha Sendiri,2024,Agustus,334074
+7400,SULAWESI TENGGARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,267937
+7400,SULAWESI TENGGARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,218954
+7400,SULAWESI TENGGARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,39244
+7400,SULAWESI TENGGARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,48369
+7400,SULAWESI TENGGARA,4. Buruh / Karyawan / Pegawai,2024,Februari ,428054
+7400,SULAWESI TENGGARA,4. Buruh / Karyawan / Pegawai,2024,Agustus,496475
+7400,SULAWESI TENGGARA,5. Pekerja Bebas di Pertanian,2024,Februari ,18445
+7400,SULAWESI TENGGARA,5. Pekerja Bebas di Pertanian,2024,Agustus,24919
+7400,SULAWESI TENGGARA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,30722
+7400,SULAWESI TENGGARA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,34387
+7400,SULAWESI TENGGARA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,254314
+7400,SULAWESI TENGGARA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,273711
+7400,SULAWESI TENGGARA,Total,2024,Februari ,1355014
+7400,SULAWESI TENGGARA,Total,2024,Agustus,1430889
+7500,GORONTALO,1. Berusaha Sendiri,2024,Februari ,157650
+7500,GORONTALO,1. Berusaha Sendiri,2024,Agustus,170080
+7500,GORONTALO,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,115743
+7500,GORONTALO,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,88018
+7500,GORONTALO,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,18238
+7500,GORONTALO,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,19023
+7500,GORONTALO,4. Buruh / Karyawan / Pegawai,2024,Februari ,198228
+7500,GORONTALO,4. Buruh / Karyawan / Pegawai,2024,Agustus,224702
+7500,GORONTALO,5. Pekerja Bebas di Pertanian,2024,Februari ,39157
+7500,GORONTALO,5. Pekerja Bebas di Pertanian,2024,Agustus,30868
+7500,GORONTALO,6. Pekerja Bebas di Non Pertanian,2024,Februari ,29740
+7500,GORONTALO,6. Pekerja Bebas di Non Pertanian,2024,Agustus,22343
+7500,GORONTALO,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,74707
+7500,GORONTALO,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,77150
+7500,GORONTALO,Total,2024,Februari ,633463
+7500,GORONTALO,Total,2024,Agustus,632184
+7600,SULAWESI BARAT,1. Berusaha Sendiri,2024,Februari ,177429
+7600,SULAWESI BARAT,1. Berusaha Sendiri,2024,Agustus,170250
+7600,SULAWESI BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,141932
+7600,SULAWESI BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,167485
+7600,SULAWESI BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,28202
+7600,SULAWESI BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,13908
+7600,SULAWESI BARAT,4. Buruh / Karyawan / Pegawai,2024,Februari ,204641
+7600,SULAWESI BARAT,4. Buruh / Karyawan / Pegawai,2024,Agustus,197587
+7600,SULAWESI BARAT,5. Pekerja Bebas di Pertanian,2024,Februari ,37559
+7600,SULAWESI BARAT,5. Pekerja Bebas di Pertanian,2024,Agustus,32495
+7600,SULAWESI BARAT,6. Pekerja Bebas di Non Pertanian,2024,Februari ,12599
+7600,SULAWESI BARAT,6. Pekerja Bebas di Non Pertanian,2024,Agustus,23517
+7600,SULAWESI BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,147542
+7600,SULAWESI BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,152265
+7600,SULAWESI BARAT,Total,2024,Februari ,749904
+7600,SULAWESI BARAT,Total,2024,Agustus,757507
+8100,MALUKU,1. Berusaha Sendiri,2024,Februari ,272061
+8100,MALUKU,1. Berusaha Sendiri,2024,Agustus,278567
+8100,MALUKU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,119439
+8100,MALUKU,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,125301
+8100,MALUKU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,26675
+8100,MALUKU,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,17086
+8100,MALUKU,4. Buruh / Karyawan / Pegawai,2024,Februari ,290718
+8100,MALUKU,4. Buruh / Karyawan / Pegawai,2024,Agustus,300290
+8100,MALUKU,5. Pekerja Bebas di Pertanian,2024,Februari ,14868
+8100,MALUKU,5. Pekerja Bebas di Pertanian,2024,Agustus,13144
+8100,MALUKU,6. Pekerja Bebas di Non Pertanian,2024,Februari ,21270
+8100,MALUKU,6. Pekerja Bebas di Non Pertanian,2024,Agustus,16453
+8100,MALUKU,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,147516
+8100,MALUKU,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,156872
+8100,MALUKU,Total,2024,Februari ,892547
+8100,MALUKU,Total,2024,Agustus,907713
+8200,MALUKU UTARA,1. Berusaha Sendiri,2024,Februari ,149136
+8200,MALUKU UTARA,1. Berusaha Sendiri,2024,Agustus,184027
+8200,MALUKU UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,116132
+8200,MALUKU UTARA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,103214
+8200,MALUKU UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,15907
+8200,MALUKU UTARA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,18158
+8200,MALUKU UTARA,4. Buruh / Karyawan / Pegawai,2024,Februari ,222341
+8200,MALUKU UTARA,4. Buruh / Karyawan / Pegawai,2024,Agustus,214964
+8200,MALUKU UTARA,5. Pekerja Bebas di Pertanian,2024,Februari ,4868
+8200,MALUKU UTARA,5. Pekerja Bebas di Pertanian,2024,Agustus,8744
+8200,MALUKU UTARA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,17509
+8200,MALUKU UTARA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,22791
+8200,MALUKU UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,116154
+8200,MALUKU UTARA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,109590
+8200,MALUKU UTARA,Total,2024,Februari ,642047
+8200,MALUKU UTARA,Total,2024,Agustus,661488
+9100,PAPUA BARAT,1. Berusaha Sendiri,2024,Februari ,90088
+9100,PAPUA BARAT,1. Berusaha Sendiri,2024,Agustus,69555
+9100,PAPUA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,41503
+9100,PAPUA BARAT,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,47174
+9100,PAPUA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,4168
+9100,PAPUA BARAT,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,4360
+9100,PAPUA BARAT,4. Buruh / Karyawan / Pegawai,2024,Februari ,93294
+9100,PAPUA BARAT,4. Buruh / Karyawan / Pegawai,2024,Agustus,103357
+9100,PAPUA BARAT,5. Pekerja Bebas di Pertanian,2024,Februari ,452
+9100,PAPUA BARAT,5. Pekerja Bebas di Pertanian,2024,Agustus,2103
+9100,PAPUA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Februari ,3984
+9100,PAPUA BARAT,6. Pekerja Bebas di Non Pertanian,2024,Agustus,7390
+9100,PAPUA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,70978
+9100,PAPUA BARAT,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,56138
+9100,PAPUA BARAT,Total,2024,Februari ,304467
+9100,PAPUA BARAT,Total,2024,Agustus,290077
+9200,PAPUA BARAT DAYA,1. Berusaha Sendiri,2024,Februari ,87709
+9200,PAPUA BARAT DAYA,1. Berusaha Sendiri,2024,Agustus,84623
+9200,PAPUA BARAT DAYA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,21707
+9200,PAPUA BARAT DAYA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,31725
+9200,PAPUA BARAT DAYA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,4618
+9200,PAPUA BARAT DAYA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,4275
+9200,PAPUA BARAT DAYA,4. Buruh / Karyawan / Pegawai,2024,Februari ,131195
+9200,PAPUA BARAT DAYA,4. Buruh / Karyawan / Pegawai,2024,Agustus,123888
+9200,PAPUA BARAT DAYA,5. Pekerja Bebas di Pertanian,2024,Februari ,494
+9200,PAPUA BARAT DAYA,5. Pekerja Bebas di Pertanian,2024,Agustus,1303
+9200,PAPUA BARAT DAYA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,147
+9200,PAPUA BARAT DAYA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,6965
+9200,PAPUA BARAT DAYA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,49406
+9200,PAPUA BARAT DAYA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,44966
+9200,PAPUA BARAT DAYA,Total,2024,Februari ,295276
+9200,PAPUA BARAT DAYA,Total,2024,Agustus,297745
+9400,PAPUA,1. Berusaha Sendiri,2024,Februari ,142855
+9400,PAPUA,1. Berusaha Sendiri,2024,Agustus,144019
+9400,PAPUA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,70687
+9400,PAPUA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,46158
+9400,PAPUA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,8179
+9400,PAPUA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,6023
+9400,PAPUA,4. Buruh / Karyawan / Pegawai,2024,Februari ,172520
+9400,PAPUA,4. Buruh / Karyawan / Pegawai,2024,Agustus,189987
+9400,PAPUA,5. Pekerja Bebas di Pertanian,2024,Februari ,2704
+9400,PAPUA,5. Pekerja Bebas di Pertanian,2024,Agustus,963
+9400,PAPUA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,8092
+9400,PAPUA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,6693
+9400,PAPUA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,75344
+9400,PAPUA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,64949
+9400,PAPUA,Total,2024,Februari ,480381
+9400,PAPUA,Total,2024,Agustus,458792
+9500,PAPUA SELATAN,1. Berusaha Sendiri,2024,Februari ,69788
+9500,PAPUA SELATAN,1. Berusaha Sendiri,2024,Agustus,73630
+9500,PAPUA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,24702
+9500,PAPUA SELATAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,31160
+9500,PAPUA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,3134
+9500,PAPUA SELATAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,3281
+9500,PAPUA SELATAN,4. Buruh / Karyawan / Pegawai,2024,Februari ,80154
+9500,PAPUA SELATAN,4. Buruh / Karyawan / Pegawai,2024,Agustus,71860
+9500,PAPUA SELATAN,5. Pekerja Bebas di Pertanian,2024,Februari ,720
+9500,PAPUA SELATAN,5. Pekerja Bebas di Pertanian,2024,Agustus,1193
+9500,PAPUA SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Februari ,2566
+9500,PAPUA SELATAN,6. Pekerja Bebas di Non Pertanian,2024,Agustus,3556
+9500,PAPUA SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,29225
+9500,PAPUA SELATAN,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,41906
+9500,PAPUA SELATAN,Total,2024,Februari ,210289
+9500,PAPUA SELATAN,Total,2024,Agustus,226586
+9600,PAPUA TENGAH,1. Berusaha Sendiri,2024,Februari ,158547
+9600,PAPUA TENGAH,1. Berusaha Sendiri,2024,Agustus,257024
+9600,PAPUA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,249133
+9600,PAPUA TENGAH,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,178744
+9600,PAPUA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,9069
+9600,PAPUA TENGAH,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,3441
+9600,PAPUA TENGAH,4. Buruh / Karyawan / Pegawai,2024,Februari ,87622
+9600,PAPUA TENGAH,4. Buruh / Karyawan / Pegawai,2024,Agustus,97645
+9600,PAPUA TENGAH,5. Pekerja Bebas di Pertanian,2024,Februari ,3551
+9600,PAPUA TENGAH,5. Pekerja Bebas di Pertanian,2024,Agustus,2924
+9600,PAPUA TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Februari ,12140
+9600,PAPUA TENGAH,6. Pekerja Bebas di Non Pertanian,2024,Agustus,10187
+9600,PAPUA TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,299251
+9600,PAPUA TENGAH,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,228631
+9600,PAPUA TENGAH,Total,2024,Februari ,819313
+9600,PAPUA TENGAH,Total,2024,Agustus,778596
+9700,PAPUA PEGUNUNGAN,1. Berusaha Sendiri,2024,Februari ,81193
+9700,PAPUA PEGUNUNGAN,1. Berusaha Sendiri,2024,Agustus,78836
+9700,PAPUA PEGUNUNGAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,378415
+9700,PAPUA PEGUNUNGAN,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,373522
+9700,PAPUA PEGUNUNGAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,1141
+9700,PAPUA PEGUNUNGAN,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,2632
+9700,PAPUA PEGUNUNGAN,4. Buruh / Karyawan / Pegawai,2024,Februari ,42217
+9700,PAPUA PEGUNUNGAN,4. Buruh / Karyawan / Pegawai,2024,Agustus,40094
+9700,PAPUA PEGUNUNGAN,5. Pekerja Bebas di Pertanian,2024,Februari ,0
+9700,PAPUA PEGUNUNGAN,5. Pekerja Bebas di Pertanian,2024,Agustus,968
+9700,PAPUA PEGUNUNGAN,6. Pekerja Bebas di Non Pertanian,2024,Februari ,140
+9700,PAPUA PEGUNUNGAN,6. Pekerja Bebas di Non Pertanian,2024,Agustus,873
+9700,PAPUA PEGUNUNGAN,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,494922
+9700,PAPUA PEGUNUNGAN,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,511493
+9700,PAPUA PEGUNUNGAN,Total,2024,Februari ,998028
+9700,PAPUA PEGUNUNGAN,Total,2024,Agustus,1008418
+9999,INDONESIA,1. Berusaha Sendiri,2024,Februari ,29108536
+9999,INDONESIA,1. Berusaha Sendiri,2024,Agustus,31504520
+9999,INDONESIA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Februari ,22441102
+9999,INDONESIA,2. Berusaha Dibantu Buruh Tidak Tetap/Pekerja Keluarga/Tidak dibayar,2024,Agustus,20007798
+9999,INDONESIA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Februari ,5006042
+9999,INDONESIA,3. Berusaha Dibantu Buruh Tetap dan Dibayar,2024,Agustus,4689077
+9999,INDONESIA,4. Buruh / Karyawan / Pegawai,2024,Februari ,53044662
+9999,INDONESIA,4. Buruh / Karyawan / Pegawai,2024,Agustus,56126721
+9999,INDONESIA,5. Pekerja Bebas di Pertanian,2024,Februari ,5492865
+9999,INDONESIA,5. Pekerja Bebas di Pertanian,2024,Agustus,5893906
+9999,INDONESIA,6. Pekerja Bebas di Non Pertanian,2024,Februari ,7044937
+9999,INDONESIA,6. Pekerja Bebas di Non Pertanian,2024,Agustus,7129655
+9999,INDONESIA,7. Pekerja Keluarga Tak Dibayar,2024,Februari ,20040902
+9999,INDONESIA,7. Pekerja Keluarga Tak Dibayar,2024,Agustus,19290327
+9999,INDONESIA,Total,2024,Februari ,142179046
+9999,INDONESIA,Total,2024,Agustus,144642004
