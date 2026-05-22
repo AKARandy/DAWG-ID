@@ -1,0 +1,15 @@
+feature,abs_shap_value,rank
+d_log_palm_oil,0.12411807456463829,1
+resilience_x_d_log_usd_idr,0.09593078789264456,2
+export_intensity_x_d_log_usd_idr,0.09107037225538965,3
+export_intensity,0.05239724851036017,4
+d_log_usd_idr,0.042761471534760245,5
+d_log_nickel,0.04080962639862251,6
+d_log_wti,0.008522727272727274,7
+d_log_tin,0.0,8
+d_log_brent,0.0,9
+d_log_coal,0.0,10
+hhi_sectoral,0.0,11
+migas_share,0.0,12
+migas_share_x_d_log_brent,0.0,13
+resilience,0.0,14

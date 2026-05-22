@@ -1,0 +1,8 @@
+{
+  "class_weight": "balanced",
+  "criterion": "entropy",
+  "max_depth": null,
+  "max_features": null,
+  "min_samples_leaf": 15,
+  "min_samples_split": 10
+}

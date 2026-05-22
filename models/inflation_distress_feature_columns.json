@@ -1,0 +1,16 @@
+[
+  "hhi_sectoral",
+  "export_intensity",
+  "migas_share",
+  "resilience",
+  "d_log_brent",
+  "d_log_usd_idr",
+  "d_log_wti",
+  "d_log_coal",
+  "d_log_palm_oil",
+  "d_log_nickel",
+  "d_log_tin",
+  "migas_share_x_d_log_brent",
+  "export_intensity_x_d_log_usd_idr",
+  "resilience_x_d_log_usd_idr"
+]

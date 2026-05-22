@@ -1,0 +1,46 @@
+|--- d_log_usd_idr <= -0.0029
+|   |--- d_log_wti <= -0.0743
+|   |   |--- class: 0
+|   |--- d_log_wti >  -0.0743
+|   |   |--- d_log_coal <= 0.0275
+|   |   |   |--- class: 0
+|   |   |--- d_log_coal >  0.0275
+|   |   |   |--- class: 0
+|--- d_log_usd_idr >  -0.0029
+|   |--- d_log_usd_idr <= 0.0086
+|   |   |--- d_log_palm_oil <= 0.0160
+|   |   |   |--- resilience_x_d_log_usd_idr <= 0.0001
+|   |   |   |   |--- resilience_x_d_log_usd_idr <= -0.0000
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- resilience_x_d_log_usd_idr >  -0.0000
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- resilience_x_d_log_usd_idr >  0.0001
+|   |   |   |   |--- class: 1
+|   |   |--- d_log_palm_oil >  0.0160
+|   |   |   |--- export_intensity <= 2.0556
+|   |   |   |   |--- class: 1
+|   |   |   |--- export_intensity >  2.0556
+|   |   |   |   |--- export_intensity <= 5.5600
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- export_intensity >  5.5600
+|   |   |   |   |   |--- class: 1
+|   |--- d_log_usd_idr >  0.0086
+|   |   |--- d_log_palm_oil <= 0.0866
+|   |   |   |--- d_log_nickel <= -0.0881
+|   |   |   |   |--- export_intensity_x_d_log_usd_idr <= 0.0643
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- export_intensity_x_d_log_usd_idr >  0.0643
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- d_log_nickel >  -0.0881
+|   |   |   |   |--- export_intensity_x_d_log_usd_idr <= 0.1054
+|   |   |   |   |   |--- export_intensity_x_d_log_usd_idr <= 0.0164
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- export_intensity_x_d_log_usd_idr >  0.0164
+|   |   |   |   |   |   |--- export_intensity <= 3.4481
+|   |   |   |   |   |   |   |--- class: 0
+|   |   |   |   |   |   |--- export_intensity >  3.4481
+|   |   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- export_intensity_x_d_log_usd_idr >  0.1054
+|   |   |   |   |   |--- class: 1
+|   |   |--- d_log_palm_oil >  0.0866
+|   |   |   |--- class: 0

@@ -1,0 +1,489 @@
+{
+  "feature_columns": [
+    "hhi_sectoral",
+    "export_intensity",
+    "migas_share",
+    "resilience",
+    "d_log_brent",
+    "d_log_usd_idr",
+    "d_log_wti",
+    "d_log_coal",
+    "d_log_palm_oil",
+    "d_log_nickel",
+    "d_log_tin",
+    "migas_share_x_d_log_brent",
+    "export_intensity_x_d_log_usd_idr",
+    "resilience_x_d_log_usd_idr"
+  ],
+  "classes": [
+    0,
+    1
+  ],
+  "nodes": [
+    {
+      "node_id": 0,
+      "feature": "d_log_usd_idr",
+      "threshold": -0.0028916681549162604,
+      "left_child": 1,
+      "right_child": 6,
+      "impurity": 1.0000000000000007,
+      "n_node_samples": 342,
+      "weighted_n_node_samples": 341.99999999999994,
+      "class_counts": [
+        0.49999999999999933,
+        0.49999999999999933
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 1,
+      "feature": "d_log_wti",
+      "threshold": -0.07426756247878075,
+      "left_child": 2,
+      "right_child": 3,
+      "impurity": 0.4580531140417367,
+      "n_node_samples": 84,
+      "weighted_n_node_samples": 60.36104151753769,
+      "class_counts": [
+        0.9034220532319391,
+        0.09657794676806065
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 2,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.8225813353575986,
+      "n_node_samples": 28,
+      "weighted_n_node_samples": 22.66025411596277,
+      "class_counts": [
+        0.7427413909520595,
+        0.2572586090479407
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 3,
+      "feature": "d_log_coal",
+      "threshold": 0.027538288850337267,
+      "left_child": 4,
+      "right_child": 5,
+      "impurity": 8.008566259537293e-16,
+      "n_node_samples": 56,
+      "weighted_n_node_samples": 37.70078740157482,
+      "class_counts": [
+        1.0,
+        0.0
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 4,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.0,
+      "n_node_samples": 28,
+      "weighted_n_node_samples": 18.850393700787397,
+      "class_counts": [
+        1.0,
+        0.0
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 5,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.0,
+      "n_node_samples": 28,
+      "weighted_n_node_samples": 18.850393700787397,
+      "class_counts": [
+        1.0,
+        0.0
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 6,
+      "feature": "d_log_usd_idr",
+      "threshold": 0.008559397887438536,
+      "left_child": 7,
+      "right_child": 18,
+      "impurity": 0.9783211113813988,
+      "n_node_samples": 258,
+      "weighted_n_node_samples": 281.63895848246193,
+      "class_counts": [
+        0.4135383278100744,
+        0.586461672189928
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 7,
+      "feature": "d_log_palm_oil",
+      "threshold": 0.016034122090786695,
+      "left_child": 8,
+      "right_child": 13,
+      "impurity": 0.8531676985719125,
+      "n_node_samples": 112,
+      "weighted_n_node_samples": 142.7091088045812,
+      "class_counts": [
+        0.2783317250991747,
+        0.7216682749008252
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 8,
+      "feature": "resilience_x_d_log_usd_idr",
+      "threshold": 7.825091597624123e-05,
+      "left_child": 9,
+      "right_child": 12,
+      "impurity": 0.998870604784175,
+      "n_node_samples": 55,
+      "weighted_n_node_samples": 56.07686113099505,
+      "class_counts": [
+        0.4802182810368343,
+        0.5197817189631644
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 9,
+      "feature": "resilience_x_d_log_usd_idr",
+      "threshold": -4.704906132246833e-05,
+      "left_child": 10,
+      "right_child": 11,
+      "impurity": 0.9018173282589994,
+      "n_node_samples": 36,
+      "weighted_n_node_samples": 30.58598783106656,
+      "class_counts": [
+        0.6823411705852926,
+        0.3176588294147074
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 10,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.9938854146846853,
+      "n_node_samples": 17,
+      "weighted_n_node_samples": 17.7946492483894,
+      "class_counts": [
+        0.4539982803095443,
+        0.5460017196904559
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 11,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": -3.203426503814918e-16,
+      "n_node_samples": 19,
+      "weighted_n_node_samples": 12.791338582677161,
+      "class_counts": [
+        1.0,
+        0.0
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 12,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.7911862182232163,
+      "n_node_samples": 19,
+      "weighted_n_node_samples": 25.49087329992841,
+      "class_counts": [
+        0.23769507803121254,
+        0.7623049219687877
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 13,
+      "feature": "export_intensity",
+      "threshold": 2.0556395053863525,
+      "left_child": 14,
+      "right_child": 15,
+      "impurity": 0.6039305954280308,
+      "n_node_samples": 57,
+      "weighted_n_node_samples": 86.63224767358626,
+      "class_counts": [
+        0.14765100671140935,
+        0.8523489932885904
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 14,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.9266903683679613,
+      "n_node_samples": 20,
+      "weighted_n_node_samples": 23.624194702934854,
+      "class_counts": [
+        0.34196891191709844,
+        0.6580310880829017
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 15,
+      "feature": "export_intensity",
+      "threshold": 5.559971809387207,
+      "left_child": 16,
+      "right_child": 17,
+      "impurity": 0.38356296640388227,
+      "n_node_samples": 37,
+      "weighted_n_node_samples": 63.00805297065143,
+      "class_counts": [
+        0.07479358912093245,
+        0.9252064108790673
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 16,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.0,
+      "n_node_samples": 16,
+      "weighted_n_node_samples": 31.09090909090908,
+      "class_counts": [
+        0.0,
+        1.0
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 17,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.6039305954280302,
+      "n_node_samples": 21,
+      "weighted_n_node_samples": 31.91714387974229,
+      "class_counts": [
+        0.14765100671140946,
+        0.8523489932885907
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 18,
+      "feature": "d_log_palm_oil",
+      "threshold": 0.08655760809779167,
+      "left_child": 19,
+      "right_child": 30,
+      "impurity": 0.9920558908592099,
+      "n_node_samples": 146,
+      "weighted_n_node_samples": 138.92984967788126,
+      "class_counts": [
+        0.5524229074889878,
+        0.4475770925110131
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 19,
+      "feature": "d_log_nickel",
+      "threshold": -0.08810544013977051,
+      "left_child": 20,
+      "right_child": 23,
+      "impurity": 0.9999530123168454,
+      "n_node_samples": 118,
+      "weighted_n_node_samples": 117.53954903364364,
+      "class_counts": [
+        0.5040354074459782,
+        0.49596459255402203
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 20,
+      "feature": "export_intensity_x_d_log_usd_idr",
+      "threshold": 0.06430714763700962,
+      "left_child": 21,
+      "right_child": 22,
+      "impurity": 0.799714599398776,
+      "n_node_samples": 30,
+      "weighted_n_node_samples": 24.006710808876154,
+      "class_counts": [
+        0.7571701720841302,
+        0.24282982791587007
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 21,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.9810521349573426,
+      "n_node_samples": 15,
+      "weighted_n_node_samples": 13.908285612025768,
+      "class_counts": [
+        0.5808580858085808,
+        0.41914191419141916
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 22,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": -6.406853007629837e-16,
+      "n_node_samples": 15,
+      "weighted_n_node_samples": 10.09842519685039,
+      "class_counts": [
+        1.0,
+        0.0
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 23,
+      "feature": "export_intensity_x_d_log_usd_idr",
+      "threshold": 0.10536568984389305,
+      "left_child": 24,
+      "right_child": 29,
+      "impurity": 0.9892594020181451,
+      "n_node_samples": 88,
+      "weighted_n_node_samples": 93.53283822476739,
+      "class_counts": [
+        0.439064289219696,
+        0.5609357107803042
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 24,
+      "feature": "export_intensity_x_d_log_usd_idr",
+      "threshold": 0.01635675225406885,
+      "left_child": 25,
+      "right_child": 26,
+      "impurity": 0.9786185000111625,
+      "n_node_samples": 61,
+      "weighted_n_node_samples": 56.30637079455984,
+      "class_counts": [
+        0.5858695652173905,
+        0.4141304347826081
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 25,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.9761326744259848,
+      "n_node_samples": 21,
+      "weighted_n_node_samples": 23.02746957766642,
+      "class_counts": [
+        0.4093023255813954,
+        0.5906976744186049
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 26,
+      "feature": "export_intensity",
+      "threshold": 3.4480799436569214,
+      "left_child": 27,
+      "right_child": 28,
+      "impurity": 0.8712320280830006,
+      "n_node_samples": 40,
+      "weighted_n_node_samples": 33.27890121689333,
+      "class_counts": [
+        0.7080459770114943,
+        0.2919540229885058
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 27,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.0,
+      "n_node_samples": 22,
+      "weighted_n_node_samples": 14.811023622047239,
+      "class_counts": [
+        1.0,
+        0.0
+      ],
+      "predicted_class": 0
+    },
+    {
+      "node_id": 28,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.9980338870259086,
+      "n_node_samples": 18,
+      "weighted_n_node_samples": 18.467877594846097,
+      "class_counts": [
+        0.4739022369511184,
+        0.5260977630488816
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 29,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.7546813086143573,
+      "n_node_samples": 27,
+      "weighted_n_node_samples": 37.226467430207585,
+      "class_counts": [
+        0.2170160295930949,
+        0.7829839704069048
+      ],
+      "predicted_class": 1
+    },
+    {
+      "node_id": 30,
+      "feature": null,
+      "threshold": null,
+      "left_child": -1,
+      "right_child": -1,
+      "impurity": 0.6837561420030336,
+      "n_node_samples": 28,
+      "weighted_n_node_samples": 21.390300644237644,
+      "class_counts": [
+        0.8183118741058656,
+        0.18168812589413455
+      ],
+      "predicted_class": 0
+    }
+  ]
+}
