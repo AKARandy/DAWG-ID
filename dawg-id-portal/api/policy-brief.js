@@ -37,13 +37,14 @@ Tulis policy brief dalam Bahasa Indonesia (maks 300 kata) yang mencakup:
 Gunakan bahasa formal namun mudah dipahami oleh pembuat kebijakan daerah.`;
 
   try {
-    const response = await fetch(`${endpoint}/chat/completions`, {
+    const response = await fetch(`${endpoint}/openai/v1/chat/completions`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`,
+        'api-key': apiKey,
       },
       body: JSON.stringify({
+        model: process.env.DEPLOYMENT_NAME || 'gpt-4.1-mini',
         messages: [{ role: 'user', content: prompt }],
         max_tokens: 1024,
         temperature: 0.7,

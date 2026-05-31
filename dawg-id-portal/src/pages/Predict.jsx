@@ -1,4 +1,16 @@
 import { useState } from 'react';
+import { vulnerabilityData } from '../data/vulnerabilityData';
+
+// Default shock values (sample konvergensi guncangan global 2026)
+const DEFAULT_SHOCKS = {
+  d_log_brent: 0.04,
+  d_log_usd_idr: 0.02,
+  d_log_wti: 0.035,
+  d_log_coal: 0.01,
+  d_log_palm_oil: 0.005,
+  d_log_nickel: -0.02,
+  d_log_tin: 0.0,
+};
 
 const FEATURE_FIELDS = [
   { key: 'hhi_sectoral', label: 'HHI Sektoral', desc: 'Konsentrasi ekonomi (0-1)', placeholder: '0.290' },
@@ -21,9 +33,12 @@ export default function Predict() {
   const [formData, setFormData] = useState(
     Object.fromEntries(FEATURE_FIELDS.map(f => [f.key, '']))
   );
+  const [selectedProvince, setSelectedProvince] = useState('');
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+
+  const provinces = [...new Set(vulnerabilityData.map(d => d.province))].sort();
 
   function handleChange(key, value) {
     setFormData(prev => ({ ...prev, [key]: value }));
@@ -103,22 +118,30 @@ Jawab HANYA dalam format JSON berikut (tanpa markdown):
     }
   }
 
-  function fillExample() {
+  function fillFromProvince(provinceName) {
+    setSelectedProvince(provinceName);
+    if (!provinceName) return;
+
+    const data = vulnerabilityData.find(d => d.province === provinceName && d.scenario === 'Base');
+    if (!data) return;
+
+    const { d_log_brent, d_log_usd_idr } = DEFAULT_SHOCKS;
+
     setFormData({
-      hhi_sectoral: '0.303',
-      export_intensity: '14.83',
-      migas_share: '0.098',
-      resilience: '0.63',
-      d_log_brent: '0.04',
-      d_log_usd_idr: '0.02',
-      d_log_wti: '0.035',
-      d_log_coal: '0.01',
-      d_log_palm_oil: '0.005',
-      d_log_nickel: '-0.02',
-      d_log_tin: '0.0',
-      migas_share_x_d_log_brent: '0.004',
-      export_intensity_x_d_log_usd_idr: '0.297',
-      resilience_x_d_log_usd_idr: '0.013',
+      hhi_sectoral: data.hhi.toFixed(3),
+      export_intensity: data.export_intensity.toFixed(2),
+      migas_share: data.migas_share.toFixed(3),
+      resilience: data.resilience.toFixed(2),
+      d_log_brent: DEFAULT_SHOCKS.d_log_brent.toString(),
+      d_log_usd_idr: DEFAULT_SHOCKS.d_log_usd_idr.toString(),
+      d_log_wti: DEFAULT_SHOCKS.d_log_wti.toString(),
+      d_log_coal: DEFAULT_SHOCKS.d_log_coal.toString(),
+      d_log_palm_oil: DEFAULT_SHOCKS.d_log_palm_oil.toString(),
+      d_log_nickel: DEFAULT_SHOCKS.d_log_nickel.toString(),
+      d_log_tin: DEFAULT_SHOCKS.d_log_tin.toString(),
+      migas_share_x_d_log_brent: (data.migas_share * d_log_brent).toFixed(4),
+      export_intensity_x_d_log_usd_idr: (data.export_intensity * d_log_usd_idr).toFixed(3),
+      resilience_x_d_log_usd_idr: (data.resilience * d_log_usd_idr).toFixed(3),
     });
   }
 
@@ -131,15 +154,19 @@ Jawab HANYA dalam format JSON berikut (tanpa markdown):
 
       <form onSubmit={handleSubmit}>
         <div className="card" style={{ marginBottom: 24 }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20 }}>
-            <h3 style={{ fontSize: '1rem', fontWeight: 700 }}>📊 Input Features</h3>
-            <button
-              type="button"
-              onClick={fillExample}
-              style={{ padding: '6px 14px', borderRadius: 8, border: '1px solid var(--border-accent)', background: 'transparent', color: 'var(--text-accent)', fontSize: '0.75rem', fontWeight: 600, cursor: 'pointer' }}
-            >
-              Isi Contoh (Kaltim)
-            </button>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20, gap: 16, flexWrap: 'wrap' }}>
+            <h3 style={{ fontSize: '1rem', fontWeight: 700, margin: 0 }}>📊 Input Features</h3>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              <label style={{ fontSize: '0.7rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: 0.5 }}>Isi Contoh:</label>
+              <select
+                value={selectedProvince}
+                onChange={e => fillFromProvince(e.target.value)}
+                style={{ padding: '6px 12px', borderRadius: 8, border: '1px solid var(--border-accent)', background: 'transparent', color: 'var(--text-accent)', fontSize: '0.75rem', fontWeight: 600, cursor: 'pointer', outline: 'none', minWidth: 200 }}
+              >
+                <option value="">— Pilih Provinsi —</option>
+                {provinces.map(p => <option key={p} value={p}>{p}</option>)}
+              </select>
+            </div>
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))', gap: 12 }}>

@@ -57,20 +57,35 @@ Tulis policy brief dalam Bahasa Indonesia (maks 300 kata) yang mencakup:
 Gunakan bahasa formal namun mudah dipahami oleh pembuat kebijakan daerah.`;
 
     try {
-      const res = await fetch('/api/policy-brief', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ province: provinceData, scenario }),
-      });
+      let content;
+      const isDev = import.meta.env.DEV;
 
-      const contentType = res.headers.get('content-type') || '';
-      if (!contentType.includes('application/json')) {
-        const text = await res.text();
-        throw new Error(`API error (${res.status}): ${text.slice(0, 200)}`);
+      if (isDev) {
+        // Local dev: langsung call Azure OpenAI
+        const endpoint = import.meta.env.VITE_FOUNDRY_ENDPOINT;
+        const apiKey = import.meta.env.VITE_FOUNDRY_API_KEY;
+        const deploymentName = import.meta.env.VITE_DEPLOYMENT_NAME || 'gpt-4.1-mini';
+        if (!endpoint || !apiKey) throw new Error('Set VITE_FOUNDRY_ENDPOINT dan VITE_FOUNDRY_API_KEY di file .env');
+
+        const res = await fetch(`${endpoint}/chat/completions`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'api-key': apiKey },
+          body: JSON.stringify({ model: deploymentName, messages: [{ role: 'user', content: prompt }], max_tokens: 1024, temperature: 0.7 }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error?.message || JSON.stringify(data.error) || 'Gagal generate');
+        content = data.choices?.[0]?.message?.content || 'No response generated.';
+      } else {
+        // Production (Vercel): pakai serverless function
+        const res = await fetch('/api/policy-brief', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ province: provinceData, scenario }),
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || 'Gagal generate policy brief');
+        content = data.brief || 'No response generated.';
       }
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error || 'Gagal generate policy brief');
-      const content = data.brief || data.choices?.[0]?.message?.content || 'No response generated.';
       setBrief(content);
       const newCount = generateCount + 1;
       localStorage.setItem(STORAGE_KEY, String(newCount));
