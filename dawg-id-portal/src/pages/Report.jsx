@@ -299,7 +299,6 @@ export default function Report() {
                 </td>
                 <td style={{ color: "var(--text-accent)" }}>{r.svc}</td>
                 <td>{r.fn}</td>
-                <td>{r.status} Planned</td>
               </tr>
             ))}
           </tbody>
