@@ -1,0 +1,11 @@
+name: inflation-distress-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - scikit-learn==1.4.2
+      - joblib==1.3.2
+      - inference-schema
