@@ -1,12 +1,22 @@
 import { useState } from 'react';
 import { vulnerabilityData, SCENARIOS, getByScenario } from '../data/vulnerabilityData';
 
+const MAX_GENERATES = 3;
+const STORAGE_KEY = 'policyBriefGenerateCount';
+
+function getGenerateCount() {
+  return parseInt(localStorage.getItem(STORAGE_KEY) || '0', 10);
+}
+
 export default function PolicyBriefs() {
   const [scenario, setScenario] = useState('Adverse');
   const [selectedProvince, setSelectedProvince] = useState('');
   const [brief, setBrief] = useState('');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const [generateCount, setGenerateCount] = useState(getGenerateCount);
+
+  const limitReached = generateCount >= MAX_GENERATES;
 
   const provinces = [...new Set(vulnerabilityData.map(d => d.province))].sort();
   const provinceData = vulnerabilityData.find(
@@ -20,7 +30,7 @@ export default function PolicyBriefs() {
   }
 
   async function generateBrief() {
-    if (!provinceData) return;
+    if (!provinceData || limitReached) return;
     setLoading(true);
     setError('');
     setBrief('');
@@ -47,35 +57,11 @@ Tulis policy brief dalam Bahasa Indonesia (maks 300 kata) yang mencakup:
 Gunakan bahasa formal namun mudah dipahami oleh pembuat kebijakan daerah.`;
 
     try {
-      // === LOCAL DEV: langsung call Azure OpenAI dari frontend ===
-      const endpoint = import.meta.env.VITE_FOUNDRY_ENDPOINT;
-      const apiKey = import.meta.env.VITE_FOUNDRY_API_KEY;
-      const deploymentName = import.meta.env.VITE_DEPLOYMENT_NAME || 'gpt-4.1-mini';
-
-      if (!endpoint || !apiKey) {
-        throw new Error('Set VITE_FOUNDRY_ENDPOINT dan VITE_FOUNDRY_API_KEY di file .env');
-      }
-
-      const res = await fetch(`${endpoint}/chat/completions`, {
+      const res = await fetch('/api/policy-brief', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'api-key': apiKey,
-        },
-        body: JSON.stringify({
-          model: deploymentName,
-          messages: [{ role: 'user', content: prompt }],
-          max_tokens: 1024,
-          temperature: 0.7,
-        }),
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ province: provinceData, scenario }),
       });
-
-      // === PRODUCTION (Vercel): uncomment ini dan comment blok di atas ===
-      // const res = await fetch('/api/policy-brief', {
-      //   method: 'POST',
-      //   headers: { 'Content-Type': 'application/json' },
-      //   body: JSON.stringify({ province: provinceData, scenario }),
-      // });
 
       const contentType = res.headers.get('content-type') || '';
       if (!contentType.includes('application/json')) {
@@ -83,9 +69,12 @@ Gunakan bahasa formal namun mudah dipahami oleh pembuat kebijakan daerah.`;
         throw new Error(`API error (${res.status}): ${text.slice(0, 200)}`);
       }
       const data = await res.json();
-      if (!res.ok) throw new Error(data.error?.message || JSON.stringify(data.error) || 'Gagal generate policy brief');
-      const content = data.choices?.[0]?.message?.content || 'No response generated.';
+      if (!res.ok) throw new Error(data.error || 'Gagal generate policy brief');
+      const content = data.brief || data.choices?.[0]?.message?.content || 'No response generated.';
       setBrief(content);
+      const newCount = generateCount + 1;
+      localStorage.setItem(STORAGE_KEY, String(newCount));
+      setGenerateCount(newCount);
     } catch (err) {
       setError(err.message);
     } finally {
@@ -186,12 +175,22 @@ Gunakan bahasa formal namun mudah dipahami oleh pembuat kebijakan daerah.`;
           </div>
           <button
             onClick={generateBrief}
-            disabled={!selectedProvince || loading}
-            style={{ padding: '12px 28px', borderRadius: 10, border: 'none', background: selectedProvince && !loading ? 'var(--accent-gradient)' : 'var(--border-subtle)', color: '#fff', fontSize: '0.85rem', fontWeight: 700, cursor: selectedProvince && !loading ? 'pointer' : 'not-allowed', transition: 'all 0.2s', boxShadow: selectedProvince && !loading ? '0 4px 15px rgba(249,115,22,0.3)' : 'none' }}
+            disabled={!selectedProvince || loading || limitReached}
+            style={{ padding: '12px 28px', borderRadius: 10, border: 'none', background: selectedProvince && !loading && !limitReached ? 'var(--accent-gradient)' : 'var(--border-subtle)', color: '#fff', fontSize: '0.85rem', fontWeight: 700, cursor: selectedProvince && !loading && !limitReached ? 'pointer' : 'not-allowed', transition: 'all 0.2s', boxShadow: selectedProvince && !loading && !limitReached ? '0 4px 15px rgba(249,115,22,0.3)' : 'none' }}
           >
-            {loading ? '⏳ Generating...' : '🤖 Generate Brief'}
+            {loading ? '⏳ Generating...' : limitReached ? '🚫 Limit Tercapai' : '🤖 Generate Brief'}
           </button>
         </div>
+        {limitReached && (
+          <p style={{ marginTop: 12, fontSize: '0.75rem', color: '#ef4444', fontWeight: 600 }}>
+            ⚠️ Anda telah mencapai batas maksimal {MAX_GENERATES}x generate policy brief.
+          </p>
+        )}
+        {!limitReached && (
+          <p style={{ marginTop: 12, fontSize: '0.7rem', color: 'var(--text-muted)' }}>
+            Sisa generate: {MAX_GENERATES - generateCount}/{MAX_GENERATES}
+          </p>
+        )}
       </div>
 
       {/* Province Profile Card */}
