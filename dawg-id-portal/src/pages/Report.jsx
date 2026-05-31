@@ -131,8 +131,8 @@ export default function Report() {
           <div className="step-content">
             <h4>Insight Generation</h4>
             <p>
-              Azure OpenAI GPT-4o untuk menghasilkan policy brief per provinsi
-              dalam Bahasa Indonesia.
+              Azure OpenAI GPT-4.1 mini untuk menghasilkan policy brief per
+              provinsi dalam Bahasa Indonesia.
             </p>
           </div>
         </div>
@@ -273,7 +273,7 @@ export default function Report() {
               },
               {
                 comp: "Insight Gen",
-                svc: "Azure OpenAI (GPT-4o)",
+                svc: "Azure OpenAI (GPT-4.1 mini)",
                 fn: "Policy brief per provinsi",
               },
               {
