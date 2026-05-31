@@ -4,14 +4,16 @@ import Home from './pages/Home';
 import Dashboard from './pages/Dashboard';
 import Dataset from './pages/Dataset';
 import PolicyBriefs from './pages/PolicyBriefs';
+import Predict from './pages/Predict';
 import Report from './pages/Report';
 
 const NAV_ITEMS = [
   { to: '/',          icon: '🏠', label: 'Beranda' },
   { to: '/dashboard', icon: '🗺️', label: 'Dashboard', badge: null },
   { to: '/dataset',   icon: '📊', label: 'Dataset' },
-  { to: '/policy',    icon: '📋', label: 'Policy Briefs', badge: 'Soon' },
-  { to: '/report',    icon: '📄', label: 'Laporan Teknis', badge: 'Soon' },
+  { to: '/predict',   icon: '🤖', label: 'Predict' },
+  { to: '/policy',    icon: '📋', label: 'Policy Briefs' },
+  { to: '/report',    icon: '📄', label: 'Laporan Teknis' },
 ];
 
 function Sidebar({ isOpen, onClose }) {
@@ -38,7 +40,7 @@ function Sidebar({ isOpen, onClose }) {
       </nav>
       <div className="sidebar-footer">
         <div>DAWG-ID v0.1 — Prototype</div>
-        <div style={{ marginTop: 4 }}>© 2026 Project Hormuz</div>
+        <div style={{ marginTop: 4 }}>© 2026 DAWG-ID</div>
       </div>
     </aside>
   );
@@ -70,6 +72,7 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/dataset" element={<Dataset />} />
+            <Route path="/predict" element={<Predict />} />
             <Route path="/policy" element={<PolicyBriefs />} />
             <Route path="/report" element={<Report />} />
           </Routes>
