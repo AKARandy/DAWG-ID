@@ -10,6 +10,27 @@ Portal ini menyatukan deliverables proyek termasuk:
 - AI-Generated Policy Briefs (Tahap Pengembangan)
 - Laporan Teknis Metodologi
 
+## Live portal
+
+Portal yang di-deploy tersedia di: https://akarandy.github.io/DAWG-ID/
+
+## Screenshots
+
+### Home (`/#/`)
+
+![Home](docs/screenshots/home.png)
+_Landing page dengan deskripsi skenario guncangan makro 2026, kartu ringkasan (38 provinsi, 3 skenario), tabel Top 10 provinsi paling rentan, dan tabel parameter skenario._
+
+### Dashboard (`/#/dashboard`)
+
+![Dashboard](docs/screenshots/dashboard.png)
+_Halaman Interactive Dashboard dengan pemilih skenario (Base/Adverse/Severe), kartu statistik, peta choropleth kerentanan Indonesia, dan tabel peringkat Top 10 provinsi._
+
+### Predict (`/#/predict`)
+
+![Predict](docs/screenshots/predict.png)
+_Halaman Inflation Distress Prediction dengan formulir input fitur (pemilih provinsi dan parameter skenario) serta kartu informasi metrik model Decision Tree._
+
 ## 🚀 Prasyarat Sistem
 
 Sebelum menjalankan aplikasi ini, pastikan sistem Anda telah menginstal:
